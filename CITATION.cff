@@ -8,6 +8,16 @@ authors:
   - family-names: "Singh"
     given-names: "Rajshree"
     affiliation: "Department of Computer Application, Jaypee Institute of Information Technology, Noida, India"
+references:
+  - type: dataset
+    title: "Compressed Biogas (CBG) plants in India: plant-level features, model results and gas-grid siting scores"
+    authors:
+      - family-names: "Singh"
+        given-names: "Rajshree"
+    version: "1.0"
+    doi: "10.5281/zenodo.23588147"
+    publisher:
+      name: "Zenodo"
 repository-code: "https://github.com/rajshree-singh/cbg-siting-india"
 keywords:
   - compressed biogas

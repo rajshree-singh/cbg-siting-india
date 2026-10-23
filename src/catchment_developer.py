@@ -15,7 +15,6 @@ from config import *
 import pandas as pd, numpy as np, geopandas as gpd, glob
 import geo_match as G
 G.g['ks'] = G.g.ST_NM.map(G.norm).replace(G.STATE_ALIAS); G.g['kd'] = G.g.DISTRICT.map(G.norm)
-RPR = {'Rice': 1.5, 'Wheat': 1.5, 'Maize': 2.0, 'Sugarcane': 0.4, 'Bajra': 2.0, 'Jowar': 1.7, 'Cotton': 3.8}  # residue-to-product ratios, as in 02_crop_residue.py
 EQ = 'EPSG:7755'  # India NSF LCC, metres
 poly = G.g[['censuscode', 'DISTRICT', 'ST_NM', 'ks', 'geometry']].to_crs(EQ)
 poly['area_km2'] = poly.area / 1e6

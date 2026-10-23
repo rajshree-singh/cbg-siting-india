@@ -1,5 +1,5 @@
 """Step 2: district crop residue (gross) from UPAG APY data, joined to CBG plants by state+district name.
-Gross residue = 3-year average production (2022-23 to 2024-25) x residue-to-product ratio (RPR)."""
+Gross residue = 3-year average production (2022-23 to 2024-25) x residue-to-product ratio (RPR, config.RPR_SCENARIOS)."""
 import os, sys
 try:
     _HERE = os.path.dirname(os.path.abspath(__file__))
@@ -8,7 +8,6 @@ except NameError:  # interactive session (e.g. Jupyter): run from the repository
 sys.path.insert(0, _HERE)
 from config import *
 import pandas as pd, numpy as np, re, difflib
-RPR={'Rice':1.5,'Wheat':1.5,'Maize':2.0,'Sugarcane':0.4,'Bajra':2.0,'Jowar':1.7,'Cotton':3.8}   # sugarcane: trash and tops per tonne of cane
 YEARS=['2022-2023','2023-2024','2024-2025']
 u=pd.read_csv(CROP)
 u=u[u.year.isin(YEARS)&u.crop_name.isin(RPR)]

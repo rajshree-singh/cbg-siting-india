@@ -3,6 +3,8 @@
 Machine-learning analysis of what distinguishes operational from not-yet-started Compressed Biogas (CBG) plants in India,
 and a gas-grid siting score for new plants.
 
+Dataset and results: Zenodo, https://doi.org/10.5281/zenodo.23588147
+
 ## Overview
 Of the 776 CBG plants registered on the GOBARdhan portal (Ministry of Petroleum and Natural Gas) on 22 October 2026,
 208 were operational, 241 under construction and 327 not yet started. The analysis relates plant status to:
@@ -17,16 +19,19 @@ explained with SHAP. A 15-km grid within 75 km of a tap-off is then scored for a
 points are ranked.
 
 ## Results
-| Model (5-fold CV grouped by state) | AUC |
+| Model (5-fold CV grouped by state) | AUC, random forest / XGBoost |
 |---|---|
-| Random forest / XGBoost, all factors | 0.87 / 0.86 |
-| Same, excluding Reliance plants | 0.84 / 0.85 |
-| All factors except developer | 0.81 / 0.82 |
-| Location factors only | 0.58 / 0.57 |
+| All factors | 0.86 / 0.86 (95% CI 0.82–0.89) |
+| All factors, excluding Reliance plants | 0.84 / 0.85 |
+| All factors except developer | 0.80 / 0.82 |
+| Location factors only | 0.58 / 0.56 |
 | Equal-weight multi-criteria score of location factors | 0.58 |
 
-Feedstock category, plant capacity and developer account for most of the predictive power; location factors add a
-smaller contribution. The siting score separates operational from planned plants with an out-of-state AUC of 0.59.
+AUC values are means over 20 random fold assignments; confidence intervals are bootstrap 95% intervals.
+Feedstock category, plant capacity and developer account for most of the predictive power; location factors alone
+perform no better than an equal-weight multi-criteria score. Results are stable under low and high residue-to-product
+ratios and dung rates (AUC 0.86–0.87; SHAP rank correlation with the base case ≥ 0.99). The siting score separates
+operational from planned plants with an out-of-state AUC of 0.59.
 
 ## Repository structure
 ```
@@ -52,19 +57,20 @@ outputs/              Created by the scripts
 | `06_ml_model_v2.py` | Model v2 and SHAP |
 | `07_siting_map.py` | Grid scoring, ranked tap-off points, map |
 | `07b_map_check.py` | Out-of-state validation of the siting score |
+| `08_robustness.py` | Repeated cross-validation, bootstrap intervals, parameter sensitivity, capacity analysis |
 
 ## Reproduce
 ```
 pip install -r requirements.txt
 python run_all.py
 ```
-Runs in a few minutes on a laptop; requires git for the boundary download.
+Steps 00–07 run in a few minutes on a laptop; step 08 reruns the analysis four times and takes about 10 minutes. Requires git for the boundary download.
 
 ## Parameters
 | Parameter | Value |
 |---|---|
-| Residue-to-product ratio | rice 1.5, wheat 1.5, maize 2.0, sugarcane 0.4, bajra 2.0, jowar 1.7, cotton 3.8 |
-| Wet dung | cattle 10 kg/day, buffalo 15 kg/day |
+| Residue-to-product ratio | rice 1.5, wheat 1.5, maize 2.0, sugarcane 0.4, bajra 2.0, jowar 1.7, cotton 3.8 (low and high scenarios in `src/config.py`) |
+| Wet dung | cattle 10 kg/day, buffalo 15 kg/day (low 5/12, high 15/18) |
 | Catchment radius | 20 km, area-weighted from district totals |
 | Connection radius | 75 km from a tap-off |
 | Siting reference plant | 10 TPD, mixed feedstock, first-time developer (sensitivity: 20 TPD, crop residue) |
@@ -82,4 +88,4 @@ for analysis only and do not represent official international boundaries.
 Code: MIT. Data produced by the scripts: CC BY 4.0. Source data remain under the terms of their providers (see `LICENSE-DATA.md`).
 
 ## Citation
-See `CITATION.cff`.
+See `CITATION.cff`. Dataset: Singh, R. (2026). *Compressed Biogas (CBG) plants in India: plant-level features, model results and gas-grid siting scores* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23588147

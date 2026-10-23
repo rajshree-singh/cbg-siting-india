@@ -1,5 +1,5 @@
 """Step 3: district cattle + buffalo (20th Livestock Census 2019) -> gross dung, joined to plants.
-Gross wet dung: cattle 10 kg/day, buffalo 15 kg/day; no collectability factor applied."""
+Gross wet dung = head count x daily dung rate (config.DUNG_SCENARIOS); no collectability factor applied."""
 import os, sys
 try:
     _HERE = os.path.dirname(os.path.abspath(__file__))
@@ -16,7 +16,7 @@ lc=pd.concat(frames).drop_duplicates()
 mh=pd.read_csv(LIVESTOCK_DIR/'livestock_census_2019_Maharashtra_table3_11.csv')
 print('MH districts',len(mh),'cattle sum',mh.cattle.sum(),'(report total 13992304)')
 lc=pd.concat([lc,mh])
-lc['dung_t_per_year']=(lc.cattle*10+lc.buffalo*15)*365/1000
+lc['dung_t_per_year']=(lc.cattle*DUNG_CATTLE_KG+lc.buffalo*DUNG_BUFFALO_KG)*365/1000
 lc.to_csv('district_livestock_dung_2019.csv',index=False)
 def norm(s): return re.sub(r'[^a-z]','',str(s).lower().replace('district',''))
 ALIAS={'gurgaon':'gurugram','nuh':'mewat','ahmadabad':'ahmadabad','ahmedabad':'ahmadabad','banaskantha':'banaskantha','vavtharad':'banaskantha',
