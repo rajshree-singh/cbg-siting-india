@@ -1,0 +1,777 @@
+﻿plantId,name,state,district,lat,lng,status,capacityTpd,feedstockCategory,gaId,gaName,pincode,clusterId,clusterStatus,legacyGobardhanId
+P-ABFPL1-AP-0001,P-ABFPL1-AARADHYA BIO FUEL PRIVATE LIMITED,Andhra Pradesh,Krishna,16.666699,80.871472,under_construction,12,OTHERS,5.06,Krishna District (EAAA),521111,,,AP02003223TEMP
+P-BPIWS-AP-0001,P-BPIWS-Blue Planet Integrated Waste Solutions Private Limited,Andhra Pradesh,TIRUPATI,13.6235111,79.4874639,operational,2,MIXED,10.03,"Chittoor, Kolar and Vellore Districts",517502,,,AP02001074
+P-BPIWS-AP-0002,P-BPIWS-TIRUPATI CBG Plant 50 TPD,Andhra Pradesh,Tirupati,13.623499,79.487356,operational,2,MIXED,10.03,"Chittoor, Kolar and Vellore Districts",517520,,,AP02001074
+P-CBP1PL-AP-0001,P-CBP1PL-Cleanedge Biofuels Project 1 Private Limited,Andhra Pradesh,Palnadu,16.048272,79.627289,under_construction,12,OTHERS,11.01,"Kurnool, Guntur, and Prakasam districts",522647,,,
+P-CBP2PL-AP-0001,P-CBP2PL-Cleanedge Biofuels Project 2 Private Limited,Andhra Pradesh,Sri Potti Sriramulu Nellore,15.038397,79.61739,under_construction,12,OTHERS,10.02,Sri Potti Sriramulu Nellore District,524239,,,
+P-DAPL-AP-0001,P-DAPL-DC AGROGAS PRIVATE LIMITED,Andhra Pradesh,Tirupati,14.148732,79.384525,planned,10,AGR RES,10.01,Anantapur and YSR (Kadapa) Districts,516104,,,
+P-DHPL-AP-0001,P-DHPL-DRX Green Energy,Andhra Pradesh,Tirupati,13.803581,79.795648,planned,6,MIXED,10.02,Sri Potti Sriramulu Nellore District,524129,,,
+P-EBL-AP-0001,P-EBL-Menakur,Andhra Pradesh,Tirupati,14.041739,80.021964,under_construction,12,AGR RES,10.03,"Chittoor, Kolar and Vellore Districts",514421,,,
+P-GGBCPL-AP-0001,P-GGBCPL-Go Greenery Bio CNG Private Limited,Andhra Pradesh,Kakinada,17.313665,82.363766,planned,20,AGR RES,5.03,East Godavari District (EAAA),533446,,,
+P-HRGEL-AP-0001,P-HRGEL-ELURU CBG PLANT,Andhra Pradesh,Eluru,16.781726,81.180725,under_construction,20,AGR RES,5.04,West Godavari District,534425,,,
+P-IGRPL-AP-0001,"P-IGRPL-15 TPD CBG Project at NTR, Andhra Pradesh",Andhra Pradesh,Ntr,16.681438,80.56268,under_construction,15,AGR RES,5.06,Krishna District (EAAA),521228,,,AP02003829TEMP
+P-KG-AP-0001,P-KG-GOODLUCK CBG PLANT,Andhra Pradesh,Y.S.R. Kadapa,14.00744,77.829901,planned,10,AGR RES,10.01,Anantapur and YSR (Kadapa) Districts,515231,,,
+P-MGBPL-AP-0001,P-MGBPL-CBG Plant Kothapatnam,Andhra Pradesh,Sri Potti Sriramulu Nellore,14.116014,80.119919,planned,20,AGR RES,10.02,Sri Potti Sriramulu Nellore District,524412,,,
+P-PGFPL-AP-0001,P-PGFPL-Pushya Green Fuels Private Limited,Andhra Pradesh,Srikakulam,18.622438,84.144376,planned,12,OTHERS,9.01,"Srikakulam, Visakhapatnam & Vizianagaram Districts",532455,,,
+P-RIL-AP-0005,P-RIL-Kakinada 1 CBG Plant,Andhra Pradesh,Kakinada,17.075674,82.143316,operational,22.5,AGR RES,1.04,Kakinada,533437,,,AP02004356
+P-RIL-AP-0002,P-RIL-Kakinada-2 CBG Plant,Andhra Pradesh,Kakinada,17.075674,82.143316,operational,22.5,AGR RES,1.04,Kakinada,533437,,,AP02004356
+P-RIL-AP-0007,P-RIL-Kakinada-3 CBG Plant,Andhra Pradesh,East Godavari,16.995664,81.715438,operational,22.5,AGR RES,5.03,East Godavari District (EAAA),533437,,,AP02004357TEMP
+P-RIL-AP-0001,P-RIL-Kurnool CBG Plant,Andhra Pradesh,Kurnool,15.647367,77.97151,operational,20.85,AGR RES,11.01,"Kurnool, Guntur, and Prakasam districts",518218,,,AP02004304
+P-RIL-AP-0003,P-RIL-Nellore CBG Plant,Andhra Pradesh,Sri Potti Sriramulu Nellore,14.573698,79.971825,operational,21,AGR RES,10.02,Sri Potti Sriramulu Nellore District,524316,,,AP02004321
+P-RIL-AP-0009,P-RIL-Prakasam CBG Plant,Andhra Pradesh,Prakasam,15.746141,79.271631,under_construction,25,AGR RES,11.01,"Kurnool, Guntur, and Prakasam districts",523241,,,AP02004392
+P-RIL-AP-0010,P-RIL-Rajahmundry-1 CBG Plant,Andhra Pradesh,West Godavari,16.761646,81.684819,under_construction,21,AGR RES,5.04,West Godavari District,534350,,,AP02004331TEMP
+P-RIL-AP-0004,P-RIL-Rajahmundry-2 CBG Plant,Andhra Pradesh,East Godavari,16.995664,81.715438,operational,21,AGR RES,5.04,West Godavari District,534342,,,AP02004322
+P-RIL-AP-0006,P-RIL-Vijayawada CBG Plant,Andhra Pradesh,Ntr,15.777436,80.328486,operational,21,AGR RES,5.06,Krishna District (EAAA),521180,,,AP02004306
+P-RRPL-AP-0001,P-RRPL-RENVASA - POLAVARAM,Andhra Pradesh,Prakasam,15.777099,79.87971,planned,12,AGR RES,11.01,"Kurnool, Guntur, and Prakasam districts",523264,,,AP02004685TEMP
+P-SBCPL1-AP-0004,P-SBCPL1-Baitapalle Unit - II,Andhra Pradesh,Chittoor,13.216122,79.097282,planned,10,AGR RES,10.03,"Chittoor, Kolar and Vellore Districts",517124,,,
+P-SBCPL1-AP-0003,P-SBCPL1-Perumala Kandriga Unit - I,Andhra Pradesh,Chittoor,13.216122,79.097282,planned,10,AGR RES,10.03,"Chittoor, Kolar and Vellore Districts",517001,,,
+P-SBFPL-AP-0001,P-SBFPL-SRIKARI BIO FUELS PRIVATE LIMITED,Andhra Pradesh,Krishna,16.213547,81.027784,under_construction,6,MIXED,5.06,Krishna District (EAAA),521227,,,
+P-SFPPL-AP-0001,P-SFPPL-Slanutak CBG,Andhra Pradesh,Prakasam,15.088871,79.767574,planned,10,AGR RES,11.01,"Kurnool, Guntur, and Prakasam districts",523114,,,AP1004455TEMP
+P-SPL1-AP-0001,P-SPL1-GreenArc-AP-Kadapa,Andhra Pradesh,Y.S.R. Kadapa,14.81372,78.574185,planned,10,OTHERS,10.01,Anantapur and YSR (Kadapa) Districts,516289,,,
+P-SREPL-AP-0001,P-SREPL-SAIGANGA RENEWABLE ENERGIES PRIVATE LIMITED,Andhra Pradesh,Prakasam,16.00125,80.007258,under_construction,4.8,MIXED,11.01,"Kurnool, Guntur, and Prakasam districts",523301,,,AP02005286TEMP
+P-SVBPL-AP-0001,P-SVBPL-Sree Vayu biofuels private limited,Andhra Pradesh,Kakinada,17.077904,82.095169,under_construction,12,AGR RES,5.03,East Godavari District (EAAA),533437,,,AP02003510TEMP
+P-VBEFP-AP-0001,P-VBEFP-Vyzag Bio Energy Fuel Private Limited,Andhra Pradesh,Visakhapatnam,17.891385,83.450874,operational,0.85,MUNICIPAL WASTE,9.01,"Srikakulam, Visakhapatnam & Vizianagaram Districts",531163,,,AP02001161
+P-VBPL-AP-0001,P-VBPL-VIBHA BIOFUELS PRIVATE LIMITED,Andhra Pradesh,East Godavari,16.9859997,82.0191514,under_construction,15,OTHERS,5.03,East Godavari District (EAAA),533343,,,
+P-VGEL-AP-0001,P-VGEL-Vijay Green Energies,Andhra Pradesh,Sri Potti Sriramulu Nellore,14.828521,79.691402,under_construction,5,AGR RES,10.02,Sri Potti Sriramulu Nellore District,524224,,,AP02003341TEMP
+P-VH-AP-0001,P-VH-Hymavathi Bioenergies,Andhra Pradesh,Nandyal,15.683891,78.447037,planned,6,AGR RES,11.01,"Kurnool, Guntur, and Prakasam districts",518508,,,
+P-VR1-AP-0001,P-VR1-cbgvasireddy,Andhra Pradesh,Sri Potti Sriramulu Nellore,14.557001,79.723478,planned,6,MIXED,10.02,Sri Potti Sriramulu Nellore District,524405,,,
+P-XAPL-AP-0001,P-XAPL-XEMX Amaravati Private Limited,Andhra Pradesh,Ntr,16.648906,80.272668,planned,10,OTHERS,5.06,Krishna District (EAAA),521183,,,
+P-OIL-AS-0002,P-OIL-OIL Jorhat CBG Plant,Assam,Jorhat,26.696468,94.274899,planned,2.6,MUNICIPAL WASTE,99.15,Upper Assam,785634,,,
+P-OIL-AS-0001,P-OIL-OIL Tinsukia CBG Plant,Assam,Tinsukia,27.457561,95.357809,under_construction,2.9,MUNICIPAL WASTE,99.15,Upper Assam,786100,,,
+P-AKS1-BR-0001,P-AKS1-Malati Bio,Bihar,Begusarai,25.512541,86.088339,planned,6,AGR RES,9.05,Begusarai District,851113,,,
+P-AKS1-BR-0002,P-AKS1-Singh Naturals,Bihar,Kaimur (Bhabua),25.212048,83.520085,planned,6,AGR RES,9.04,"Aurangabad, Kaimur & Rohtas Districts",821105,,,
+P-AKS1-BR-0003,P-AKS1-SSF 6,Bihar,Begusarai,25.494197,85.971884,planned,6,AGR RES,9.05,Begusarai District,851133,,,
+P-BGBPL-BR-0001,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - WEST CHAMPARAN,Bihar,Pashchim Champaran,26.95072,84.537062,under_construction,15,AGR RES,11.07,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",845450,,,BR1004915TEMP
+P-EIBPL-BR-0001,P-EIBPL-Eastern India Biofuels Private Limited,Bihar,Purnia,25.775872,87.408767,planned,6,AGR RES,10.04,"Araria, Purnia, Katihar and Kishanganj Districts",854304,,,BR02005133TEMP
+P-GBPL2-BR-0001,P-GBPL2-Greenosphere Biofuels Private Limited Banka,Bihar,Banka,24.850121,87.044651,planned,20,AGR RES,11A.02,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj districts",813104,,,
+P-HCAL-UP-0001,P-HCAL-Hydrogen CBG Alliance LLP,Bihar,Gopalganj,26.364679,84.348645,under_construction,18,MIXED,11.07,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",841438,,,
+P-HRGEL-BR-0001,P-HRGEL-MUZAFFARPUR CBG PLANT,Bihar,Muzaffarpur,26.261967,85.116148,under_construction,20,AGR RES,10.08,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",843111,,,
+P-IOCL-BR-0001,P-IOCL-MSW-CBG-GAYA,Bihar,Gaya,24.7516144,84.9819336,planned,5.25,MUNICIPAL WASTE,9.06,Gaya & Nalanda Districts,823004,,,
+P-NKFPL-BR-0001,P-NKFPL-NANDAN KANAN FARMS PRIVATE LIMITED,Bihar,Bhagalpur,25.364889,86.97325,planned,6,AGR RES,10.07,"Lakhisarai, Munger and Bhagalpur Districts",853202,,,
+P-RIL-BR-0001,P-RIL-Madhubani CBG Plant,Bihar,Madhubani,26.2959733,86.1406954,under_construction,30,AGR RES,11.06,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",847424,,,
+P-SCEPL-BR-0001,P-SCEPL-SHIVACBGENERGY,Bihar,Pashchim Champaran,27,84.5,planned,6,OTHERS,11.07,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",845106,,,
+P-TIL-BR-0001,P-TIL-Tritone Industries LLP,Bihar,Muzaffarpur,26.089927,85.580311,under_construction,2,AGR RES,10.08,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",843115,,,
+P-UB-BR-0001,P-UB-Utkarsh Bio-Pulse,Bihar,Rohtas,25.193825,84.240675,operational,3,AGR RES,9.04,"Aurangabad, Kaimur & Rohtas Districts",802212,,,BR02001304
+P-VBAPL-BR-0001,P-VBAPL-Vardhan Business Associates Private Limited,Bihar,Pashchim Champaran,26.865224,84.502223,operational,6,PRESS MUD,11.07,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",845438,,,BR02003383
+P-VBFPL-BR-0001,P-VBFPL-VARDHAN BIO FUELS PRIVATE LIMITED,Bihar,Pashchim Champaran,26.868169,84.503521,under_construction,18,PRESS MUD,11.07,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",845450,,,
+P-VIPL1-BR-0001,P-VIPL1-EktaNagar Biorefinery,Bihar,Araria,26.167287,87.411675,under_construction,28,AGR RES,10.04,"Araria, Purnia, Katihar and Kishanganj Districts",854311,,,
+P-IOCL-CH-0001,P-IOCL-220TPD-MSW-CBG-CHANDIGARH,Chandigarh,Chandigarh,30.7573206,76.7425177,planned,8.04,MUNICIPAL WASTE,2.01,Chandigarh,160030,,,
+P-AKS1-CG-0001,P-AKS1-Dream Farms,Chhattisgarh,Balodabazar-Bhatapara,21.431958,81.893242,planned,6,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",490011,,,
+P-APIL-CG-0001,P-APIL-AGIO PAPER & INDUSTRIES LIMITED,Chhattisgarh,Bilaspur,22.034706,82.22001,planned,15,AGR RES,10.29,"Anuppur, Bilaspur and Korba Districts",495551,,,
+P-AR-CG-0001,P-AR-Aureon Renewables,Chhattisgarh,Bilaspur,22.185206,81.842923,planned,10,AGR RES,10.29,"Anuppur, Bilaspur and Korba Districts",495330,,,
+P-BEALPL-CG-0001,P-BEALPL-Bhagwati Energy and Logitech Private Limited,Chhattisgarh,Raipur,21.349283,81.767201,planned,20,MIXED,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493111,,,
+P-BI-CG-0001,P-BI-M/S. BHAGWATI INDUSTRIES CBG Plant,Chhattisgarh,Mahasamund,21.113274,82.104416,planned,20,AGR RES,11.11,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",493445,,,
+P-BPCL-CG-0001,P-BPCL-Bilaspur CBG Plant,Chhattisgarh,Bilaspur,22.078563,82.147648,under_construction,4.8,MUNICIPAL WASTE,10.29,"Anuppur, Bilaspur and Korba Districts",495004,,,CG02005134TEMP
+P-FAPL-CG-0001,P-FAPL-FARMURJA AGRIBIO PRIVATE LIMITED,Chhattisgarh,Raipur,21.094749,81.852831,planned,5,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493992,,,
+P-GIL-CG-0001,P-GIL-Ambikapur CBG Project,Chhattisgarh,Balrampur-Ramanujganj,23.616665,83.618798,under_construction,14,AGR RES,11A.04,"Koriya, Surajpur, Balrampur and Surguja",497001,,,CG02005082TEMP
+P-GIL-CG-0002,P-GIL-Korba CBG Project,Chhattisgarh,Korba,22.519822,82.635003,under_construction,14,AGR RES,10.29,"Anuppur, Bilaspur and Korba Districts",495445,,,CG02005114TEMP
+P-GIL-CG-0003,P-GIL-Raigarh CBG Project,Chhattisgarh,Raigarh,21.774434,83.357378,under_construction,14,AGR RES,11.11,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",496001,,,
+P-GPAIL-CG-0001,P-GPAIL-Godawari Power & Ispat Limited,Chhattisgarh,Balodabazar-Bhatapara,21.695235,81.809179,planned,20,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493101,,,
+P-IGRPL-CG-0002,"P-IGRPL-15 TPD CBG Project at Deosundra, Chhattisgarh",Chhattisgarh,Raipur,21.280909,81.816407,planned,15,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493228,,,
+P-IGRPL-CG-0001,"P-IGRPL-IOC GPS 15 TPD CBG Project at Bemetara, Chhattisgarh",Chhattisgarh,Balod,21.524526,81.478489,under_construction,15,AGR RES,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",491335,,,CG02003832TEMP
+P-IOCL-CG-0003,P-IOCL-Birra,Chhattisgarh,Janjgir-Champa,21.751847,82.783012,planned,15,AGR RES,11.11,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",495661,,,
+P-IOCL-CG-0001,P-IOCL-Kosmanda,Chhattisgarh,Janjgir-Champa,22.05788,82.704735,planned,15,AGR RES,11.11,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",495671,,,
+P-IOCL-CG-0006,P-IOCL-Mahrum Kala,Chhattisgarh,Kabeerdham,21.242142,81.034191,planned,15,AGR RES,11.09,"Kabirdham, Raj Nandgaon and Kanker districts",491441,,,
+P-IOCL-CG-0005,P-IOCL-Mahrum Khurd,Chhattisgarh,Kabeerdham,21.227302,81.042194,planned,15,AGR RES,11.09,"Kabirdham, Raj Nandgaon and Kanker districts",491441,,,
+P-IOCL-CG-0004,P-IOCL-Muktaraja CBG Plant,Chhattisgarh,Janjgir-Champa,22.00322,82.79623,planned,15,AGR RES,11.11,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",495687,,,
+P-IOCL-CG-0002,P-IOCL-Raweli CBG Plant,Chhattisgarh,Bemetara,21.783093,81.675797,planned,15,AGR RES,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",491332,,,
+P-JBSPL-CG-0001,P-JBSPL-Jaiswal Biogreen Solutions Private Limited,Chhattisgarh,Kabeerdham,22.163081,81.215905,planned,6,OTHERS,11.09,"Kabirdham, Raj Nandgaon and Kanker districts",491995,,,CG02006094TEMP 
+P-KGL-CG-0001,P-KGL-Nava Energy,Chhattisgarh,Raipur,21.400407,81.926384,planned,6,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493225,,,cbg kasabana kh
+P-KGL-CG-0002,P-KGL-Nava Energy Gudheli,Chhattisgarh,Balod,21.350179,81.530509,planned,5,NON DUNG,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",490036,,,
+P-KVCPL-CG-0001,P-KVCPL-KESHAV VIMLA CONSTRUCTION PRIVATE LIMITED,Chhattisgarh,Bemetara,21.524526,81.478489,under_construction,4.8,MIXED,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",442339,,,
+P-KVPL-CG-0003,P-KVPL-Kenzo Simga Bio Energy park,Chhattisgarh,Durg,21.58326,81.63683,planned,4,AGR RES,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",491332,,,
+P-KVPL-CG-0002,P-KVPL-Kenzo Vital Bio energy park,Chhattisgarh,Raipur,21.38414,82.088417,planned,4,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493225,,,
+P-NBPL3-CG-0001,P-NBPL3-NKJ Bio Fuel Private Limited,Chhattisgarh,Kabeerdham,22.163081,81.215905,operational,10,IND EFFL,11.09,"Kabirdham, Raj Nandgaon and Kanker districts",491995,,,CG02003156
+P-PBREPL-CG-0001,P-PBREPL-PARSHV BIORISE RENEWABLE ENERGY PRIVATE LIMITED,Chhattisgarh,Rajnandgaon,21.358341,81.163506,planned,6,MIXED,11.09,"Kabirdham, Raj Nandgaon and Kanker districts",491444,,,
+P-PS3-CG-0001,P-PS3-SUN Energy,Chhattisgarh,Balodabazar-Bhatapara,21.414444,81.899903,planned,6,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493225,,,
+P-RIL-CG-0002,P-RIL-Bilaspur CBG Plant,Chhattisgarh,Bilaspur,22.078563,82.147648,operational,22.5,AGR RES,10.29,"Anuppur, Bilaspur and Korba Districts",495003,,,CG02004344
+P-RIL-CG-0001,P-RIL-Raipur CBG Plant,Chhattisgarh,Durg,20.95261,81.439069,operational,22.5,AGR RES,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",491111,,,CG02004342
+P-SBCPL2-CG-0002,P-SBCPL2-Sai Bioenergy Chhattisagrh Private Limited - Nawagaon Bori Biofuel Plant,Chhattisgarh,Durg,21.326735,81.260388,planned,24,OTHERS,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",491001,,,CG02005793TEMP
+P-SBCPL2-CG-0001,P-SBCPL2-Sai Bioenergy Chhattisgarh Private Limited -  Khairagarh Biofuel Unit,Chhattisgarh,Khairagarh-Chhuikhadan-Gandai,21.441817,80.85139,planned,36,OTHERS,11.09,"Kabirdham, Raj Nandgaon and Kanker districts",491881,,,CG02005792TEMP
+P-SBPL7-CG-0002,P-SBPL7-SBPLBALODA1,Chhattisgarh,Balodabazar-Bhatapara,21.44382,82.22362,planned,6,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493229,,,
+P-SBPL7-CG-0001,P-SBPL7-SBPLRYP1,Chhattisgarh,Raipur,20.967551,81.85887,planned,6,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493661,,,
+P-SGEPL6-CG-0002,P-SGEPL6-Suchita CBG Plant,Chhattisgarh,Durg,21.198296,81.400792,planned,5,OTHERS,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",490023,,,
+P-SIPL2-CG-0001,P-SIPL2-SALAHKAR BIO ENERGIES,Chhattisgarh,Bilaspur,22.078563,82.147648,planned,4,AGR RES,10.29,"Anuppur, Bilaspur and Korba Districts",495004,,,P-SIPL2
+P-UGEPL-CG-0002,P-UGEPL-URJASETU GREEN ENERGY PRIVATE LIMITED,Chhattisgarh,Raipur,21.550669,81.794868,planned,12,AGR RES,11.08,"Baloda Bazar, Gariyaband and Raipur districts",493113,,,CG02004671TEMP
+P-UIPL-CG-0001,P-UIPL-Unity Industries Private Limited,Chhattisgarh,Bemetara,21.371783,81.573656,planned,12,AGR RES,11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",493332,,,CG02002828TEMP
+P-ABEPL2-DL-0001,P-ABEPL2-ADWIK BIO ENERG-E PRIVATE LIMITED,Delhi,New Delhi,28.7041,77.1025,under_construction,8.4,OTHERS,99.01,National Capital Territory of Delhi,110039,,,
+P-EBABP-DL-0002,P-EBABP-ENLIGHTEN BIOFUELS AND BIOFERTILIZER PVT LTD,Delhi,South West,28.611292,76.980077,under_construction,5.6,CATTLE DUNG,99.01,National Capital Territory of Delhi,110071,,,
+P-EBABP-DL-0001,P-EBABP-Enlighten Biofuels & Biofertilizer Private Limited,Delhi,South West,28.621459,77.014351,operational,5.6,CATTLE DUNG,99.01,National Capital Territory of Delhi,110043,,,DL02003824TEMP
+P-RTRPL-DL-0001,P-RTRPL-RBPL TEHKHAND RNG PVT LIMITED,Delhi,Central,28.507259,77.280936,under_construction,5.6,OTHERS,99.01,National Capital Territory of Delhi,110020,,,DL02005148TEMP
+P-BPBPL-GA-0001,P-BPBPL-Panjim,Goa,North Goa,15.490462,73.883849,operational,0.5,MUNICIPAL WASTE,6.07,North Goa District,403001,,,GA02003937
+P-AAFPL-GJ-0001,P-AAFPL-Atmos AJS Fuels BioCNG Plant,Gujarat,Vadodara,22.297314,73.194257,operational,2,MIXED,99.18,Vadodara,391530,,,GJ02001213
+P-AAFPL-GJ-0002,P-AAFPL-Atmos AJS Fuels CBG,Gujarat,Vadodara,22.588878,73.348202,planned,3,MIXED,99.18,Vadodara,391530,,,
+P-ABEL1-GJ-0001,P-ABEL1-AXAR BIO ENERGY LLP,Gujarat,Panch Mahals,22.554283,73.4232,under_construction,6,AGR RES,6.11,Panchmahal District,389350,,,GJ02004501TEMP
+P-ABGPL-GJ-0001,P-ABGPL-ADITYA BIO GREEN PRIVATE LIMITED,Gujarat,Vadodara,22.169217,73.388727,planned,12,AGR RES,99.18,Vadodara,391120,,,
+P-ABL3-GJ-0001,P-ABL3-AVIRA BIOFUELS,Gujarat,Surendranagar,22.747051,71.175966,planned,5,OTHERS,98.06,Rajkot,363310,,,
+P-ABPL10-GJ-0001,P-ABPL10-Ankleshwar Bio CNG Private Limited,Gujarat,Bharuch,21.590288,73.092963,operational,6.5,PRESS MUD,98.02,"Surat, Bharuch, Ankleshwar",393001,,,GJ02004225
+P-ABPL3-GJ-0001,P-ABPL3-Vadoli 7.5 TPD CBG  Plant by Anand Bio Renewable Pvt. Ltd,Gujarat,Surat,21.418497,72.856758,under_construction,7.5,AGR RES,98.02,"Surat, Bharuch, Ankleshwar",394111,,,GJ02003889TEMP
+P-ABPL5-GJ-0001,P-ABPL5-Aurigon Biogas Private Limited,Gujarat,Vadodara,22.297314,73.194257,planned,6,AGR RES,99.18,Vadodara,391520,,,
+P-ABPL-GJ-0002,P-ABPL-AGRICULTURE PRODUCE MARKET COMMITTEE,Gujarat,AHMEDABAD,22.9971585,72.537156,operational,1.2,MIXED,98.08,Ahmedabad City and Daskroi Area,380055,,,GJ02001227
+P-ACL1-GJ-0001,P-ACL1-Aarv CBG,Gujarat,Morbi,23.012194,71.051333,under_construction,3,OTHERS,98.06,Rajkot,363330,,,
+P-ACPL-GJ-0001,P-ACPL-APOLLO CROPSCIENCE PRIVATE LIMITED,Gujarat,Ahmedabad,22.726607,72.441186,planned,5,AGR RES,6.18,Ahmedabad District (EAAA),382230,,,
+P-AEPL4-GJ-0001,P-AEPL4-AXIORA ENERGY PRIVATE LIMITED,Gujarat,Amreli,21.600924,71.216801,planned,5,AGR RES,6.03,Amreli District,365440,,,
+P-AGPL4-GJ-0001,P-AGPL4-AKSHAR GREENSPHERE PRIVATE LIMITED,Gujarat,Botad,22.282838,71.817078,planned,2.5,AGR RES,6.18,Ahmedabad District (EAAA),382255,,,
+P-AGPL5-GJ-0001,P-AGPL5-AAVIRA GREEN PRIVATE LIMITED,Gujarat,Surendra Nagar,23.037307,72.544748,planned,15,AGR RES,98.07,Surendranagar,363310,,,
+P-AGPL-GJ-0001,P-AGPL-Agri Organic Green Energy,Gujarat,Amreli,21.019823,71.530082,under_construction,3,AGR RES,6.03,Amreli District,365555,,,
+P-ASPL2-GJ-0001,P-ASPL2-AVM Solar CBG K1 Plant,Gujarat,Banas Kantha,24.50786,72.02345,planned,22,CATTLE DUNG,6.09,Banaskantha District,385310,,,
+P-BDCOMPUL-GJ-0001,P-BDCOMPUL-Banas BioCNG Plant,Gujarat,Banas Kantha,24.284305,72.082306,operational,0.8,CATTLE DUNG,6.09,Banaskantha District,385500,,,GJ02001283
+P-BDCOMPUL-GJ-0003,"P-BDCOMPUL-BANAS SUZUKI BIOGAS PLANT, AGTHALA",Gujarat,Vav-Tharad,24.302492,71.867898,operational,1.8,CATTLE DUNG,6.09,Banaskantha District,385535,,,
+P-BDCOMPUL-GJ-0002,"P-BDCOMPUL-BANAS SUZUKI BIOGAS PLANT, BHUKHALA",Gujarat,Banas Kantha,23.965016,72.559932,operational,1.8,CATTLE DUNG,6.09,Banaskantha District,385421,,,GJ02004506TEMP
+P-BDCOMPUL-GJ-0004,"P-BDCOMPUL-BANAS SUZUKI BIOGAS PLANT, VINCHHIVADI",Gujarat,Banas Kantha,24.583293,71.942668,operational,1.8,CATTLE DUNG,6.09,Banaskantha District,385310,,,
+P-BHGL-GJ-0001,P-BHGL-Botanic Harvest Global LLP,Gujarat,Kachchh,23,70,planned,12,OTHERS,3.05,Kutch (East)*,370115,,,GJ02004129TEMP
+P-BPL4-GJ-0001,P-BPL4-Biofics Private Limited,Gujarat,Surat,21.122668,72.822116,operational,5,MIXED,98.02,"Surat, Bharuch, Ankleshwar",395023,,,GJ02004176
+P-BRL-GJ-0001,P-BRL-Barbarik Renewable LLP,Gujarat,Surat,21.093945,73.146898,under_construction,6,MIXED,98.02,"Surat, Bharuch, Ankleshwar",394620,,,GJ02005461TEMP
+P-BUL-GJ-0001,P-BUL-BIOGRID URJA LLP,Gujarat,Botad,22.161146,71.727566,planned,15,OTHERS,3.02,Bhavnagar,364710,,,p-fgepl
+P-CDIPL-GJ-0001,P-CDIPL-ABC,Gujarat,Rajkot,21.761744,70.122417,planned,3,AGR RES,98.06,Rajkot,360460,,,
+P-CPSPL1-GJ-0001,P-CPSPL1-CHEM PROCESS SYSTEMS PVT LTD,Gujarat,Morbi,23.022193,71.614291,operational,6,OTHERS,98.06,Rajkot,363320,,,GJ02001142
+P-DBEL-GJ-0001,P-DBEL-Dhavdi Bio Energy,Gujarat,Surendra Nagar,22.864111,71.370056,under_construction,3,OTHERS,98.07,Surendranagar,363310,,,
+P-DGEPL3-GJ-0001,P-DGEPL3-Detox Green Energy Private Limited,Gujarat,Bharuch,22.0553,72.882297,under_construction,18,OTHERS,98.02,"Surat, Bharuch, Ankleshwar",392150,,,P-DGEPL3
+P-DKGE-GJ-0001,P-DKGE-DARSH KHUSHI GREEN ENERGY,Gujarat,Bharuch,21.499972,73.131278,planned,3,OTHERS,98.02,"Surat, Bharuch, Ankleshwar",393135,,,
+P-EBPL1-GJ-0001,P-EBPL1-EVARA BIOENERGY PRIVATE LIMITED,Gujarat,Bhavnagar,21.546663,71.787404,planned,10,OTHERS,3.02,Bhavnagar,364270,,,
+P-EEPL-GJ-0001,P-EEPL-EMROCK ENERGY PRIVATE LIMITED,Gujarat,Surat,21.417955,73.042195,planned,5,MIXED,98.02,"Surat, Bharuch, Ankleshwar",394405,,,GJ02004785TEMP
+P-EFL-GJ-0001,P-EFL-ETHIRAJ FRESH LLP,Gujarat,Kachchh,23.572335,70.644443,planned,15,AGR RES,3.05,Kutch (East)*,370155,,,
+P-EL-GJ-0001,P-EL-ecoreacter,Gujarat,Rajkot,21.72204,70.44434,planned,5,AGR RES,98.06,Rajkot,360410,,,
+P-EL-GJ-0002,P-EL-Ecoreacter LLP,Gujarat,Rajkot,21.733002,70.402207,planned,6,AGR RES,98.06,Rajkot,360410,,,GJ02004669TEMP
+P-FGEPL-GJ-0001,P-FGEPL-FLORA GREEN ENERGY PRIVATE LIMITED,Gujarat,Botad,22.119743,71.591488,planned,8,OTHERS,3.02,Bhavnagar,364710,,,
+P-GBEPL1-GJ-0002,P-GBEPL1-GREENSPHERE BIO ENERGY PRIVATE LIMITED,Gujarat,Kachchh,23.110357,70.028286,planned,12,MIXED,3.05,Kutch (East)*,370110,,,
+P-GBGPL-GJ-0001,P-GBGPL-Green Earth Biogas Private Limited,Gujarat,Surendranagar,22.6375445,71.4576782,operational,5,MIXED,98.07,Surendranagar,363510,,,GJ02000438
+P-GBREPL-GJ-0001,P-GBREPL-VONDH,Gujarat,Kachchh,23.335039,70.363729,planned,6,AGR RES,3.04,Kutch (West),360003,,,
+P-GCPL-GJ-0001,P-GCPL-Global Cleanfuels Private Limited,Gujarat,Jamnagar,22.2788,69.9992,under_construction,3,OTHERS,3.03,Jamnagar,361170,,,
+P-GEL1-GJ-0001,P-GEL1-Geotech Energy LLP,Gujarat,Morbi,22.817666,70.834593,operational,5,OTHERS,98.06,Rajkot,363642,,,GJ02003716
+P-GEL-GJ-0001,P-GEL-Govardhannathji Energies LLP,Gujarat,Kheda,22.681293,72.807519,operational,7.5,MIXED,6.10,Anand District (EAAA),387230,,,GJ02001242
+P-GEPL-GJ-0001,P-GEPL-GLOBCON ENERGY PRIVATE LIMITED,Gujarat,Bharuch,21.4665,72.892556,planned,8,OTHERS,98.02,"Surat, Bharuch, Ankleshwar",394810,,,p-fgepl
+P-GNC-GJ-0001,P-GNC-Gravity Powertech,Gujarat,Vadodara,22.297314,73.194257,planned,6,AGR RES,99.18,Vadodara,391101,,,p-gnc
+P-GOL1-GJ-0001,P-GOL1-Gangaa Oorja LLP,Gujarat,Tapi,21.098034,73.304557,operational,6,PRESS MUD,98.02,"Surat, Bharuch, Ankleshwar",394690,,,GJ02004222
+P-GREL-GJ-0001,P-GREL-Gujarat Renewable Energy LLP,Gujarat,Jamnagar,22.372822,70.336902,under_construction,5,AGR RES,3.03,Jamnagar,361130,,,GJ02004138TEMP
+P-GREPL1-GJ-0001,P-GREPL1-Green Renewfix Energy Pvt Ltd,Gujarat,Surat,21.395281,73.001521,under_construction,12,MIXED,98.02,"Surat, Bharuch, Ankleshwar",394110,,,GJ02004775TEMP
+P-HGEL-GJ-0001,P-HGEL-HETVI GREEN ENERGY LLP,Gujarat,Botad,22.128278,71.736889,planned,15,OTHERS,3.02,Bhavnagar,364750,,,p-fgepl
+P-IBEL-GJ-0001,P-IBEL-Indhan Bio Energy LLP,Gujarat,Morbi,23.005333,71.127889,planned,3,OTHERS,98.06,Rajkot,363330,,,
+P-IGEPL1-GJ-0001,P-IGEPL1-INDIGAS GREEN ENERGY PRIVATE LIMITED,Gujarat,Ahmedabad,22.722223,72.268572,planned,9,OTHERS,6.18,Ahmedabad District (EAAA),382240,,,p-fgepl
+P-JEL-GJ-0001,P-JEL-Jaivamrit Energies LLP,Gujarat,Morbi,22.860121,70.996678,operational,3,AGR RES,98.06,Rajkot,363330,,,GJ02004106
+P-JGEPL-GJ-0001,P-JGEPL-Malshika 3 TPD CBG Plant By Jayaba Green Energy Private Limited,Gujarat,Amreli,21.334858,70.967758,under_construction,3,AGR RES,6.03,Amreli District,365640,,,GJ02004819TEMP
+P-JMBGAFL-GJ-0001,P-JMBGAFL-JAY MURLIDHAR BIO GAS AND FERTILIZER LLP,Gujarat,Surat,21.209489,72.831706,under_construction,3.5,MIXED,98.02,"Surat, Bharuch, Ankleshwar",394650,,,
+P-KGEL-GJ-0001,P-KGEL-KAPS Green Energy LLP,Gujarat,Gandhinagar,23.248319,72.679524,operational,1,MUNICIPAL WASTE,99.11,Gandhinagar Mehsana Sabarkantha,382041,,,GJ02003998TEMP
+P-KGPL1-GJ-0001,P-KGPL1-Kakadiya Greenenergy Private Limited,Gujarat,Bhavnagar,21.56567,71.907762,operational,2.4,MIXED,3.02,Bhavnagar,364270,,,GJ02002787
+P-KGPL-GJ-0001,P-KGPL-KAILASH GREEN POWER LLP,Gujarat,Kheda,22.700444,72.547472,planned,6,OTHERS,6.10,Anand District (EAAA),387560,,,
+P-KHPL-GJ-0002,P-KHPL-12 TPD CBG,Gujarat,Bharuch,21.585828,72.810143,planned,12,MIXED,98.02,"Surat, Bharuch, Ankleshwar",393030,,,
+P-KIPL1-GJ-0001,P-KIPL1-Kamnath cbg plant,Gujarat,Rajkot,21.734812,70.449154,planned,6,OTHERS,98.06,Rajkot,360410,,,
+P-KPL-GJ-0001,P-KPL-Kamnath CBG,Gujarat,Narmada,21.712287,73.047444,planned,6,OTHERS,9.13,Narmada (Rajpipla) District,393151,,,
+P-LGL-GJ-0001,P-LGL-LEXORA GLOBAL LIMITED,Gujarat,Amreli,21.511844,71.222598,planned,10,OTHERS,6.03,Amreli District,364600,,,
+P-MFPL-GJ-0001,P-MFPL-MJM Fresh Private Limited,Gujarat,Junagadh,21.336478,70.425043,planned,15,AGR RES,9.11,Junagadh District,362265,,,
+P-MGEL-GJ-0001,P-MGEL-METHANOX GREEN ENERGY,Gujarat,Bharuch,21.967833,73.010278,planned,6,OTHERS,98.02,"Surat, Bharuch, Ankleshwar",392230,,,
+P-NEL-GJ-0002,P-NEL-NEP ENERGY LLP,Gujarat,Surendranagar,22.986352,71.372112,planned,6,AGR RES,98.06,Rajkot,363310,,,
+P-NNGEL-GJ-0001,P-NNGEL-NAR NARAYAN GREEN ENERGY LLP,Gujarat,Sabar Kantha,23.850043,72.957906,under_construction,5,AGR RES,99.11,Gandhinagar Mehsana Sabarkantha,383430,,,GJ02004440TEMP
+P-NREL-GJ-0001,P-NREL-NATURESPARK RENEWABLE ENERGY LLP,Gujarat,Surat,21.072293,72.954187,under_construction,3,AGR RES,98.02,"Surat, Bharuch, Ankleshwar",394315,,,
+P-OANGCL-GJ-0002,"P-OANGCL-ONGC Gandhar CBG Plant, Ankleshwar",Gujarat,Bharuch,21.844761,72.844875,planned,5,OTHERS,6.05,Dahej Vagra Taluka,392140,,,
+P-OANGCL-GJ-0001,P-OANGCL-ONGC Hazira CBG Plant,Gujarat,Surat,21.153597,72.688738,planned,4.5,OTHERS,98.02,"Surat, Bharuch, Ankleshwar",394518,,,
+P-PBEL1-GJ-0001,P-PBEL1-PANCHTATVA BIO ENERGY LLP,Gujarat,Rajkot,21.754372,70.618939,planned,5,AGR RES,98.06,Rajkot,360370,,,
+P-PBEL-GJ-0001,P-PBEL-PITJY BIO ENERGY LLP,Gujarat,Junagadh,21.44893,70.31952,under_construction,3,OTHERS,9.11,Junagadh District,362610,,,
+P-PGEL-GJ-0001,P-PGEL-PRANAM GREEN ENERGY LLP,Gujarat,Tapi,21.048865,73.26154,under_construction,5,OTHERS,98.02,"Surat, Bharuch, Ankleshwar",394640,,,
+P-RBPL1-GJ-0001,P-RBPL1-RAVARIYA CBG PLANT,Gujarat,Kachchh,23.304063,70.350733,planned,3,OTHERS,3.05,Kutch (East)*,370145,,,
+P-RCAML-GJ-0001,P-RCAML-Vadodara CBG Plant,Gujarat,Vadodara,22.260591,73.227927,operational,15,AGR RES,99.18,Vadodara,391346,,,GJ02001790
+P-REL-GJ-0001,P-REL-RENEWSPHERE ENERGY LLP,Gujarat,Botad,22.0787,71.6351,under_construction,5,OTHERS,3.02,Bhavnagar,364765,,,
+P-RGC-GJ-0001,P-RGC-Raiyani Greensphere Corporation,Gujarat,Morbi,22.558347,70.794649,operational,5,MIXED,98.06,Rajkot,363621,,,GJ02003646
+P-RGEL-GJ-0001,P-RGEL-RUDRA GAS CBG PLANT,Gujarat,Surendranagar,22.645707,72.050994,planned,5,AGR RES,98.07,Surendranagar,382240,,,
+P-RIL-GJ-0003,P-RIL-Navsari-1 CBG Plant,Gujarat,Navsari,20.952407,72.932383,operational,22,AGR RES,98.05,Navsari,396433,,,GJ02004323TEMP
+P-RIL-GJ-0001,P-RIL-Navsari-2 CBG Plant,Gujarat,Navsari,20.952407,72.932383,operational,22,AGR RES,98.05,Navsari,396433,,,GJ02004324
+P-RNSEL-GJ-0001,P-RNSEL-Jamnagar CBG Plant,Gujarat,Jamnagar,22.473242,70.05521,operational,2.4,AGR RES,3.03,Jamnagar,361140,,,GJ02001777
+P-RSPL2-GJ-0001,P-RSPL2-RAAV Solar CBG K1 Plant,Gujarat,Sabar Kantha,23.834189,73.00135,planned,22,OTHERS,99.11,Gandhinagar Mehsana Sabarkantha,383440,,, P-RSPL2
+P-RVL-GJ-0001,P-RVL-RENEWBIO VENTURES LLP,Gujarat,Amreli,21.4332,71.0133,under_construction,6,OTHERS,6.03,Amreli District,365440,,,
+P-SBCPL-GJ-0001,P-SBCPL-ShriSattva Bio CBG Private Limited,Gujarat,Gandhinagar,23.5674,73.098822,under_construction,3,OTHERS,99.11,Gandhinagar Mehsana Sabarkantha,383030,,,GJ02002586TEMP
+P-SBEL2-GJ-0001,P-SBEL2-Lathidad 14 TPD CBG Plant By Sky Biogas Energy Limited,Gujarat,Botad,22.118997,71.767902,under_construction,14,AGR RES,3.02,Bhavnagar,364710,,,GJ02005487TEMP
+P-SBEL4-GJ-0001,P-SBEL4-SOMNATH BIO ENERGY LLP,Gujarat,Surendranagar,22.9947,71.3738,under_construction,10,OTHERS,98.06,Rajkot,363310,,,
+P-SBEL6-GJ-0001,P-SBEL6-SATYAM BIOGAS ENERGY LLP,Gujarat,Surendranagar,22.492938,71.737284,planned,8,OTHERS,98.06,Rajkot,363410,,,
+P-SBEL-GJ-0001,P-SBEL-Sayaji Bio Energies LLP,Gujarat,Vadodara,22.5086305,73.2070156,operational,6.74,MIXED,99.18,Vadodara,391775,,,GJ02001139
+P-SBL3-GJ-0001,P-SBL3-Sologres CBG Plant,Gujarat,Surendra Nagar,22.869639,71.199028,planned,3,OTHERS,98.07,Surendranagar,363330,,,
+P-SBL4-GJ-0001,P-SBL4-SCAP BIOGEN LLP,Gujarat,Surat,21.453423,73.017854,planned,6,AGR RES,98.02,"Surat, Bharuch, Ankleshwar",394405,,,
+P-SEPL2-GJ-0001,P-SEPL2-SHRIVED ENERGY PRIVATE LIMITED,Gujarat,Surendranagar,22.855405,71.790644,planned,12,AGR RES,98.06,Rajkot,382775,,,
+P-SGEL2-GJ-0001,P-SGEL2-Sunaura Green Energy LLP,Gujarat,Surendranagar,22.56925,71.149222,planned,6,OTHERS,98.07,Surendranagar,363530,,,
+P-SGEUL-GJ-0001,P-SGEUL-Sayonam Green Energia Unit-I LLP,Gujarat,Tapi,21.0932,73.3388,under_construction,6.6,OTHERS,98.02,"Surat, Bharuch, Ankleshwar",394650,,,
+P-SHCPL-GJ-0001,P-SHCPL-Shree Hari - Ajarpura CBG Plant,Gujarat,Anand,22.639524,72.984751,under_construction,3,OTHERS,6.10,Anand District (EAAA),388310,,,GJ02003680TEMP
+P-SLEPL-GJ-0001,P-SLEPL-Shree Laxxmi Energy Private Limited,Gujarat,Bharuch,21.585828,72.810143,planned,15,AGR RES,98.02,"Surat, Bharuch, Ankleshwar",393030,,,
+P-SRBEPL-GJ-0001,P-SRBEPL-SHREE RAM BIO ENERGY PRIVATE LIMITED,Gujarat,Ahmedabad,22.332861,71.704889,under_construction,8,OTHERS,6.18,Ahmedabad District (EAAA),382245,,,ShreeramBio
+P-SRPL1-GJ-0001,P-SRPL1-SOLARFUSION RENEWABLES PRIVATE LIMITED,Gujarat,Amreli,21.558842,71.332205,planned,10,OTHERS,6.03,Amreli District,365535,,,
+P-SSL1-GJ-0001,P-SSL1-SOHAMVAN SERVICES LLP,Gujarat,Morbi,22.8731,70.9914,under_construction,3,OTHERS,98.06,Rajkot,363641,,,
+P-SVOPL-GJ-0001,P-SVOPL-Shree Virat Orgo Private Limited,Gujarat,VADODARA,22.153027,73.372913,operational,3,MIXED,99.18,Vadodara,391107,,,GJ02004678TEMP
+P-TBAF-GJ-0001,P-TBAF-Mahuva 6 TPD CBG Plant By Tirupati Biocng And Fertilizer,Gujarat,Bhavnagar,21.1087,71.770075,under_construction,6,AGR RES,3.02,Bhavnagar,364290,,,GJ02004253TEMP
+P-TBNE-GJ-0001,P-TBNE-Turquoise Bio Natural Energy Private Limited,Gujarat,Bharuch,21.978623,73.033007,operational,5.5,MIXED,98.02,"Surat, Bharuch, Ankleshwar",392230,,,GJ02002256
+P-TUKL-GJ-0001,P-TUKL-Tirhuta Urja Kutch LLP,Gujarat,Kachchh,22.967645,69.476498,operational,3,AGR RES,3.04,Kutch (West),370435,,,GJ02004099TEMP
+P-VBPL4-GJ-0001,P-VBPL4-VANAM BIO-ENERGY PRIVATE LIMITED,Gujarat,Surendranagar,22.566001,71.789942,planned,3,AGR RES,98.06,Rajkot,363421,,,
+P-VFPL-GJ-0003,P-VFPL-VAANI FUTURE PRIVATE LIMITED,Gujarat,Morbi,22.909206,70.82865,planned,10,OTHERS,98.06,Rajkot,363641,,,
+P-VGBPL-GJ-0001,P-VGBPL-VRAJ GREEN BIOFUEL PRIVATE LIMITED,Gujarat,Vav-Tharad,24.211985,71.684034,planned,6,AGR RES,6.09,Banaskantha District,385330,,,
+P-VGJPL-GJ-0001,P-VGJPL-Vr green jyot,Gujarat,Bharuch,21.877005,73.285842,planned,6,AGR RES,98.02,"Surat, Bharuch, Ankleshwar",391115,,,
+P-VGPL1-GJ-0001,P-VGPL1-VAANI GREENOVA PRIVATE LIMITED,Gujarat,Panch Mahals,22.667618,73.501533,planned,10,OTHERS,6.11,Panchmahal District,389310,,,
+P-VPL-GJ-0001,P-VPL-VOLTUS PRIVATE LIMITED,Gujarat,Banas Kantha,24.208568,71.64516,planned,10,AGR RES,6.09,Banaskantha District,385330,,,
+P-ZGEL-GJ-0001,P-ZGEL-Zexsun Green Energy LLP,Gujarat,Rajkot,22.889861,70.98975,planned,3,OTHERS,98.06,Rajkot,363642,,,
+P-ABCPL-HR-0001,P-ABCPL-ANANT BIO CONVERGENCE,Haryana,Yamunanagar,30.145081,77.314016,under_construction,7.5,AGR RES,6.13,Yamunanagar District,135003,,,
+P-ABPL2-HR-0001,P-ABPL2-Aerostar Bioenergy Private Limited,Haryana,JIND,29.4616667,76.3597222,operational,2.5,MIXED,9.19,Sonipat District (EAAA) & Jind District,126125,,,HR02001327TEMP
+P-AKFS-HR-0001,P-AKFS-ACHEJA KSK FILLING STATION,Haryana,Palwal,27.992548,77.128517,under_construction,2.4,MIXED,9.20,Nuh and Palwal Distircts,121106,,,
+P-AUMBP-HR-0001,P-AUMBP-Akshay Urja Manthan Biofuel Private Limited,Haryana,Rohtak,28.842392,76.539321,operational,6,PRESS MUD,6.17,Rohtak District,124001,,,HR02003266
+P-BBEPL-HR-0001,P-BBEPL-BAJRANGI BIO ENERGY PRIVATE LIMITED,Haryana,Sonipat,28.995376,77.023363,planned,3,OTHERS,9.19,Sonipat District (EAAA) & Jind District,131024,,,
+P-BPCL-HR-0001,P-BPCL-BPCL Yamunanagar CBG Plant,Haryana,Yamunanagar,30.212189,77.320187,under_construction,5.5,MUNICIPAL WASTE,6.13,Yamunanagar District,135103,,,
+P-CBL-HR-0001,P-CBL-Chemenergy Biofuels Limited,Haryana,Ambala,30.21443,76.75247,operational,15,AGR RES,8.03,Ambala & Kurukshetra Districts,133004,,,HR02003709
+P-CCOPL-HR-0001,P-CCOPL-SIRSA,Haryana,Sirsa,29.537285,75.037765,under_construction,20,AGR RES,10.12,"Sirsa, Fatehabad and Mansa (Punjab) Districts",125060,,,
+P-DAEPL-HR-0001,P-DAEPL-Demeter Agro Energies Private Limited,Haryana,KAITHAL,29.888472,76.462361,operational,10,SPENT WASH,10.11,Kaithal District,134107,,,HR02001294
+P-DL2-HR-0001,P-DL2-Devnics LLP,Haryana,Hisar,29.478485,75.920805,operational,5,PRESS MUD,9.17,Hisar District,125113,,,HR02003025
+P-EBCPL-HR-0001,P-EBCPL-AGRO ECHOFUEL BIOCNG,Haryana,Rohtak,28.969622,76.332358,planned,3,MIXED,6.17,Rohtak District,124112,,,HR02005615TEMP
+P-GAAFPL-HR-0001,P-GAAFPL-M/S G & A AGRO FUELS PRIVATE LIMITED,Haryana,Sirsa,29.5419594,75.2015918,planned,3.5,MIXED,10.12,"Sirsa, Fatehabad and Mansa (Punjab) Districts",125054,,,
+P-GBEPL-HR-0001,P-GBEPL-Compressed Biogas and Biomass Pellets Plant,Haryana,Ambala,30.44225,76.906972,planned,6,AGR RES,8.03,Ambala & Kurukshetra Districts,135001,,,HR02001290TEMP
+P-GCL-HR-0001,P-GCL-Goodrich Cereals Limited,Haryana,Karnal,29.623601,77.064216,planned,12,AGR RES,8.02,Karnal District,132001,,,
+P-GIL1-HR-0001,P-GIL1-GRUNGAS INFRATECH LLP,Haryana,Bhiwani,28.79317,76.139128,planned,5,AGR RES,9.16,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",127031,,,
+P-IBPL2-HR-0001,P-IBPL2-Injective Biogas Private Limited,Haryana,Jind,29.412345,76.724029,operational,4.8,PRESS MUD,9.19,Sonipat District (EAAA) & Jind District,126115,,,HR02003321TEMP
+P-IGRPL-HR-0001,"P-IGRPL-15 TPD CBG Project at Jind, Haryana",Haryana,Jind,29.484202,76.423263,under_construction,15,AGR RES,9.19,Sonipat District (EAAA) & Jind District,126111,,,HR02003819TEMP
+P-IGRPL-HR-0002,"P-IGRPL-15 TPD CBG Project at Kaithal, Haryana",Haryana,Kaithal,29.813029,76.468932,under_construction,15,AGR RES,10.11,Kaithal District,136027,,,HR02003826TEMP
+P-IGRPL-HR-0003,"P-IGRPL-15 TPD CBG Project at Sirsa, Haryana",Haryana,Sirsa,29.537285,75.037765,under_construction,15,AGR RES,10.12,"Sirsa, Fatehabad and Mansa (Punjab) Districts",125055,,,HR02003827TEMP
+P-IGRPL-HR-0004,"P-IGRPL-15 TPD CBG Project at Yamuna Nagar, Haryana",Haryana,Yamunanagar,30.043407,77.185444,under_construction,15,AGR RES,6.13,Yamunanagar District,133103,,,HR02004359TEMP
+P-KBPL-HR-0003,P-KBPL-KEC BIOFUEL PRIVATE LIMITED,Haryana,Panipat,29.280772,76.849416,planned,8,MIXED,4.02,Panipat District,132107,,,P-KBPL
+P-KGEPL3-HR-0001,P-KGEPL3-Kivera Green Energy,Haryana,Sirsa,29.537285,75.037765,planned,2,AGR RES,10.12,"Sirsa, Fatehabad and Mansa (Punjab) Districts",125060,,,
+P-KIPL-HR-0001,P-KIPL-KRAFTIVO INFRATECH PRIVATE LIMITED,Haryana,Kaithal,29.676565,76.254961,planned,5,AGR RES,10.11,Kaithal District,136117,,,
+P-LEKPL-HR-0001,P-LEKPL-L R Energy Karnal Private Limited,Haryana,Gurugram,29.628052,77.089158,operational,5.4,PRESS MUD,95.03,Gurugram-1,122002,,,HR02000857
+P-LEVPL-HR-0001,P-LEVPL-LR Energy Vrindavan Private Limited,Haryana,SONIPAT,28.98881,77.1845,operational,5.4,PRESS MUD,9.19,Sonipat District (EAAA) & Jind District,131021,,,HR02000872
+P-MBEPL-HR-0001,P-MBEPL-Mor Bio Energy Private Limited,Haryana,Jind,29.315207,76.314082,operational,5,AGR RES,9.19,Sonipat District (EAAA) & Jind District,126113,,,HR02004174TEMP
+P-NKA-HR-0001,P-NKA-Amrit Fertilizer,Haryana,Karnal,29.71613,77.080253,operational,4.2,AGR RES,8.02,Karnal District,132022,,,HR02001280
+P-PN-HR-0002,P-PN-Infosys Limited,Haryana,Gurgaon,28.464615,77.029919,operational,10,NON DUNG,95.03,Gurugram-1,122018,,,
+P-PN-HR-0001,P-PN-Pankaj,Haryana,Hisar,29.156269,75.72923,planned,10,NON DUNG,9.17,Hisar District,125001,,,
+P-RBEL-HR-0002,P-RBEL-Jhajjar-1 CBG Plant,Haryana,Jhajjar,28.533642,76.689815,operational,20,AGR RES,9.18,Jhajjar District,124105,,,HR02002225
+P-RBEL-HR-0004,P-RBEL-Jhajjar 2 CBG Plant,Haryana,Jhajjar,28.533642,76.689815,operational,22.5,AGR RES,9.18,Jhajjar District,124105,,,HR02002777
+P-RBEL-HR-0001,P-RBEL-Panipat CBG Plant,Haryana,Panipat,29.396882,76.878743,operational,15,AGR RES,4.02,Panipat District,132103,,,HR02002226
+P-RBPL5-HR-0001,P-RBPL5-ROYAL BIOCNG PRIVATE LIMITED,Haryana,Kurukshetra,30.135887,76.850104,planned,7.4,AGR RES,8.03,Ambala & Kurukshetra Districts,132135,,,
+P-RGE-HR-0001,P-RGE-Rama Green Energies,Haryana,Karnal,29.710949,77.013247,operational,6,NON DUNG,8.02,Karnal District,132023,,,HR02001117
+P-RG-HR-0001,P-RG-METRO FUELS,Haryana,Hisar,28.993373,75.578383,operational,10,MIXED,9.17,Hisar District,125005,,,HR02002405
+P-RIL-HR-0002,P-RIL-Jind-1 CBG Plant,Haryana,Jind,29.315207,76.314082,operational,22.5,AGR RES,9.19,Sonipat District (EAAA) & Jind District,126102,,,HR02005304
+P-RIL-HR-0001,P-RIL-Jind-2 CBG Plant,Haryana,Jind,29.58306,76.075407,operational,22.5,AGR RES,9.19,Sonipat District (EAAA) & Jind District,126152,,,HR02004332
+P-SD1-HR-0001,P-SD1-CHAUDHARY bio-CNG MANUFACTURING PLANT (JAURASIYA GROUP ),Haryana,Nuh,28.255806,76.918685,planned,5,OTHERS,9.20,Nuh and Palwal Distircts,122105,,,HR02004792TEMP
+P-SG1-HR-0001,P-SG1-TEST Plant,Haryana,Gurugram,28.421732,77.094887,planned,10,AGR RES,95.03,Gurugram-1,122011,,,
+P-SGEPL13-HR-0001,P-SGEPL13-SHIVA GREEN EARTH CBG PLANT,Haryana,Bhiwani,28.732622,75.893216,planned,3,CATTLE DUNG,9.16,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",127040,,,
+P-SGE-HR-0001,P-SGE-SURYA GREEN ENERGIES,Haryana,Karnal,29.479515,77.052758,planned,12,MIXED,8.02,Karnal District,132114,,,
+P-SPIPL-HR-0001,P-SPIPL-Sainsons Paper Industries Private Limited,Haryana,Kurukshetra,29.998884,76.558277,operational,3,OTHERS,8.03,Ambala & Kurukshetra Districts,136128,,,HR02001131
+P-SPL1-HR-0001,P-SPL1-GreenArc-Sonipat,Haryana,Sonipat,29.083882,76.738573,planned,6,AGR RES,9.19,Sonipat District (EAAA) & Jind District,124300,,,
+P-SPL-HR-0001,P-SPL-SPS Bio-Chem Private Limited,Haryana,Yamunanagar,30.098439,77.21469,operational,6.4,PRESS MUD,6.13,Yamunanagar District,135001,,,HR02001159
+P-SREPL4-HR-0001,P-SREPL4-SHYAAMG RENEWABLE ENERGY PRIVATE LIMITED,Haryana,Hisar,29.206475,76.150947,under_construction,6,AGR RES,9.17,Hisar District,125039,,,HR02003314TEMP
+P-TPCL-HR-0001,P-TPCL-Transtech Punjab CBG LLP,Haryana,Fatehabad,29.535921,75.57529,operational,3,AGR RES,10.12,"Sirsa, Fatehabad and Mansa (Punjab) Districts",125051,,,HR02003229
+P-GIL-JH-0001,P-GIL-GAIL (India) Limited - Ranchi,Jharkhand,Ranchi,23.412236,85.257855,operational,5,MUNICIPAL WASTE,97.03,Ranchi District,835222,,,JH02001230
+P-AGEPL-KA-0001,P-AGEPL-AGASANAL,Karnataka,Vijayapura,17.035237,75.784367,under_construction,6,PRESS MUD,10.18,Kalaburagi and Vijayapura Districts,411028,,,AXLLO001
+P-ASL-KA-0001,P-ASL-Athani Sugars Ltd,Karnataka,Belagavi,16.801905,74.955807,under_construction,14,SPENT WASH,5.08,Belgaum District,591232,,,KA02004631TEMP
+P-EEPL3-KA-0001,P-EEPL3-Ecometh Energy Private Limited,Karnataka,Bengaluru Urban,12.660782,77.68679,under_construction,12,AGR RES,4.01,Bengaluru Rural and Urban Districts,562106,,,KA02004123TEMP
+P-GIL-KA-0001,P-GIL-Bengaluru CBG project,Karnataka,Bengaluru Urban,12.896477,77.621668,under_construction,12.6,MUNICIPAL WASTE,4.01,Bengaluru Rural and Urban Districts,560068,,,KA02004696TEMP
+P-HRPL-KA-0001,P-HRPL-Hycons Renewable Private Limited,Karnataka,Bengaluru Urban,12.659953,77.686649,operational,7,AGR RES,4.01,Bengaluru Rural and Urban Districts,562106,,,P-HRPL
+P-HRPL-KA-0004,"P-HRPL-Hycons Renewable Private Limited, Plant -0002",Karnataka,Bengaluru Urban,12.660339,77.686299,under_construction,5,OTHERS,4.01,Bengaluru Rural and Urban Districts,562106,,,
+P-KGEPL-KA-0001,P-KGEPL-KOTTURESHWARA GREEN ENERGY PRIVATE LIMITED,Karnataka,Koppal,15.569679,76.418988,under_construction,12,AGR RES,10.16,"Bagalkot, Koppal and Raichur Districts",583231,,,
+P-KGPL2-KA-0001,P-KGPL2-KASPA GREEN PRIVATE LIMITED,Karnataka,Bagalkote,16.573423,75.424108,planned,6,PRESS MUD,10.16,"Bagalkot, Koppal and Raichur Districts",587300,,,
+P-KGPL2-KA-0002,P-KGPL2-KASPA GREEN PRIVATE LIMITED U1,Karnataka,Bagalkote,16.573007,75.424395,planned,6,PRESS MUD,10.16,"Bagalkot, Koppal and Raichur Districts",587301,,,
+P-LBPL-KA-0002,P-LBPL-CHIKKODI,Karnataka,Belagavi,16.158785,74.888862,planned,12,PRESS MUD,5.08,Belgaum District,591239,,,
+P-LBPL-KA-0004,P-LBPL-KAGWAD,Karnataka,Belgaum,16.158785,74.888862,planned,12,PRESS MUD,5.08,Belgaum District,591316,,,
+P-LBPL-KA-0001,P-LBPL-Leafiniti Bioenergy Private Limited,Karnataka,BAGALKOT,16.573169,75.206157,operational,10.2,PRESS MUD,10.18,Kalaburagi and Vijayapura Districts,587119,,,KA02001144
+P-LBPL-KA-0003,P-LBPL-NIPPANI,Karnataka,Belagavi,16.158785,74.888862,planned,12,PRESS MUD,5.08,Belgaum District,591241,,,
+P-MBPL2-KA-0001,P-MBPL2-Micromax Biofuels Private Limited,Karnataka,Bengaluru Urban,12.946155,77.550384,planned,10,AGR RES,4.01,Bengaluru Rural and Urban Districts,560064,,,P-MBPL2
+P-MGPPL-KA-0001,P-MGPPL-Mylara Green Power,Karnataka,Yadgir,16.813258,77.016295,under_construction,7,OTHERS,11.55,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",585202,,,KA02003759TEMP
+P-NELLP-KA-0001,P-NELLP-NATUREBIO ENERGY,Karnataka,Belagavi,16.382704,74.557271,under_construction,10,PRESS MUD,5.08,Belgaum District,591200,,,KA02003675TEMP
+P-NEPL2-KA-0001,P-NEPL2-NIBICON ENERGY PRIVATE LIMITED,Karnataka,Chitradurga,14.287041,76.444046,under_construction,4,AGR RES,9.24,Chitradurga & Davanagere Districts,577517,,,
+P-NNAPL-KA-0001,P-NNAPL-namuniyanth@gmail.com,Karnataka,Bengaluru Rural,12.954349,77.652889,under_construction,10,MIXED,4.01,Bengaluru Rural and Urban Districts,560017,,,AP02005940TEMP
+P-NSSL-KA-0001,P-NSSL-N S SAJJAN LLP,Karnataka,Yadgir,16.744649,77.129702,under_construction,6,AGR RES,11.55,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",585202,,,
+P-O-KA-0001,P-O-Oddoor Energy,Karnataka,MANGALORE(DAKSHINA KANNADA),12.9919,74.9738,operational,1,OTHERS,9.28,Dakshina Kannada District*,574144,,,KA02003942
+P-RA-KA-0001,P-RA-6TPD KRPET,Karnataka,Mandya,12.654322,76.485068,planned,6,AGR RES,10.19,"Mysuru, Mandya and Chamarajanagar Districts",571423,,,RAVIRAAJ001
+P-RACL-KA-0001,P-RACL-RAVINDRA AND COMPNAY LIMITED UNIT - II,Karnataka,Bidar,17.841619,77.455288,under_construction,12,SPENT WASH,9.27,Bidar District,585226,,,
+P-RBEAC-KA-0001,P-RBEAC-Rudraksh Bio Energy And Compost LLP,Karnataka,Kalaburagi,17.227297,76.615201,operational,6,PRESS MUD,10.18,Kalaburagi and Vijayapura Districts,585265,,,KA02003732TEMP
+P-RGBFPL-KA-0001,P-RGBFPL-RENUKAM GREEN BIO FUELS PRIVATE LIMITED,Karnataka,Kalaburagi,17.240896,76.769744,under_construction,7,AGR RES,10.18,Kalaburagi and Vijayapura Districts,411001,,,
+P-RGEPL-KA-0001,P-RGEPL-RAITHYODHYAMI GREEN ENERGY PRIVATE LIMITED,Karnataka,Raichur,16.1563,76.5242,under_construction,4,AGR RES,10.16,"Bagalkot, Koppal and Raichur Districts",584122,,,KA02002375
+P-SAGPL-KA-0001,P-SAGPL-NITPALLI,Karnataka,Chitradurga,14.45234,75.651281,planned,9,AGR RES,9.24,Chitradurga & Davanagere Districts,581119,,,SHAKTI001
+P-SBIL1-KA-0001,P-SBIL1-Srishaila Bio Industries LLP,Karnataka,Haveri,14.379446,75.610083,operational,15,SPENT WASH,10.20,"Uttara Kannada, Haveri and Shivamogga Districts",581119,,,KA02003367
+P-SBPL1-KA-0001,P-SBPL1-Sequestra Biofuels Private Limited,Karnataka,Kalaburagi,17.0374615,76.8747113,planned,15.3,OTHERS,10.18,Kalaburagi and Vijayapura Districts,585310,,,
+P-SIPL1-KA-0001,P-SIPL1-Sustainable Impacts Private Limited,Karnataka,Bengaluru South,12.658549,77.435197,operational,2.13,MUNICIPAL WASTE,9.29,Ramanagara District,562112,,,KA02003014
+P-SIPL-KA-0001,P-SIPL-SLU INFASTRUCTURE PVT LTD,Karnataka,Kalaburagi,17.103534,75.853222,under_construction,6,AGR RES,10.18,Kalaburagi and Vijayapura Districts,586211,,,KA1004926TEMP
+P-SKBPL-KA-0001,P-SKBPL-SRI KALIKA BIO-CLEAN PRIVATE LIMITED,Karnataka,Yadgir,16.744649,77.129702,under_construction,6.5,AGR RES,11.55,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",585321,,,
+P-SLGEPL-KA-0001,P-SLGEPL-SRI LAKSHMINARAYANA GREEN ENERGY PRIVATE LIMITED,Karnataka,Koppal,15.569679,76.418988,under_construction,5,AGR RES,10.16,"Bagalkot, Koppal and Raichur Districts",583229,,,
+P-SPL1-KA-0001,P-SPL1-GreenArc-KA-Bidar,Karnataka,Bidar,18.063767,77.344086,planned,10,OTHERS,9.27,Bidar District,585413,,,
+P-SPSACL-KA-0001,P-SPSACL-Shri Prabhulingeshwar Sugars and Chemicals Limited,Karnataka,Bagalkote,16.290365,75.591582,planned,15,PRESS MUD,10.16,"Bagalkot, Koppal and Raichur Districts",587301,,,
+P-SSL-KA-0001,P-SSL-Satish Sugars Limited,Karnataka,Belagavi,16.691939,74.723047,operational,12.873,SPENT WASH,5.08,Belgaum District,591224,,,KA02003376
+P-SSL-KA-0002,P-SSL-Satish Sugars Limited (Pressmud CBG),Karnataka,Belagavi,15.75551,74.591112,operational,10,PRESS MUD,5.08,Belgaum District,591224,,,
+P-TGPL-KA-0006,P-TGPL-BADAMI,Karnataka,Bagalkote,15.9089048,75.6386586,under_construction,20,PRESS MUD,10.16,"Bagalkot, Koppal and Raichur Districts",587201,,,
+P-TGPL-KA-0005,P-TGPL-KEDARNATH,Karnataka,Bagalkote,16.1206607,75.5527492,under_construction,20,PRESS MUD,10.16,"Bagalkot, Koppal and Raichur Districts",587206,,,
+P-TGPL-KA-0004,P-TGPL-MUDHOL,Karnataka,Bagalkote,16.3585605,75.2680544,under_construction,20,PRESS MUD,10.16,"Bagalkot, Koppal and Raichur Districts",587313,,,
+P-ULBEPL-KA-0001,P-ULBEPL-URBAN LAMP BIO ENERGY PRIVATE LIMITED,Karnataka,Bidar,17.916,77.511315,under_construction,4,AGR RES,9.27,Bidar District,585402,,,
+P-VBEPL2-KA-0001,P-VBEPL2-VMK Bio Energy,Karnataka,Ballari,15.188968,76.783752,planned,15,AGR RES,9.26,Ballari & Gadag Districts,583115,,,
+P-VDASP-KA-0001,P-VDASP-VINP Distilleries And Sugars Private Limited,Karnataka,HAVERI,14.9746389,75.1548333,operational,11,SPENT WASH,10.2,,560094,,,KA02002684
+P-BPCL-KL-0001,P-BPCL-BPCL Kochi Refinery CBG Plant,Kerala,Ernakulam,9.990917,76.365882,operational,5.6,MUNICIPAL WASTE,4.09,Ernakulam District,682042,,,KL02003354TEMP
+P-GGFPL-KL-0001,P-GGFPL-Geo Fuel,Kerala,Kottayam,9.812,76.5096,planned,2,NON DUNG,11.21,"Idukki, Kottayam and Pattanamtitta districts",686610,,,
+P-AAFMPL-MP-0001,P-AAFMPL-AVISHVA AGRO FOODS & MARKETING PRIVATE LIMITED,Madhya Pradesh,Mandsaur,24.282159,74.98984,planned,7.5,AGR RES,11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",458664,,,MP02004571TEMP
+P-AAGPL-MP-0001,P-AAGPL-ANJAD AGRO GAS PRIVATE LIMITED,Madhya Pradesh,Barwani,22.04163,75.055886,planned,4,AGR RES,11.35,"Alirajpur, Nandurbar and Barwani districts",451556,,,
+P-ABSPL-MP-0001,P-ABSPL-Amit Biogreen Solutions Private Limited,Madhya Pradesh,Mandla,22.568815,80.370541,under_construction,6,OTHERS,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",481661,,,MP02004726TEMP
+P-AGPL1-MP-0001,P-AGPL1-Anaadi Green Private Limited,Madhya Pradesh,Dewas,22.96363,76.054867,under_construction,4.2,OTHERS,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",455115,,,
+P-AGPL2-MP-0001,P-AGPL2-ARUNANDINI GLOBAL PRIVATE LIMITED,Madhya Pradesh,Betul,22.18443,77.924638,planned,3,OTHERS,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",460440,,,MP02005037TEMP
+P-AM-MP-0003,P-AM-Astha Bio Energy,Madhya Pradesh,Sidhi,24.211269,81.700041,planned,6,AGR RES,10.27,Sidhi and Singrauli Districts,486661,,,
+P-AM-MP-0004,P-AM-Astha Bio Fuel,Madhya Pradesh,Anuppur,22.934464,81.607733,planned,6,AGR RES,10.29,"Anuppur, Bilaspur and Korba Districts",484881,,,
+P-AM-MP-0001,P-AM-Saatwik Bio Energy,Madhya Pradesh,Rewa,24.552043,81.243448,planned,6,AGR RES,9.36,Rewa District,486001,,,
+P-AM-MP-0002,P-AM-Saatwik Bio Fuel,Madhya Pradesh,Satna,24.575131,80.832572,planned,6,AGR RES,9.37,Satna & Shandol Districts,485001,,,
+P-ASRPL-MP-0001,P-ASRPL-ANILASHI SHIGEN RESOURCES PRIVATE LIMITED,Madhya Pradesh,Rajgarh,24.005116,76.733677,planned,3.5,AGR RES,9.34,Bhopal & Rajgarh Districts,465661,,,
+P-AT-MP-0001,P-AT-DayaDas Energy center,Madhya Pradesh,Sehore,23.115004,77.066536,planned,6,OTHERS,10.25,"Raisen, Shajapur and Sehore Districts",466001,,,
+P-AT-MP-0002,P-AT-DayaDas Urja Kendra,Madhya Pradesh,Indore,22.541457,75.970873,planned,3,OTHERS,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",452020,,,
+P-BE-MP-0001,P-BE-Bright Energy 5 TPD plant,Madhya Pradesh,Vidisha,23.473003,77.616996,under_construction,5,OTHERS,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",464651,,,
+P-BEPL6-MP-0001,P-BEPL6-Bionue Energy Private Limited,Madhya Pradesh,Bhopal,24.035361,76.953611,operational,6,AGR RES,9.34,Bhopal & Rajgarh Districts,462016,,,MP02003979
+P-BPCL-MP-0001,P-BPCL-15 TPD COMPRESSED BIOGAS PLANT AT BPCL BINA REFINERY,Madhya Pradesh,Sagar,24.246879,78.176725,under_construction,15,AGR RES,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",470124,,,MP02004117TEMP
+P-BPIWS-MP-0002,P-BPIWS-Blue Planet Integrated Waste Soluti,Madhya Pradesh,Indore,22.68267,75.852598,operational,0.7,MUNICIPAL WASTE,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",452001,,,MP02001079
+P-BPIWS-MP-0001,P-BPIWS-Blue Planet Integrated Waste Solutions Private Limited,Madhya Pradesh,INDORE,22.6823333,75.8523889,operational,0.7,MUNICIPAL WASTE,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",452001,,,MP02001079
+P-BRPL1-MP-0001,P-BRPL1-Bhopal RNG Pvt Ltd.,Madhya Pradesh,Bhopal,23.266154,77.55947,under_construction,14.6,MUNICIPAL WASTE,9.34,Bhopal & Rajgarh Districts,462022,,,MP02001184TEMP
+P-COPL-MP-0001,P-COPL-COPL Guna,Madhya Pradesh,Guna,24.719218,77.295581,under_construction,7.5,AGR RES,9.35,Guna District,473113,,,MP02003622TEMP
+P-DASPL-MP-0001,P-DASPL-Danishri Agritech Solution Private Limited,Madhya Pradesh,Rewa,24.964665,81.486348,under_construction,5,OTHERS,9.36,Rewa District,486001,,, MP01005967TEMP
+P-EBSL-MP-0001,P-EBSL-ECOGAS BIOENERGY SYSTEMS LLP,Madhya Pradesh,Narsimhapur,23.009,78.745056,under_construction,8,OTHERS,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",342008,,,
+P-ECPL-MP-0001,P-ECPL-Envirocare CBG Private Limited,Madhya Pradesh,Jabalpur,23.24,79.97,operational,5.4,MIXED,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",482004,,,MP02002287
+P-EGSPL-MP-0001,P-EGSPL-Econexora Global Solutions Pvt Ltd,Madhya Pradesh,Rajgarh,24.047405,76.550846,planned,3.5,AGR RES,9.34,Bhopal & Rajgarh Districts,465619,,,
+P-EPPPL-MP-0004,P-EPPPL-Chainpura - Project 1,Madhya Pradesh,Guna,24.433016,77.144101,planned,22,OTHERS,9.35,Guna District,473226,,,
+P-EPPPL-MP-0005,P-EPPPL-Deharwara - Project 1,Madhya Pradesh,Shivpuri,25.465037,77.635845,planned,22,OTHERS,10.26,Shivpuri District,473500,,,
+P-EPPPL-MP-0006,P-EPPPL-Kalamadh - Project 1,Madhya Pradesh,Shivpuri,25.691366,77.445793,planned,22,OTHERS,10.26,Shivpuri District,473775,,,
+P-FFEL-MP-0001,P-FFEL-FUEL FIRST ENERGY LLP,Madhya Pradesh,Bhopal,23.275913,77.398465,under_construction,6,OTHERS,9.34,Bhopal & Rajgarh Districts,462038,,,
+P-GBPL1-MP-0001,P-GBPL1-Gomitraa biofuel private limited,Madhya Pradesh,Morena,26.458779,78.036243,under_construction,6,OTHERS,10.24,Morena District,476001,,,MP02004438TEMP
+P-GBPL1-MP-0002,P-GBPL1-Gomitraa Guna CBG,Madhya Pradesh,Guna,24.582098,77.266862,planned,10,OTHERS,9.35,Guna District,473001,,,MP02004438TEMP
+P-GGPL-MP-0001,P-GGPL-Gramdeep gas Private Limited,Madhya Pradesh,Rajgarh,24.042822,76.427508,under_construction,3,AGR RES,9.34,Bhopal & Rajgarh Districts,465691,,,
+P-HBPL-MP-0001,P-HBPL-HARSHAN BIOENERGY PVT LTD,Madhya Pradesh,Morena,26.273194,77.522389,under_construction,1,OTHERS,10.24,Morena District,476229,,,HARSHANBIOENE
+P-HPBEPL-MP-0001,P-HPBEPL-HM Patidar Bio Energy Private Limited,Madhya Pradesh,Shajapur,23.647638,76.337272,under_construction,3,AGR RES,10.25,"Raisen, Shajapur and Sehore Districts",465226,,,
+P-ICEPL-MP-0001,P-ICEPL-Indore Clean Energy Private Limited,Madhya Pradesh,Indore,22.67696,75.9252,operational,24,MUNICIPAL WASTE,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",452016,,,MP02001141
+P-IGRPL-MP-0002,"P-IGRPL-15 TPD CBG Project at Jabalpur, Madhya Pradesh",Madhya Pradesh,Jabalpur,23.170152,79.932451,planned,15,AGR RES,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",483113,,,
+P-IGRPL-MP-0003,"P-IGRPL-15 TPD CBG Project at Katni, Madhya Pradesh",Madhya Pradesh,Katni,23.722174,80.626999,planned,15,AGR RES,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",483773,,,
+P-IGRPL-MP-0004,"P-IGRPL-15 TPD CBG Project at Narmadapuram, Madhya Pradesh",Madhya Pradesh,Narmadapuram,22.595811,77.637978,planned,15,AGR RES,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",461116,,,
+P-IGRPL-MP-0001,"P-IGRPL-15 TPD CBG Project at Rewa, Madhya Pradesh",Madhya Pradesh,Rewa,24.982012,81.642065,planned,15,AGR RES,9.36,Rewa District,486220,,, MP02004397TEMP
+P-IOCL-MP-0002,P-IOCL-KATANGI BALAGHAT CBG PLANT,Madhya Pradesh,Balaghat,21.750028,79.772935,planned,15,AGR RES,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",481445,,,
+P-IOCL-MP-0004,P-IOCL-MAJHOLI JABALPUR CBG PLANT,Madhya Pradesh,Jabalpur,23.483682,79.888857,planned,15,AGR RES,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",483336,,,
+P-IOCL-MP-0001,P-IOCL-PIKLON VIDISHA CBG PLANT,Madhya Pradesh,Vidisha,24.039713,77.991493,planned,15,AGR RES,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",464224,,,
+P-IOCL-MP-0005,P-IOCL-WARASEONI BALAGHAT CBG PLANT,Madhya Pradesh,Balaghat,21.683141,80.058801,planned,15,AGR RES,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",481331,,,
+P-JBI-MP-0001,P-JBI-Jain Biogreen Industries,Madhya Pradesh,Mandsaur,24.116095,75.2888,operational,2.2,OTHERS,11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",458558,,,MP02004194TEMP
+P-JTPPL-MP-0004,P-JTPPL-Badgon - Project 1,Madhya Pradesh,Agar-Malwa,23.640788,75.978361,under_construction,22,OTHERS,11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",465445,,,
+P-JTPPL-MP-0003,P-JTPPL-Dhanela - Project 1,Madhya Pradesh,Morena,26.385517,78.037611,under_construction,22,OTHERS,10.24,Morena District,476221,,,
+P-JTPPL-MP-0001,P-JTPPL-Kotda - Project 1,Madhya Pradesh,Bhopal,23.937114,76.335132,under_construction,22,OTHERS,9.34,Bhopal & Rajgarh Districts,465600,,,
+P-JTPPL-MP-0002,P-JTPPL-Kotda - Project 2,Madhya Pradesh,Rajgarh,23.941663,76.335239,under_construction,22,OTHERS,9.34,Bhopal & Rajgarh Districts,465691,,,
+P-KEEL-MP-0001,P-KEEL-KP Efficient Energies LLP,Madhya Pradesh,Ratlam,23.257966,75.117907,planned,6,AGR RES,10.30,"Jhabua, Banswara, Ratlam and Dungarpur Districts",457441,,,GB-2026-1010
+P-KPSPL-MP-0001,P-KPSPL-KP SOLVEX PRIVATE LIMITED,Madhya Pradesh,Tikamgarh,24.85521,79.047255,planned,10,MIXED,11.24,"Tikamgarh, Niwari, Chattarpur and Panna districts",472442,,,
+P-KSPL-MP-0001,P-KSPL-Kasyap Sweetners Private Limited,Madhya Pradesh,Dhar,23.088642,75.158678,operational,3.6,IND EFFL,6.16,Dhar District,454660,,,MP02003635
+P-MAFL-MP-0001,P-MAFL-Morvinandan Agro Foods Limited,Madhya Pradesh,Ratlam,23.715198,75.266584,planned,7.5,AGR RES,10.30,"Jhabua, Banswara, Ratlam and Dungarpur Districts",457226,,,
+P-MCG-MP-0001,P-MCG-Municipal Corporation Gwalior,Madhya Pradesh,Gwalior,26.2432,78.2355,operational,2,CATTLE DUNG,99.12,Gwalior,474011,,,MP02000847
+P-MWUL-MP-0001,P-MWUL-Mushroom World Umbrella Limited,Madhya Pradesh,Raisen,23.390183,77.707071,under_construction,3,OTHERS,10.25,"Raisen, Shajapur and Sehore Districts",464661,,,MP02003195TEMP
+P-NBPL-MP-0001,P-NBPL-NARMDA BIOFUELS PRIVATE LIMITED,Madhya Pradesh,Sagar,23.388762,79.01664,under_construction,3,MIXED,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",470226,,,MP02004534TEMP
+P-NKD-MP-0002,P-NKD-CHHIWA 01,Madhya Pradesh,Singrauli,24.323145,82.243128,planned,0.1,MIXED,10.27,Sidhi and Singrauli Districts,486881,,,
+P-NTL-MP-0001,P-NTL-Napiergen Technologies LLP,Madhya Pradesh,Chhindwara,22.191929,79.05659,under_construction,3,AGR RES,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",480223,,,
+P-NTPL-MP-0001,P-NTPL-CBG Plant,Madhya Pradesh,Mandsaur,24.194868,75.530802,planned,5,OTHERS,11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",458880,,,
+P-OMGEPL-MP-0001,P-OMGEPL-ONE MARCHE GREEN ENERGY,Madhya Pradesh,Chhindwara,22.096028,79.092647,under_construction,5,AGR RES,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",480001,,,MP02004537TEMP
+P-PAAFPL-MP-0001,P-PAAFPL-PHALOUDI AGRI AND FOODS PRIVATE LIMITED,Madhya Pradesh,Rewa,24.407853,81.284795,under_construction,15,OTHERS,9.36,Rewa District,466043,,,MP02004837TEMP
+P-PBEPL-MP-0001,P-PBEPL-Paliwal Bio Energy Private Limited,Madhya Pradesh,Bhopal,23.228571,77.200468,operational,4,AGR RES,9.34,Bhopal & Rajgarh Districts,462016,,,MP02001380
+P-PEIP-MP-0001,P-PEIP-PATNAR ECO INDUSTRIAL PARK,Madhya Pradesh,Umaria,23.363142,81.21498,planned,6,OTHERS,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",484551,,,
+P-PGEPL2-MP-0001,P-PGEPL2-POORNA GREEN ENERGY PRIVATE LIMITED,Madhya Pradesh,Ratlam,23.595675,74.960108,under_construction,5,AGR RES,10.30,"Jhabua, Banswara, Ratlam and Dungarpur Districts",457331,,,
+P-RBPL2-MP-0001,P-RBPL2-RAISEN BIOCNG,Madhya Pradesh,Raisen,23.01475,77.646454,under_construction,6.3,AGR RES,10.25,"Raisen, Shajapur and Sehore Districts",464990,,,MP02003967TEMP
+P-REPL1-MP-0001,P-REPL1-Ramay Energy Jawad Plant,Madhya Pradesh,Neemuch,24.596161,74.860824,planned,5,MIXED,11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",458470,,,
+P-REPL1-MP-0002,P-REPL1-Ramay Energy Jawad Plant (Govt. Lease),Madhya Pradesh,Neemuch,24.596176,74.860872,planned,5,MIXED,11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",458470,,,
+P-RIL-MP-0006,P-RIL-Balaghat CBG Plant,Madhya Pradesh,Balaghat,21.813342,80.191669,under_construction,20,AGR RES,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",481102,,,MP02004349TEMP
+P-RIL-MP-0002,P-RIL-Bhopal CBG Plant,Madhya Pradesh,Bhopal,23.24785,77.536766,operational,22.5,AGR RES,9.34,Bhopal & Rajgarh Districts,462022,,,MP02004320
+P-RIL-MP-0001,P-RIL-Indore CBG Plant,Madhya Pradesh,Indore,22.885799,75.965968,operational,22,AGR RES,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",453771,,,MP02004311
+P-RIL-MP-0004,P-RIL-Jabalpur CBG Plant,Madhya Pradesh,Jabalpur,23.28301,79.694534,operational,22.5,AGR RES,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",483113,,,MP02004352
+P-RIL-MP-0005,P-RIL-Mubarakpur CBG Plant,Madhya Pradesh,Sehore,22.999915,76.797994,under_construction,20,AGR RES,10.25,"Raisen, Shajapur and Sehore Districts",466116,,,MP02004391TEMP
+P-RIL-MP-0003,P-RIL-Satna CBG Plant,Madhya Pradesh,Satna,24.580197,80.75023,operational,21,AGR RES,9.37,Satna & Shandol Districts,485221,,,MP02004338
+P-RUL-MP-0001,P-RUL-RNP URJA LLP,Madhya Pradesh,Balaghat,21.580632,78.432601,under_construction,2.5,AGR RES,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",480334,,,P-RUL
+P-SAPPL-MP-0001,P-SAPPL-Saatvik Agro Processors Private Limited,Madhya Pradesh,Morena,26.490991,77.981366,operational,7.5,SPENT WASH,10.24,Morena District,476444,,,MP02004250TEMP
+P-SGBPL-MP-0001,P-SGBPL-Singh Green Bioenergy Private Limited,Madhya Pradesh,Satna,24.25879,81.288077,under_construction,2,AGR RES,9.36,Rewa District,485881,,,MP02005604TEMP
+P-SNRPL-MP-0004,P-SNRPL-SALASAR ANUPPUR,Madhya Pradesh,Anuppur,23.118817,81.698035,planned,6,AGR RES,10.29,"Anuppur, Bilaspur and Korba Districts",484224,,,
+P-SNRPL-MP-0001,P-SNRPL-SALASAR GWALIOR,Madhya Pradesh,Gwalior,26.203725,78.157363,planned,6,AGR RES,10.23,Gwalior (EAAA) District and Sheopur District,474001,,,
+P-SNRPL-MP-0003,P-SNRPL-SALASAR INDORE,Madhya Pradesh,Indore,22.720362,75.8682,planned,6,AGR RES,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",452001,,,
+P-SNRPL-MP-0002,P-SNRPL-SALASAR JABALPUR,Madhya Pradesh,Jabalpur,23.16888,79.933588,planned,6,AGR RES,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",482001,,,
+P-SNRPL-MP-0005,P-SNRPL-SALASAR SHAAHDOL,Madhya Pradesh,Shahdol,23.2966,81.3567,planned,6,AGR RES,9.37,Satna & Shandol Districts,484001,,,
+P-SPL2-MP-0001,P-SPL2-Compressed BioGas,Madhya Pradesh,Narmadapuram,22.490913,77.82409,under_construction,12,AGR RES,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",461111,,,MP02003816TEMP
+P-SREP5-MP-0001,P-SREP5-Swaaha Renewable Energy Private Limited,Madhya Pradesh,INDORE,22.77079,75.87259,operational,0.8,MIXED,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",452010,,,MP02004550
+P-SSAF-MP-0005,P-SSAF-CG BIO,Madhya Pradesh,Bhopal,23.182387,77.417628,planned,6,AGR RES,9.34,Bhopal & Rajgarh Districts,462042,,,
+P-SSAF-MP-0001,P-SSAF-Sahaj Bio Green,Madhya Pradesh,Raisen,23.330111,77.784251,planned,6,AGR RES,10.25,"Raisen, Shajapur and Sehore Districts",464551,,,
+P-SSAF-MP-0002,P-SSAF-Sahaj Bio-Green,Madhya Pradesh,Sehore,22.736018,77.433525,planned,6,AGR RES,10.25,"Raisen, Shajapur and Sehore Districts",466446,,,
+P-SSAF-MP-0003,P-SSAF-Sahaj Green,Madhya Pradesh,Dindori,22.907087,80.884692,planned,6,AGR RES,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",481882,,,
+P-SSAF-MP-0004,P-SSAF-Sahaj Naturals,Madhya Pradesh,Narmadapuram,22.754554,77.719825,planned,6,AGR RES,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",461001,,,
+P-SSEPL-MP-0001,P-SSEPL-SANT SINGAJI ENERGIES PRIVATE LIMITED,Madhya Pradesh,Dewas,22.535331,76.687548,under_construction,6,AGR RES,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",455459,,,MP02003987TEMP
+P-TSEPL-MP-0001,P-TSEPL-Surya Grid CBG K2 Plant,Madhya Pradesh,Ujjain,23.188513,75.771656,planned,22,OTHERS,99.08,Indore (including Ujjain City),456006,,,
+P-TTIPL-MP-0002,P-TTIPL-Dhabli Kalan - Project 1,Madhya Pradesh,Rajgarh,24.11079,76.529297,under_construction,22,OTHERS,9.34,Bhopal & Rajgarh Districts,465679,,,
+P-TTIPL-MP-0001,P-TTIPL-Energicore Guna 1,Madhya Pradesh,Guna,24.471343,77.140451,planned,54,OTHERS,9.35,Guna District,473226,,,
+P-TTIPL-MP-0003,P-TTIPL-Piproda Khurd - Project 1,Madhya Pradesh,Guna,24.676869,77.310783,planned,22,OTHERS,9.35,Guna District,473001,,,
+P-UIL-MP-0001,P-UIL-UKR-Seoni,Madhya Pradesh,Chhindwara,22.054069,79.245259,planned,15,OTHERS,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",480115,,,
+P-UVPL-MP-0001,P-UVPL-URJIT VENTURES PRIVATE LIMITED,Madhya Pradesh,Narsimhapur,22.916667,79.166667,planned,6,PRESS MUD,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",487441,,,MP02005834TEMP
+P-VBL-MP-0001,P-VBL-VIDHYAVANSHI BIOFUELS,Madhya Pradesh,Sagar,24.042597,78.959475,planned,3,MIXED,11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",470004,,,MP02004380TEMP
+P-VSPL-MP-0001,P-VSPL-Ujjawal Urja,Madhya Pradesh,Raisen,23.211214,77.177361,planned,6,OTHERS,10.25,"Raisen, Shajapur and Sehore Districts",466001,,,
+P-VSPL-MP-0002,P-VSPL-Ujjawal Urja BioFuels,Madhya Pradesh,Indore,22.555598,75.770922,planned,3,OTHERS,10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",453441,,,
+P-ZIPL-MP-0006,P-ZIPL-Atha Kheda - Project 1,Madhya Pradesh,Jabalpur,23.05845,79.838917,planned,22,OTHERS,11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",482003,,,
+P-ZIPL-MP-0005,P-ZIPL-Chirakhan - Project 1,Madhya Pradesh,Dhar,23.003326,75.178885,planned,22,OTHERS,6.16,Dhar District,454660,,,
+P-ZIPL-MP-0003,P-ZIPL-Lalukhedi - Project 1,Madhya Pradesh,Agar-Malwa,23.853912,76.132472,under_construction,22,OTHERS,11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",465445,,,
+P-ZIPL-MP-0007,P-ZIPL-Marbodi - Project 1,Madhya Pradesh,Balaghat,22.230524,79.432847,planned,22,OTHERS,11.25,"Betul, Chhindwara, Seoni and Balaghat districts",480882,,,
+P-ADGEP-MH-0001,P-ADGEP-Avni DM Green Energy Private Limited,Maharashtra,Thane,18.655644,73.856253,operational,2,OTHERS,4.08,Pune District (EAAA),400705,,,MH02003845
+P-AMJ-MH-0001,P-AMJ-ADITYA DISTRIBUTORS,Maharashtra,Gadchiroli,20.471147,79.979456,planned,6,AGR RES,11.34,"Bhandara, Gondiya and Garchiroli districts",441208,,,
+P-ARPL1-MH-0001,P-ARPL1-ADISHAKTI RENEWABLES PRIVATE LIMITED,Maharashtra,Amravati,20.834317,78.102601,under_construction,10,AGR RES,11.31,Amravati and Yavatmal districts,444709,,,MH02004664TEMP
+P-ATPL-MH-0001,P-ATPL-sahajbiogas,Maharashtra,Amravati,20.931622,77.758846,planned,5,OTHERS,11.31,Amravati and Yavatmal districts,444901,,,
+P-BBPL3-MH-0001,P-BBPL3-Bharat Biogas Pvt Limited,Maharashtra,Ahilyanagar,19.672363,74.685466,under_construction,25,OTHERS,9.38,Ahmednagar & Aurangabad Districts,413718,,,
+P-BDFPL-MH-0003,P-BDFPL-Cattle Dung based 2TPD CBG Plant,Maharashtra,Pune,18.521374,73.854507,planned,2,CATTLE DUNG,4.08,Pune District (EAAA),410503,,,
+P-BGEEL-MH-0001,P-BGEEL-BHUMI - 10 TPD CBG PLANT PUNE,Maharashtra,Pune,18.472375,73.953469,planned,10,MUNICIPAL WASTE,99.05,"Pune City including Pimpri - Chichwad & adjoining contigeneous areas  Hinjewadi, Chakan, Talegaon",412308,,,
+P-BPBPL-MH-0001,P-BPBPL-Blue Planet Biofuels Private Limited,Maharashtra,Thane,15.4961956,73.8395855,operational,15,MUNICIPAL WASTE,6.07,North Goa District,400705,,,GA02003937
+P-BPIWS-MH-0001,P-BPIWS-AURANGABAD PROJECT-30 TPD,Maharashtra,AURANGABAD,19.8562417,75.2259222,operational,1.2,MIXED,9.38,Ahmednagar & Aurangabad Districts,431136,,,MH02001085
+P-CBPL-MH-0001,P-CBPL-CLEANEDGE BIOFUELS PRIVATE LIMITED,Maharashtra,Dharashiv,17.831598,76.39095,under_construction,12,OTHERS,9.40,Latur & Osmanabad Districts,413608,,,
+P-CSRSUL-MH-0001,P-CSRSUL-CHHATRAPATI SAMBHAJI RAJE SAKHAR UDYOG LIMITED,Maharashtra,Chhatrapati Sambhajinagar,19.877263,75.339024,planned,5,SPENT WASH,9.38,Ahmednagar & Aurangabad Districts,431007,,,
+P-DBSAIL-MH-0001,P-DBSAIL-Kolhapur CBG Plant,Maharashtra,Kolhapur,16.76878,74.13635,under_construction,13,SPENT WASH,8.04,Kolhapur District,416229,,,
+P-DGEPL2-MH-0001,P-DGEPL2-DEGLOOR GREEN ENERGY PRIVATE LIMITED,Maharashtra,Nanded,18.605861,77.557164,under_construction,3,AGR RES,11.28,"Buldana, Nanded and Parbhani districts",431718,,,
+P-DREPL-MH-0001,P-DREPL-DEVIARADHANA RENEWABLE ENERGY PRIVATE LIMITED,Maharashtra,Amravati,21.011666,77.87982,under_construction,5,AGR RES,11.31,Amravati and Yavatmal districts,444707,,,
+P-DRFANCPL1-MH-0001,P-DRFANCPL1-DEVAJI RENEWABLE FUELS AND NATURE CARE PRIVATE LIMITED,Maharashtra,Nandurbar,21.363778,74.241142,under_construction,5,AGR RES,11.35,"Alirajpur, Nandurbar and Barwani districts",425412,,,
+P-EIL-MH-0001,P-EIL-125 TPD FEED PRESSMUD BASED COMPRESSED BIOGAS (CBG) PLANT,Maharashtra,Kolhapur,15.898651,74.306918,under_construction,5,PRESS MUD,8.04,Kolhapur District,416509,,,
+P-EPJPL-MH-0001,P-EPJPL-EvaGreen Planet Jalna,Maharashtra,Jalna,19.543116,77.173943,under_construction,7,PRESS MUD,11.29,"Beed, Jalgaon and Jalna districts",431501,,,
+P-GESPL-MH-0001,P-GESPL-Green Elephant Satara Private Limited,Maharashtra,Satara,17.859808,73.989521,operational,7,SPENT WASH,9.41,Sangli & Satara Districts,415515,,,MH02003466
+P-GSW-MH-0001,P-GSW-Gulmire Sanitary Ware,Maharashtra,Solapur,17.485911,75.20181,under_construction,10,OTHERS,7.01,Solapur District,413307,,,MH02001293TEMP
+P-GUPL-MH-0001,P-GUPL-Umaregavhan,Maharashtra,Dharashiv,18.104641,76.185868,planned,6,MIXED,9.40,Latur & Osmanabad Districts,413506,,,
+P-IREPL-MH-0001,P-IREPL-6TPD IGREPL NAGPUR CBG PLANT,Maharashtra,Nagpur,20.982756,79.441714,planned,6,AGR RES,11.33,Nagpur district,441202,,,
+P-JSAIL-MH-0001,P-JSAIL-Jagruti Sugar & Allied Industries Limited,Maharashtra,LATUR,18.254314,76.992896,operational,5,SPENT WASH,9.40,Latur & Osmanabad Districts,413519,,,MH02001138
+P-JSL-MH-0001,P-JSL-Jakraya Sugar Limited,Maharashtra,Solapur,17.5693909,75.6598699,operational,20,SPENT WASH,7.01,Solapur District,413253,,,MH02000566
+P-JSRSKL-MH-0004,P-JSRSKL-Rokdoba 8Tpd Primary,Maharashtra,Latur,18.683439,76.796009,planned,8,SPENT WASH,9.40,Latur & Osmanabad Districts,413523,,,P-JSRSKL
+P-JSRSKL-MH-0001,P-JSRSKL-Rokdoba phase - 1,Maharashtra,Latur,18.684545,76.795976,planned,6,SPENT WASH,9.40,Latur & Osmanabad Districts,413523,,,
+P-KBEPL-MH-0001,P-KBEPL-Krishna Bio Energy Private Limited,Maharashtra,Chandrapur,20.5842,79.682003,under_construction,5.5,AGR RES,11.32,Chandrapur and Wardha districts,441221,,,MH001148TEMP
+P-KDL-MH-0001,P-KDL-Khandoba Distilleries Private Limited,Maharashtra,Solapur,18.0449,75.2269,operational,10,SPENT WASH,7.01,Solapur District,413211,,,MH02001225
+P-LAFPL-MH-0002,P-LAFPL-Lashkaria Agro Farms Private Limited,Maharashtra,Raigad,18.080753,73.42438,planned,5,OTHERS,4.03,Palghar District & Thane Rural,402309,,,P-LAFPL
+P-LBPL-MH-0001,P-LBPL-KAGAL MIDC,Maharashtra,Kolhapur,19.7515,75.7139,planned,12,PRESS MUD,8.04,Kolhapur District,416236,,,
+P-MBALS-MH-0001,P-MBALS-Baramati Agro Limited,Maharashtra,Pune,18.263617,74.679966,operational,16,SPENT WASH,4.08,Pune District (EAAA),413102,,,MH02000633
+P-MSKL-MH-0001,P-MSKL-Malhar Sakhar Karkhana Ltd.,Maharashtra,Solapur,17.741007,74.935274,under_construction,25,MIXED,7.01,Solapur District,413310,,,
+P-NBPL2-MH-0001,P-NBPL2-NANDADEEP BIO-FUELS PRIVATE LIMITED,Maharashtra,Solapur,17.669636,75.320841,under_construction,10,AGR RES,7.01,Solapur District,413304,,,
+P-NESPL-MH-0001,P-NESPL-Noble Exchange Environment Solutions Pune LLP,Maharashtra,Pune,18.742162,73.405099,operational,14,MUNICIPAL WASTE,99.05,"Pune City including Pimpri - Chichwad & adjoining contigeneous areas  Hinjewadi, Chakan, Talegaon",410507,,,MH02001124
+P-NGDPL-MH-0001,P-NGDPL-Nova Gas Dynamics Private Limited,Maharashtra,Solapur,17.801654,75.750716,operational,16,SPENT WASH,7.01,Solapur District,413213,,,MH02004003
+P-NGEP-MH-0001,P-NGEP-Nxgen Green Energy Producers CBG,Maharashtra,Bhandara,21.453022,79.790577,under_construction,2,AGR RES,11.34,"Bhandara, Gondiya and Garchiroli districts",441912,,,MH02003007TEMP
+P-NRDPL-MH-0001,P-NRDPL-NGD RENEWABLES DHARASHIV PRIVATE LIMITED,Maharashtra,Latur,17.982453,76.371363,planned,10,MIXED,9.40,Latur & Osmanabad Districts,413608,,,
+P-NSAAIL-MH-0002,P-NSAAIL-Natural Sugar Unit-1 CBG Plant,Maharashtra,Dharashiv,18.169844,76.117963,operational,10,SPENT WASH,9.40,Latur & Osmanabad Districts,413528,,,
+P-NSAAIL-MH-0001,P-NSAAIL-Natural Sugar Unit-2 CBG Plant Gunj-Sawana,Maharashtra,Yavatmal,19.815402,77.731383,operational,5,PRESS MUD,11.31,Amravati and Yavatmal districts,445205,,,
+P-ONGE-MH-0001,P-ONGE-Omerga Natural Gas Energy,Maharashtra,Dharashiv,17.97281,76.502686,operational,5.5,PRESS MUD,9.40,Latur & Osmanabad Districts,413606,,,MH02001440
+P-PRK-MH-0001,P-PRK-LUBDHA GROUP,Maharashtra,Solapur,18.412091,75.149327,planned,5,OTHERS,7.01,Solapur District,413203,,,
+P-PSSKL-MH-0001,"P-PSSKL-Purna Sahakari Sakhar Karkhana Ltd.,Basmathnagar",Maharashtra,Akola,19.283841,77.141113,under_construction,10,MIXED,11.30,"Akola, Hingoli and Washim districts",431512,,,p-psskl
+P-RBEL-MH-0001,P-RBEL-Nagpur CBG Plant,Maharashtra,Nagpur,21.149813,79.082056,operational,20,AGR RES,11.33,Nagpur district,441104,,,MH02002224
+P-RBEPL1-MH-0001,P-RBEPL1-RAMGIRI BIO ENERGY PRIVATE LIMITED,Maharashtra,Solapur,18.234111,75.687511,planned,5,AGR RES,7.01,Solapur District,413401,,,
+P-RCEPL-MH-0001,P-RCEPL-Raj Clean Energy Private Limited,Maharashtra,Satara,18.048123,74.08603,operational,12,OTHERS,9.41,Sangli & Satara Districts,415521,,,MH02004569
+P-RIL-MH-0002,P-RIL-Akola CBG Plant,Maharashtra,Akola,20.71166,77.002632,operational,22,AGR RES,11.30,"Akola, Hingoli and Washim districts",444006,,,MH02004316
+P-RIL-MH-0004,P-RIL-Kurkumbh CBG Plant,Maharashtra,Pune,18.397383,74.525089,operational,20,AGR RES,4.08,Pune District (EAAA),413802,,,MH02004354
+P-RIL-MH-0003,P-RIL-Malegaon CBG Plant,Maharashtra,Nashik,20.225456,74.104233,operational,22,AGR RES,9.39,"Valsad (EAAA), Dhule & Nashik Districts",423205,,,MH02004330
+P-RIL-MH-0008,P-RIL-Nagothane CBG Plant,Maharashtra,Raigad,18.492809,73.138071,operational,21,AGR RES,4.04,Raigarh District (EAAA),402125,,,
+P-RIL-MH-0001,P-RIL-Nanded CBG Plant,Maharashtra,Nanded,19.265526,77.267959,operational,22,AGR RES,11.28,"Buldana, Nanded and Parbhani districts",431704,,,MH02004309
+P-RIL-MH-0006,P-RIL-Solapur CBG Plant,Maharashtra,Solapur,17.776396,75.875359,operational,20,AGR RES,7.01,Solapur District,413002,,,MH02004334
+P-RIL-MH-0007,P-RIL-Yawatmal CBG Plant,Maharashtra,Yavatmal,20.100845,78.758966,under_construction,22,AGR RES,11.31,Amravati and Yavatmal districts,445102,,,MH02004302TEMP
+P-SBEL5-MH-0001,P-SBEL5-SS BIO ENERGY LLP,Maharashtra,Pune,18.600097,74.414241,planned,6,PRESS MUD,4.08,Pune District (EAAA),412211,,,MH02005859TEMP
+P-SBEPL1-MH-0001,P-SBEPL1-SUPERAAI BIOENERGY PRIVATE LIMITED,Maharashtra,Jalgaon,20.962143,75.446082,planned,5,OTHERS,11.29,"Beed, Jalgaon and Jalna districts",425103,,,MH02004734TEMP
+P-SBGBFPL-MH-0001,P-SBGBFPL-Shrishacciya biogas bio fertilizer pvt.ltd,Maharashtra,Nandurbar,21.60085,74.491908,planned,3,MIXED,11.35,"Alirajpur, Nandurbar and Barwani districts",425412,,,SBGBFPL
+P-SBPL3-MH-0001,P-SBPL3-SWAMIRAJ BIO-FUELS PRIVATE LIMITED,Maharashtra,Solapur,17.527371,76.212453,under_construction,10,AGR RES,7.01,Solapur District,413216,,,
+P-SCPL3-MH-0001,P-SCPL3-Sun-Shine CBG-CNG Private Limited,Maharashtra,SATARA,17.1838611,74.1181111,operational,12,MIXED,9.41,Sangli & Satara Districts,415110,,,MH02003910TEMP
+P-SERPL-MH-0001,P-SERPL-Srushti CBG Plant Shirud,Maharashtra,Dhule,20.756373,74.89398,planned,10,OTHERS,9.39,"Valsad (EAAA), Dhule & Nashik Districts",424311,,,
+P-SFSPL-MH-0001,P-SFSPL-samata facility services pvt ltd,Maharashtra,Latur,18.557398,77.025939,under_construction,5,CATTLE DUNG,9.40,Latur & Osmanabad Districts,413518,,,
+P-SGPAFL-MH-0003,P-SGPAFL-Swaraj Green Power and Fuel Ltd Unit-1,Maharashtra,Satara,17.8407,74.384008,planned,20,PRESS MUD,9.41,Sangli & Satara Districts,413308,,,
+P-SGPAFL-MH-0004,P-SGPAFL-Swaraj Green Power and Fuel Ltd Unit-2,Maharashtra,Satara,17.841035,74.385319,planned,20,PRESS MUD,9.41,Sangli & Satara Districts,415523,,,
+P-SGPAFL-MH-0002,P-SGPAFL-Swaraj Green Power and Fuel Ltd Unit-3,Maharashtra,Satara,17.841279,74.38634,planned,10,AGR RES,9.41,Sangli & Satara Districts,415523,,,
+P-SGPAFL-MH-0001,P-SGPAFL-Swaraj Green Power and Fuel Ltd Unit-4,Maharashtra,Satara,17.841864,74.388531,planned,20,AGR RES,9.41,Sangli & Satara Districts,413308,,,
+P-SGPL-MH-0001,P-SGPL-SWASTIK GREEN PRIVATE LIMITED,Maharashtra,Jalgaon,20.90686,75.130511,under_construction,3,AGR RES,11.29,"Beed, Jalgaon and Jalna districts",425111,,,
+P-SLNP1-MH-0001,P-SLNP1-Susbde LOC Nagpur Private Limited,Maharashtra,Nagpur,21.136015,79.162375,operational,28,MUNICIPAL WASTE,11.33,Nagpur district,440035,,,MH02001438TEMP
+P-SMSKL-MH-0001,P-SMSKL-Shreenath Mhaskoba Sakhar Karkhana Limited,Maharashtra,PUNE,18.60576,74.22905,operational,10,MIXED,4.08,Pune District (EAAA),412207,,,MH02001207TEMP
+P-SMSKS-MH-0001,P-SMSKS-Sahakar Maharshi Shankarrao Kolhe Sahakari Sakhar Karkhana Limited,Maharashtra,AHMEDNAGAR,20.38,74.65,operational,12,SPENT WASH,9.38,Ahmednagar & Aurangabad Districts,423603,,,MH02003877
+P-SREP2-HR-0001,P-SREP2-REFEX CBG KOLHAPUR PRIVATE LIMITED,Maharashtra,Kolhapur,16.857466,74.191745,operational,5.5,PRESS MUD,8.04,Kolhapur District,416113,,,MH02001162
+P-SSNAIPL-MH-0001,P-SSNAIPL-SAI NATH AGRI CBG PLANT,Maharashtra,Nagpur,21.143943,79.359562,planned,20,AGR RES,11.33,Nagpur district,441104,,,
+P-SVBCPL-MH-0001,P-SVBCPL-SHRI VITTHAL BIO CNG PRIVATE LIMITED,Maharashtra,Nanded,18.324058,77.523874,under_construction,3,AGR RES,11.28,"Buldana, Nanded and Parbhani districts",431741,,,
+P-UBPL-MH-0001,P-UBPL-United Bioenergy Private Limited,Maharashtra,Mumbai,19.161,73.946,operational,6,PRESS MUD,99.02,Mumbai & Greater Mumbai,400603,,,MH02000639
+P-VBEPL-MH-0001,P-VBEPL-Pawanara CBG plant,Maharashtra,Bhandara,21.453548,79.689417,under_construction,6,OTHERS,11.34,"Bhandara, Gondiya and Garchiroli districts",441912,,,MH02005823TEMP
+P-VBPL3-MH-0001,P-VBPL3-VALOR BIOENERGY PRIVATE LIMITED,Maharashtra,Beed,19.136585,76.296179,under_construction,12,PRESS MUD,11.29,"Beed, Jalgaon and Jalna districts",431131,,,
+P-VEPL2-MH-0001,P-VEPL2-VENTURIQ ENERGY PRIVATE LIMITED,Maharashtra,Kolhapur,16.125352,74.207399,planned,5,AGR RES,8.04,Kolhapur District,416504,,,
+P-VHAPL-MH-0001,P-VHAPL-VISHALSAGAR INDUSTRIES LIMITED,Maharashtra,Dhule,20.917681,74.781683,operational,5,AGR RES,9.39,"Valsad (EAAA), Dhule & Nashik Districts",424002,,,MH02003443TEMP
+P-VVDMS-MH-0001,P-VVDMS-Vikasratna Vilasrao Deshmukh Manjara Shetkari Sahakari Sakhar Karkhana Limited,Maharashtra,Latur,18.376796,76.472672,operational,8,SPENT WASH,9.40,Latur & Osmanabad Districts,413531,,,MH1003954TEMP
+P-XPPL-MH-0001,P-XPPL-XEMX PROJECTS PRIVATE LIMITED,Maharashtra,Solapur,17.740201,75.325806,operational,3.1,PRESS MUD,7.01,Solapur District,413304,,,MH1004960TEMP
+P-YNGPL-MH-0001,P-YNGPL-YUGANDHARA NATURAL GAS PRIVATE LIMITED,Maharashtra,Ahilyanagar,19.092952,74.749345,under_construction,5,AGR RES,9.38,Ahmednagar & Aurangabad Districts,414402,,,
+P-ZGGPL-MH-0001,P-ZGGPL-Zenith Kolhapur CBG Plant,Maharashtra,Kolhapur,16.429983,74.13716,planned,10,PRESS MUD,8.04,Kolhapur District,416219,,,MH02005383TEMP
+P-KCAP-OD-0001,P-KCAP-3 TPD CBG Plant _ Kanha CNG And Power,Odisha,Kalahandi,19.826576,83.04087,under_construction,3,OTHERS,11.38,"Rayagada, Kalahandi, Bolangir and Nuapada districts",766003,,,
+P-NOPL-OD-0001,P-NOPL-Nexband Renewables CBG Plant,Odisha,Khordha,20.106772,85.410933,under_construction,6,AGR RES,97.04,Khordha District,752026,,,
+P-OIL-OD-0001,P-OIL-OIL Bhubaneswar CBG Plant,Odisha,Khordha,20.268427,85.868802,under_construction,14,MUNICIPAL WASTE,97.04,Khordha District,751006,,,
+P-RBCPL-OD-0001,P-RBCPL-3 TPD CBG Plant,Odisha,Keonjhar,,,planned,3,MIXED,9.43,Angul & Dhekanal Districts,758078,,,
+P-RIL-OD-0002,P-RIL-Choudwar CBG Plant,Odisha,Cuttack,20.527682,85.910155,under_construction,20,AGR RES,97.05,Cuttack District,754025,,,OD02004315TEMP
+P-RIL-OD-0001,P-RIL-Dhenkanal-1 CBG Plant,Odisha,Dhenkanal,20.648869,85.573834,operational,20,AGR RES,9.43,Angul & Dhekanal Districts,759025,,,OD02004205
+P-RIL-OD-0004,P-RIL-Dhenkanal-2 CBG PLANT,Odisha,Dhenkanal,20.648869,85.573834,under_construction,20,AGR RES,9.43,Angul & Dhekanal Districts,759025,,,OD02004363TEMP
+P-A-PB-0001,P-A-AGS BIO CNG AND FERTILIZERS,Punjab,Bathinda,30.179481,75.04711,planned,3,OTHERS,6.01,Bhatinda  District,151101,,,
+P-AEPL1-PB-0001,P-AEPL1-Aquagreen Energies Private Limited,Punjab,Ludhiana,30.873864,76.223653,operational,3,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",141114,,,PB02000940TEMP
+P-BGBPL-PB-0001,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - FAZILKA,Punjab,Fazilka,30.284221,74.139565,under_construction,15,AGR RES,11.41,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",152121,,,PB02004744TEMP
+P-EPL-PB-0001,P-EPL-Enernxt Private Limited,Punjab,Ludhiana,30.728801,76.076133,under_construction,10,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",141416,,,
+P-FGPL-PB-0001,P-FGPL-Farm Gas Private Limited,Punjab,Ludhiana,30.723429,76.107144,operational,12,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",141412,,,PB02001002
+P-GAPL-PB-0002,P-GAPL-15 TPD CBG Plant using Paddy Straw at Barnala,Punjab,Barnala,30.37168,75.503989,planned,15,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",148107,,,
+P-GAPL-PB-0003,P-GAPL-15 TPD CBG Plant using Paddy Straw at Ludhiana,Punjab,Ludhiana,30.80417,75.475364,planned,15,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",142036,,,
+P-GAPL-PB-0001,P-GAPL-GPSR Arya Private Limited,Punjab,Moga,30.787755,75.159359,planned,15,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",142011,,,
+P-GBL1-PB-0001,P-GBL1-Grass2Gas Biofuels LLP,Punjab,Moga,30.897098,75.117069,operational,5.146,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",152028,,,PB02001121
+P-GIL-PB-0003,P-GIL-Amritsar CBG Project,Punjab,Amritsar,31.950235,74.886853,under_construction,20,AGR RES,4.07,Amritsar  District,143408,,,
+P-GIL-PB-0002,P-GIL-Moga CBG Project,Punjab,Moga,30.92901,75.308163,under_construction,20,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",142058,,,PB02005127TEMP
+P-GIL-PB-0001,P-GIL-SBS Nagar CBG Project,Punjab,Shahid Bhagat Singh Nagar,31.078043,76.198855,under_construction,14,AGR RES,9.54,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",144515,,,PB02005126TEMP
+P-GIL-PB-0004,P-GIL-Sri Muktsar Sahib CBG Project,Punjab,Sri Muktsar Sahib,30.286716,74.526223,under_construction,20,AGR RES,10.32,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",152026,,,
+P-HRGEL-PB-0001,P-HRGEL-LUDHIANA CBG PLANT,Punjab,Ludhiana,30.873857,75.794628,under_construction,4.8,CATTLE DUNG,3.06,Ludhiana,141001,,,
+P-HRGEL-PB-0002,P-HRGEL-MALERKOTLA - I (AMARGARH) CBG PLANT,Punjab,Malerkotla,30.463415,76.011557,under_construction,15,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",148022,,,
+P-HRGEL-PB-0003,P-HRGEL-MALERKOTLA - II (AHMEDGARH) CBG PLANT,Punjab,Malerkotla,30.677212,75.825815,planned,12,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",148020,,,
+P-HRGEL-PB-0004,P-HRGEL-PATIALA CBG PLANT,Punjab,Patiala,30.477686,76.593766,planned,15,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",140402,,,
+P-HRGEL-PB-0006,P-HRGEL-SANGRUR- I CBG PLANT,Punjab,Sangrur,30.134004,75.806278,planned,20,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",148033,,,
+P-HRGEL-PB-0005,P-HRGEL-SANGRUR - II (BHAWANIGARH) CBG PLANT,Punjab,Sangrur,30.262365,76.041332,planned,15,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",148026,,,
+P-IGRPL-PB-0003,"P-IGRPL-15 TPD CBG Project at Gurdaspur, Punjab",Punjab,Gurdaspur,32.031792,75.028464,planned,15,AGR RES,10.33,Hoshiarpur and Gurdaspur Districts,143604,,,
+P-IGRPL-PB-0004,"P-IGRPL-15 TPD CBG Project at Jalandhar, Punjab",Punjab,Jalandhar,31.126436,75.476138,planned,15,AGR RES,9.54,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",144703,,,
+P-IGRPL-PB-0001,"P-IGRPL-15 TPD CBG Project at Sangrur, Punjab",Punjab,Sangrur,30.291089,75.822401,planned,15,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",148001,,,
+P-IGRPL-PB-0002,"P-IGRPL-15 TPD CBG Project at Tarn Taran, Punjab",Punjab,Tarn Taran,31.424174,75.098203,planned,15,AGR RES,11.40,Tarn Taran district,143115,,,
+P-JGPPL-PB-0001,P-JGPPL-JKSH Green Power Private Limited,Punjab,Amritsar,31.744097,74.826672,operational,4.8,AGR RES,4.07,Amritsar  District,143101,,,PB02001041
+P-KAPL1-PB-0002,P-KAPL1-KV AGRITECH PVT LTD,Punjab,Kapurthala,31.375389,75.381047,planned,12,AGR RES,9.54,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",144601,,,
+P-MBL-PB-0001,P-MBL-MEPL Bio-Energy LLP,Punjab,Gurdaspur,31.854327,75.242886,operational,5.6,PRESS MUD,10.33,Hoshiarpur and Gurdaspur Districts,143521,,,PB02001326
+P-PRPL-PB-0001,P-PRPL-Patiala RNG Private Limited,Punjab,Patiala,29.944597,76.14484,operational,14.8,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",136033,,,PB02001039
+P-RCAML-PB-0001,P-RCAML-Hoshiarpur CBG Plant,Punjab,Hoshiarpur,31.609294,75.845975,operational,20,AGR RES,10.33,Hoshiarpur and Gurdaspur Districts,146024,,,GJ02001790
+P-RIL-PB-0005,P-RIL-Ludhiana-1 CBG Plant,Punjab,Ludhiana,30.873857,75.794628,under_construction,20,AGR RES,3.06,Ludhiana,141008,,,PB02004336TEMP
+P-RIL-PB-0004,P-RIL-Ludhiana-2 CBG PLANT,Punjab,Ludhiana,30.873857,75.794628,under_construction,20,AGR RES,3.06,Ludhiana,141008,,,PB02004329TEMP
+P-RIL-PB-0001,P-RIL-Mansa CBG Plant,Punjab,Mansa,29.928531,75.195708,operational,20,AGR RES,6.01,Bhatinda  District,151302,,,PB02004335TEMP
+P-SGEPL1-PB-0002,P-SGEPL1-LOHGARH,Punjab,Barnala,30.592463,75.67041,planned,7,AGR RES,9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",148020,,,
+P-SGEPL1-PB-0001,P-SGEPL1-SK GAS & ENERGY PVT LTD,Punjab,Malerkotla,30.331736,75.440106,planned,6,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",148020,,,
+P-SRPL-PB-0001,P-SRPL-Sangrur RNG Private Limited,Punjab,Sangrur,30.51858,75.693545,operational,14.84,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",148020,,,PB02001004
+P-TBGPL-PB-0001,P-TBGPL-Thind Bio Gas Pvt. Ltd.,Punjab,Jalandhar,31.332376,75.576889,under_construction,4.9,CATTLE DUNG,3.01,Jalandhar,144020,,,PB02002996TEMP
+P-TMFAB-PB-0001,P-TMFAB-T. R. Mega Foods And Beverages LLP,Punjab,Ludhiana,30.909016,75.851601,operational,5,CATTLE DUNG,3.06,Ludhiana,141008,,,PB02000874
+P-VIPL-PB-0001,P-VIPL-Verbio India Private Limited,Punjab,Sangrur,29.93338,75.872577,operational,28.4,AGR RES,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",148031,,,PB02000852
+P-WBPL-PB-0001,P-WBPL-Dera Bassi 5 TPD CBG plant,Punjab,S.A.S Nagar,30.676694,76.708488,planned,5,MIXED,9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",140507,,,PB02001146TEMP
+P-BC-RJ-0001,P-BC-Vikram Biofuels,Rajasthan,Jaipur,26.915458,75.818982,planned,12,MIXED,9.56,Alwar (Other than Bhiwadi) & Jaipur Districts,303338,,,
+P-BEPL-RJ-0001,P-BEPL-BioNG Jaipur CBG Plant,Rajasthan,Jaipur,26.712925,75.569544,planned,10,OTHERS,9.56,Alwar (Other than Bhiwadi) & Jaipur Districts,303904,,,
+P-BPAEL-RJ-0001,P-BPAEL-BNG POWER AND ENERGY LLP,Rajasthan,Kotputli-Behror,27.434494,76.182343,under_construction,6,AGR RES,9.56,Alwar (Other than Bhiwadi) & Jaipur Districts,303003,,,
+P-BPIWS-RJ-0002,P-BPIWS-Balicha CBG Plant- 20 TPD,Rajasthan,Udaipur,24.50456,73.682291,operational,0.7,MUNICIPAL WASTE,9.59,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,313002,,,RJ02001083
+P-BPIWS-RJ-0001,P-BPIWS-UDAIPUR PROJECT- 20 TPD,Rajasthan,UDAIPUR,24.5046917,73.6812194,operational,0.85,MIXED,9.59,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,313001,,,RJ02001083
+P-BPPL-RJ-0001,P-BPPL-Brajdham Power Private Limited,Rajasthan,Jaipur,26.795413,75.840764,operational,3.5,SEWAGE WASTE,9.56,Alwar (Other than Bhiwadi) & Jaipur Districts,302016,,,RJ02002198
+P-DBPL2-RJ-0001,P-DBPL2-DEEPMALA BIOFUELS PRIVATE LIMITED,Rajasthan,Chittorgarh,24.936245,74.503178,under_construction,3.25,OTHERS,9.59,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,312207,,,RJ02003748TEMP
+P-DGEPL-RJ-0001,P-DGEPL-DHANSA GREEN,Rajasthan,Bundi,25.405265,76.075118,under_construction,15,OTHERS,9.58,Bhilwara & Bundi Districts,323301,,,
+P-GGG1-RJ-0001,P-GGG1-Gopal Govardhan Goshala,Rajasthan,JALOR,24.7319722,71.8440833,operational,2,CATTLE DUNG,10.35,Jalore and Sirohi Districts,343041,,,RJ02004799
+P-IBPL1-RJ-0001,P-IBPL1-Intense Bio-Enerzies Private Limited,Rajasthan,Ganganagar,29.233539,74.041066,operational,3,AGR RES,11.41,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",335804,,,RJ02003085
+P-JBPL1-RJ-0001,P-JBPL1-JAIDN BIOENERGY PRIVATE LIMITED,Rajasthan,Jalore,25.323783,72.944729,planned,3,AGR RES,10.35,Jalore and Sirohi Districts,307030,,,RJ01006011TEMP
+P-KBBPL-RJ-0001,P-KBBPL-K-BHAAVYA BIO-GREEN-ENERGY PVT LTD,Rajasthan,Phalodi,27.129412,72.364964,planned,6,AGR RES,9.55,"Barmer, Jaisalmer & Jodhpur Districts",342301,,,P-KBBPL
+P-MBEPL1-RJ-0001,P-MBEPL1-Madhav bio energies pvt Ltd,Rajasthan,Banswara,23.689984,74.224147,planned,8,AGR RES,10.30,"Jhabua, Banswara, Ratlam and Dungarpur Districts",327025,,,maheshchandra
+P-NBPL1-RJ-0001,P-NBPL1-Napier Biofuels Private Limited,Rajasthan,Pali,24.85772,73.11621,under_construction,3,OTHERS,10.34,"Ajmer, Pali and Rajsamand Districts",306504,,,RJ02004793TEMP
+P-RBEPL2-RJ-0001,P-RBEPL2-RAKUJJ BIO ENERGY PRIVATE LIMITED,Rajasthan,Jhalawar,24.640132,76.302269,under_construction,3.5,OTHERS,11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",326038,,,RJ02003911TEMP
+P-RCPL-RJ-0001,P-RCPL-RAMA CBG PVT LTD,Rajasthan,Nagaur,26.727627,73.91741,planned,6,AGR RES,11.43,"Jhunjhunu, Sikar and Nagaur districts",342902,,,
+P-RGEPL1-RJ-0001,P-RGEPL1-Rajtech Green Energy Private Limited,Rajasthan,Jaipur,27.187769,75.623177,planned,6,MIXED,9.56,Alwar (Other than Bhiwadi) & Jaipur Districts,303801,,,
+P-RIL-RJ-0001,P-RIL-Kota CBG Plant,Rajasthan,Kota,25.190166,75.985157,operational,22,AGR RES,9.57,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",325201,,,RJ02004312
+P-RIL-RJ-0002,P-RIL-Suratgarh CBG Plant,Rajasthan,Ganganagar,29.5,74,operational,21,AGR RES,11.41,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",335804,,,RJ02004308
+P-RNPL-RJ-0001,P-RNPL-RAGHAV NEOGAS 5 TPD JETHANA,Rajasthan,Ajmer,26.272869,74.454916,planned,5,AGR RES,10.34,"Ajmer, Pali and Rajsamand Districts",305207,,,
+P-SBCL-RJ-0001,P-SBCL-Solitaire BioCNG LLP,Rajasthan,Udaipur,24.646764,74.224378,planned,5.5,OTHERS,9.59,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,313603,,,RJ02005107TEMP
+P-SBPL5-RJ-0001,P-SBPL5-Shivshanaya Biofuels Private Limited,Rajasthan,Hanumangarh,29.178506,74.413147,operational,2.5,CATTLE DUNG,11.41,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",335524,,,RJ02003036
+P-SBPL6-RJ-0001,P-SBPL6-Sai Bioenergy Private Limited Gurha Biofuel Plant,Rajasthan,Bikaner,27.724677,73.012326,operational,10,AGR RES,11.42,Bikaner and Churu districts,334302,,,RJ02003099
+P-SEPL4-RJ-0001,P-SEPL4-SOMNATH ENERGY PRIVATE LIMITED,Rajasthan,Jalore,25.406837,72.918524,planned,10,OTHERS,10.35,Jalore and Sirohi Districts,307029,,,
+P-SGEPL7-RJ-0001,P-SGEPL7-SGEPL CNG,Rajasthan,Alwar,27.858161,76.835872,planned,9,AGR RES,9.56,Alwar (Other than Bhiwadi) & Jaipur Districts,301411,,,
+P-SGEPL9-RJ-0001,P-SGEPL9-SARVION CBG PLANT,Rajasthan,Jhunjhunu,28.368973,75.848858,planned,5,OTHERS,11.43,"Jhunjhunu, Sikar and Nagaur districts",333033,,,P-SGEPL9
+P-SGIPL-RJ-0001,P-SGIPL-Sharma Green Industries Private Limited,Rajasthan,Ajmer,26.576409,74.587206,operational,6,NON DUNG,10.34,"Ajmer, Pali and Rajsamand Districts",305021,,,RJ02001122
+P-SKBST-RJ-0001,P-SKBST-SRI KRISHNA BALRAM SEVA TRUST,Rajasthan,Jaipur,26.844309,75.934496,operational,2.5,CATTLE DUNG,9.56,Alwar (Other than Bhiwadi) & Jaipur Districts,303012,,,RJ02002455
+P-SVREL-RJ-0001,P-SVREL-Shardasundar Vishnollia Renewables Energy LLP,Rajasthan,Barmer,25.483995,71.074919,under_construction,6.5,OTHERS,9.55,"Barmer, Jaisalmer & Jodhpur Districts",344702,,,RJ02003932TEMP
+P-TGEP2-RJ-0001,P-TGEP2-Transtech Green Energy Private Limited,Rajasthan,Jalore,24.793894,71.595025,operational,2,MIXED,10.35,Jalore and Sirohi Districts,343041,,,RJ02003296TEMP
+P-TGEPL3-RJ-0001,P-TGEPL3-Tejomay Green Energies,Rajasthan,Bharatpur,26.966049,77.499962,planned,5,OTHERS,99.13,Firozabad  (Taj Trapezium Zone),321403,,,
+P-AGEPL2-TN-0001,P-AGEPL2-AURENOVA GREEN ENERGY,Tamil Nadu,Karur,11.022571,77.833737,under_construction,12.5,AGR RES,11.52,Dindigul and Karur districts,639206,,,TN02005149TEMP
+P-EAL-TN-0001,P-EAL-Emami Agrotech Limited CBG Unit-1,Tamil Nadu,Virudhunagar,9.279493,78.322576,planned,20,AGR RES,11.50,"Madurai, Theni and Virudhnagar districts",623115,,,TN02004682TEMP
+P-ESSCP-TN-0001,P-ESSCP-Energim Sustainable Solutions Cuddalore Private Limited,Tamil Nadu,Cuddalore,11.49794,79.663697,operational,10.6,PRESS MUD,9.64,"Cuddalore, Nagapattinam & Tiruvarur Districts",608801,,,TN02001197
+P-IBPL-TN-0001,P-IBPL-IAV Biogas Private Limited,Tamil Nadu,Namakkal,11.303389,78.118604,operational,10,PRESS MUD,11.48,Namakkal and Tiruchirapalli districts,637014,,,TN02001151
+P-JRVJRSMJ-TN-0001,P-JRVJRSMJ-Getnew Technology & Services,Tamil Nadu,Kanniyakumari,8.200022,77.357022,planned,10,AGR RES,10.21,"Alapuzzha, Kollam and Thiruvananthapuram Districts",629801,,,
+P-K1-TN-0002,P-K1-AADHAVA ARJUNA BIO ENERGY,Tamil Nadu,Tirunelveli,8.489257,77.659671,planned,3,PRESS MUD,11.51,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",627354,,,
+P-K5EPPL-TN-0001,P-K5EPPL-Kayilan 5G Energy park private limited,Tamil Nadu,Ramanathapuram,9.358863,78.837528,planned,12.5,OTHERS,9.65,Ramanathapuram District,623533,,,
+P-KBEO-TN-0001,P-KBEO-KOVAI BIO ENERGY AND ORGANICS,Tamil Nadu,Erode,10.77607,77.507136,under_construction,12,NON DUNG,11.53,The Nilgiris and Erode districts,638702,,,TN02002792TEMP
+P-KB-TN-0001,P-KB-THENNAI AGRO PRODUCTS,Tamil Nadu,Theni,10.119866,77.546707,under_construction,12,NON DUNG,11.50,"Madurai, Theni and Virudhnagar districts",625602,,,TN02003454TEMP
+P-KEPL-TN-0001,P-KEPL-KONNAK 10 TPD BIO-CNG PLANT,Tamil Nadu,Thoothukkudi,8.83936,78.067791,planned,10,AGR RES,11.51,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",628002,,,
+P-MIF-TN-0001,P-MIF-Mother India Farms - CBG plant,Tamil Nadu,Dharmapuri,12.134799,78.158986,under_construction,2,AGR RES,11.45,Dharmapuri and Krishnagiri districts,635305,,,TN02003875TEMP
+P-MSEL-TN-0001,P-MSEL-Maha Shank Energy LLP,Tamil Nadu,Chennai,13.022121,79.517448,operational,2.8,PRESS MUD,9.62,Chennai & Tiruvallur Districts,600107,,,TN02001173
+P-QBPL-TN-0001,P-QBPL-Quantum Bioenergy,Tamil Nadu,Tiruchirappalli,11.059063,78.789053,planned,6,OTHERS,11.48,Namakkal and Tiruchirapalli districts,621109,,,
+P-RIPL1-TN-0001,P-RIPL1-Reglo Industries Private Limited,Tamil Nadu,Ramanathapuram,9.234662,78.786032,planned,12.5,OTHERS,9.65,Ramanathapuram District,623533,,,
+P-SBGPL-TN-0001,P-SBGPL-Spark Bio Gas Private Limited,Tamil Nadu,Chennai,13.149417,80.25775,operational,5.6,MUNICIPAL WASTE,9.62,Chennai & Tiruvallur Districts,600004,,,TN02000948
+P-SE-TN-0001,P-SE-SLR Energy,Tamil Nadu,Cuddalore,11.721465,79.658134,operational,2.8,PRESS MUD,9.64,"Cuddalore, Nagapattinam & Tiruvarur Districts",607105,,,TN02001099
+P-SWMSP-TN-0001,P-SWMSP-Srinivas Waste Management Services Private Limited,Tamil Nadu,Chennai,13.07551,80.25168,operational,4.8,MUNICIPAL WASTE,9.62,Chennai & Tiruvallur Districts,600083,,,TN02003115
+P-ABEPL-TS-0001,P-ABEPL-ARK BIO ENERGY PRIVATE LIMITED,Telangana,Nalgonda,17.335779,79.141455,under_construction,12,OTHERS,9.73,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,508113,,,TS02004445TEMP
+P-ABPL6-TS-0001,P-ABPL6-AGRIYIELD BIOENERGY PRIVATE LIMITED,Telangana,Khammam,17.089397,80.373736,planned,5,AGR RES,9.68,Bhadradri Kothagudem & Khamman Districts,507165,,,
+P-ABPL8-TS-0001,P-ABPL8-AGRIVERT BIOFUELS PRIVATE LIMITED,Telangana,Khammam,16.825095,80.47167,under_construction,5,OTHERS,9.68,Bhadradri Kothagudem & Khamman Districts,507202,,,
+P-ARPL-TS-0001,P-ARPL-AGAD RENEWABLES PRIVATE LIMITED,Telangana,Medak,17.906848,78.463397,under_construction,15,OTHERS,9.71,"Medak, Siddipet & Sangareddy Districts",502335,,,
+P-BCPL-TS-0001,P-BCPL-BIONEX CNG PRIVATE LIMITED,Telangana,Suryapet,17.026738,80.002586,planned,5,AGR RES,9.73,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,508206,,,TS02005228TEMP
+P-BEPPL-TS-0001,P-BEPPL-Biokrishi Energy Park,Telangana,Nalgonda,17.058899,79.26289,planned,12,OTHERS,9.73,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,508001,,,
+P-BGBPL-TS-0002,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - KAMAREDDY,Telangana,Kamareddy,18.152397,78.414461,planned,15,AGR RES,11.54,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",503101,,,
+P-BGBPL-TS-0001,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - NIZAMABAD,Telangana,Nizamabad,18.732827,78.274389,planned,15,AGR RES,11.54,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",503223,,,
+P-CGIPL-TS-0001,P-CGIPL-Clean Gas Innovations Private Limited,Telangana,Nalgonda,17.031903,78.914767,planned,3,OTHERS,9.73,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,508002,,,TS02004746TEMP 
+P-DAHCPL-TS-0001,P-DAHCPL-DHARTHI ALCHEMY HYD,Telangana,Medak,17.825552,78.612757,under_construction,10,OTHERS,9.71,"Medak, Siddipet & Sangareddy Districts",502334,,,
+P-DAL1-TS-0001,P-DAL1-DAL CBG induru,Telangana,Nizamabad,18.878105,78.154102,planned,15,OTHERS,11.54,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",503212,,,
+P-DEPL-TS-0001,P-DEPL-Devsristi Energy Private Limited,Telangana,Narayanpet,16.414003,77.346932,under_construction,24,AGR RES,99.09,Hyderabad,509352,,,TS02002491TEMP
+P-HIML1-TS-0001,P-HIML1-Hyderabad Integrated MSW Limited,Telangana,Hyderabad,17.5173,78.5858,operational,5.4,MUNICIPAL WASTE,9.72,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",500081,,,TS02002763
+P-IEPL1-TS-0001,P-IEPL1-Ishika Energies Private Limited,Telangana,Ranga Reddy,16.84899,78.405935,under_construction,3,AGR RES,9.72,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",509357,,,TS02003986TEMP
+P-JCPL-TS-0002,P-JCPL-Singoore I,Telangana,Sangareddy,17.794049,77.831108,planned,20,AGR RES,9.71,"Medak, Siddipet & Sangareddy Districts",502257,,,P-JCPL
+P-JJBFPL-TS-0005,P-JJBFPL-Juno Joule Bio Fuels Asifabad Plant - 1,Telangana,Adilabad,19.675945,78.53399,planned,10,OTHERS,11.54,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",504295,,,
+P-JJBFPL-TS-0003,P-JJBFPL-Juno Joule Bio Fuels Kamareddy - 1,Telangana,Nizamabad,18.673191,78.097819,planned,10,OTHERS,11.54,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",503145,,,
+P-JJBFPL-TS-0004,P-JJBFPL-Juno Joule Bio Fuels Nizamabad Plant - 1,Telangana,Nizamabad,18.790448,78.29072,planned,10,OTHERS,11.54,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",503212,,,
+P-JJBFPL-TS-0006,P-JJBFPL-Juno Joule Bio Fuels Telangana 10 TPD Plant 1,Telangana,Siddipet,18.086086,78.945996,under_construction,10,OTHERS,9.71,"Medak, Siddipet & Sangareddy Districts",502375,,,TS02004317TEMP
+P-JJBFPL-TS-0001,P-JJBFPL-Juno Joule Bio Fuels Telangana - 10 TPD Plant 2,Telangana,Siddipet,18.0487,78.981646,under_construction,10,OTHERS,9.71,"Medak, Siddipet & Sangareddy Districts",502375,,,TS02005141TEMP
+P-JJBFPL-TS-0002,P-JJBFPL-Juno Joule Bio Fuels Telangana - 10 TPD Plant 3,Telangana,Siddipet,18.0487,78.981646,under_construction,10,OTHERS,9.71,"Medak, Siddipet & Sangareddy Districts",502375,,,TS02005142TEMP
+P-MBPL5-TS-0001,P-MBPL5-Mulugu Bio Energy,Telangana,Warangal,18.176139,80.003722,under_construction,5,AGR RES,9.70,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",506352,,,TS02004023TEMP
+P-NBAOPL-TS-0001,P-NBAOPL-NAVATELANGANA BIO-FUELS AND ORGANICS PRIVATE LIMITED,Telangana,Sangareddy,17.948664,77.941248,planned,10,OTHERS,9.71,"Medak, Siddipet & Sangareddy Districts",502269,,,TS02005578TEMP
+P-OK-TS-0001,P-OK-Dhana Lakshmi CBG,Telangana,Sangareddy,18.224794,77.617909,planned,20,AGR RES,9.71,"Medak, Siddipet & Sangareddy Districts",458664,,,
+P-PGBPL-TS-0001,P-PGBPL-Thummalgudem,Telangana,Yadadri Bhuvanagiri,17.322292,79.052843,under_construction,10,AGR RES,9.73,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,508113,,,P-PGBPL
+P-RIL-TS-0001,P-RIL-Warangal CBG Plant,Telangana,Hanumakonda,18.128771,79.45282,operational,20.85,AGR RES,9.70,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",505476,,,TS02004318TEMP
+P-SPL1-TS-0001,P-SPL1-GreenArc-TS-Jogulamba,Telangana,Mahabubnagar,16.696569,77.959115,planned,10,OTHERS,11.55,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",509153,,,
+P-UBPL1-TS-0001,P-UBPL1-USHODAYAM BIOENERGY PRIVATE LIMITED,Telangana,Mahabubnagar,16.736552,78.306603,under_construction,10,AGR RES,11.55,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",509357,,,
+P-VGEPL-TS-0001,P-VGEPL-VSN Green Energy Pvt. Ltd,Telangana,Kamareddy,18.422707,78.309577,planned,12,OTHERS,11.54,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",503111,,,
+P-VR-TS-0001,P-VR-GMRS CBG PLANT,Telangana,Vikarabad,17.337922,77.903986,planned,5,MIXED,9.72,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",501502,,,GMRS CBG PLANT
+P-OIL-TR-0001,P-OIL-OIL-Agartala-CBG-Plant,Tripura,West Tripura,23.887079,91.323254,planned,5.2,MUNICIPAL WASTE,9.75,West Tripura (EAAA) District,799001,,,
+P-GAPL-IN-0001,P-GAPL-15 TPD CBG Plant using Paddy Straw at Kapurthala,Unknown,Unknown,31.385648,75.30533,planned,15,AGR RES,9.54,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",144802,,,
+P-HRGEL-IN-0001,P-HRGEL-HPRGE BADAUN CBG PLANT,Unknown,Unknown,24.085619,81.41016,planned,20,AGR RES,10.45,Shahjahanpur and Budaun Districts,243653,,,
+P-AEPL3-UT-0001,P-AEPL3-Anarobic Energy Private Limited,Uttarakhand,Haridwar,29.901746,78.139728,operational,1.43,SEWAGE WASTE,5.02,Haridwar District,249408,,,UK02001147
+P-JBPL-UT-0002,P-JBPL-JYOTIRAAJ BIOFUELS PRIVATE LIMITED,Uttarakhand,Udham Singh Nagar,29.166265,79.147609,planned,3,AGR RES,5.01,Udham Singh Nagar District,244712,,,
+P-NIPL-UT-0001,P-NIPL-Naruma Industries Private Limited,Uttarakhand,Haridwar,29.623446,77.994785,operational,5,PRESS MUD,5.02,Haridwar District,248002,,,UK02003785
+P-SJBE-UT-0001,P-SJBE-Shree Jee Bio Energy,Uttarakhand,Haridwar,29.967035,77.952852,operational,5,PRESS MUD,5.02,Haridwar District,249402,,,UK02003101
+P-AB-UP-0001,P-AB-A. A. Bio Energies,Uttar Pradesh,Kanpur Dehat,26.3646,79.831627,operational,2.4,CATTLE DUNG,9.79,"Auraiya, Kanpur Dehat & Etawah Districts",209301,,,UP02001158
+P-ABL1-UP-0002,P-ABL1-ANALA BBIOGAS LLP,Uttar Pradesh,Baghpat,28.943402,77.219337,planned,3,AGR RES,8.06,Bagpat District,250625,,,
+P-ABL2-UP-0001,P-ABL2-AMPHIVE BIOFUEL LLP,Uttar Pradesh,Aligarh,27.881541,78.069022,under_construction,2.4,MIXED,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202002,,,
+P-ABPL4-UP-0001,P-ABPL4-ACCONEY BIOAGRO PVT LTD,Uttar Pradesh,Baghpat,29.045816,77.195112,under_construction,2.4,CATTLE DUNG,8.06,Bagpat District,250619,,,UP02001369TEMP
+P-AEL1-UP-0001,P-AEL1-ATLAS ENERGIES LLP,Uttar Pradesh,Aligarh,27.977024,77.9603,planned,6.4,OTHERS,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202136,,,
+P-AEPL-UP-0001,P-AEPL-ADISSHRE ENERGIES PRIVATE LIMITED,Uttar Pradesh,Unnao,26.462053,80.631451,under_construction,9.6,AGR RES,9.84,Unnao (EAAA) District,209825,,,UP02004469TEMP
+P-AGEPL3-UP-0001,P-AGEPL3-APK GREEN ENERGY PRIVATE LIMITED,Uttar Pradesh,Aligarh,27.876953,77.94929,planned,6,AGR RES,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202001,,,
+P-AGPPL-UP-0001,P-AGPPL-ARORA GREEN POWER PRIVATE LIMITED,Uttar Pradesh,Aligarh,28.029833,78.28538,under_construction,2.4,MIXED,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202002,,,
+P-AIPL1-UP-0001,P-AIPL1-Anandmangal Infradevelopers Private Limited,Uttar Pradesh,Meerut,29.182542,77.72442,operational,5.98,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",250223,,,UP02000768
+P-AIPL-UP-0001,P-AIPL-Anvik Innovbiz Private Limited,Uttar Pradesh,Pilibhit,28.514349,80.151295,operational,6,MIXED,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",262122,,,UP02001718TEMP
+P-AKS1-UP-0003,P-AKS1-R P S BG,Uttar Pradesh,Sonbhadra,24.414816,83.063752,planned,6,AGR RES,10.44,"Mirzapur, Chandauli and Sonbhadra Districts",231216,,,
+P-AKS1-UP-0001,P-AKS1-ShivRaji Bio Gas,Uttar Pradesh,Varanasi,25.335649,83.007629,planned,6,AGR RES,97.06,Varanasi District,232110,,,
+P-AKS1-UP-0002,P-AKS1-ShivRaj Nature,Uttar Pradesh,Ghazipur,25.603486,83.507589,planned,6,AGR RES,10.41,Jaunpur and Ghazipur Districts,232331,,,
+P-ASGEPL-UP-0001,P-ASGEPL-AADI SHAKTI GREEN ENERGY PRIVATE LIMITED,Uttar Pradesh,Chandauli,24.853188,82.688188,under_construction,6,AGR RES,10.44,"Mirzapur, Chandauli and Sonbhadra Districts",231210,,,
+P-ATBL-UP-0001,P-ATBL-Adani TotalEnergies Biomass Limited,Uttar Pradesh,Mathura,27.497349,77.461187,operational,10,CATTLE DUNG,99.13,Firozabad  (Taj Trapezium Zone),281405,,,UP02002447
+P-BCB-UP-0001,P-BCB-Bindu & Chandra Bio Energies,Uttar Pradesh,Ayodhya,26.733059,81.973224,under_construction,2.5,MIXED,9.80,Faizabad & Sultanpur Districts,224126,,,UP02003412TEMP
+P-BEL2-UP-0001,P-BEL2-BIOFLUX ENERGY LLP,Uttar Pradesh,Ghaziabad,28.797605,77.616237,planned,8,PRESS MUD,99.19,Ghaziabad & Hapur Districts,201204,,,UP02004064TEMP
+P-BEL-UP-0002,P-BEL-BUDHRAM ENERGY LLP,Uttar Pradesh,Lucknow,27.034943,80.921437,under_construction,2.4,PRESS MUD,99.17,Lucknow,226203,,,UP02004217TEMP
+P-BEPL1-UP-0001,P-BEPL1-BIOSPARK ENERGY PRIVATE LIMITED,Uttar Pradesh,Muzaffarnagar,29.449698,77.742933,operational,4,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251203,,,UP02002344
+P-BEPL2-UP-0001,P-BEPL2-BIORISE ENERGY PRIVATE LIMITED,Uttar Pradesh,Aligarh,27.881541,78.069022,under_construction,2.4,MIXED,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202002,,,
+P-BGBPL-UP-0004,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - AMETHI,Uttar Pradesh,Amethi,26.265787,81.69917,planned,15,AGR RES,9.80,Faizabad & Sultanpur Districts,227411,,,UP02004739TEMP
+P-BGBPL-UP-0005,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - DEORIA,Uttar Pradesh,Deoria,26.333798,84.083052,planned,15,AGR RES,11.07,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",214702,,,UP02004740TEMP
+P-BGBPL-UP-0001,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - MAHARAJGANJ,Uttar Pradesh,Mahrajganj,27.141081,83.336665,under_construction,15,AGR RES,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",273155,,,UP02004432TEMP
+P-BGBPL-UP-0003,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - RAEBARELI,Uttar Pradesh,Rae Bareli,26.021748,81.464421,planned,15,AGR RES,9.78,"Amethi, Pratapgarh & Raebareli Districts",229127,,,UP02004738TEMP
+P-BGBPL-UP-0002,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - SIDDHARTHNAGAR,Uttar Pradesh,Siddharthnagar,27.143097,82.950221,under_construction,15,AGR RES,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",272154,,,UP02004743TEMP
+P-BIESL-UP-0001,P-BIESL-BIO IGNITE ENERGY SOLUTIONS LLP,Uttar Pradesh,Bijnor,29.307632,78.509618,planned,12,PRESS MUD,10.46,Bijnor and Nainital Districts,246761,,,
+P-BLOPS-UP-0001,P-BLOPS-BLOP & SONS,Uttar Pradesh,Gonda,27.104874,81.703579,planned,6,OTHERS,10.40,Gonda and Barabanki Districts,271311,,,UP02006102TEMP
+P-BPEL-UP-0001,P-BPEL-BIO PULSE ENERGY LLP,Uttar Pradesh,Bijnor,29.369522,78.137143,planned,12,PRESS MUD,10.46,Bijnor and Nainital Districts,246721,,,
+P-BUGPL-UP-0001,P-BUGPL-Bio Urjaa Green Private Limited,Uttar Pradesh,Moradabad,28.833498,78.773286,planned,8,PRESS MUD,98.03,Moradabad,244501,,,
+P-CBRPL-UP-0001,P-CBRPL-CHAUDHARY BIO RESOURCES PRIVATE LIMITED,Uttar Pradesh,Meerut,29.148217,77.743828,under_construction,9.6,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",250221,,,
+P-CCIPL-UP-0001,P-CCIPL-Circle CBG India Private Limited,Uttar Pradesh,Meerut,29.0268,77.9317,operational,14.6,PRESS MUD,1.06,Meerut,250402,,,UP02001307
+P-CCPL-UP-0001,P-CCPL-Baheri,Uttar Pradesh,Bareilly,28.778123,79.500543,operational,10,PRESS MUD,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",243201,,,UP02001149
+P-CCRPL-UP-0001,P-CCRPL-Nawabganj,Uttar Pradesh,Bareilly,28.539696,79.631632,under_construction,10,OTHERS,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",262406,,,
+P-CPL-UP-0001,P-CPL-Carboneu Pvt Ltd,Uttar Pradesh,Muzaffarnagar,29.410524,77.90688,under_construction,19,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251134,,,UP02004559TEMP
+P-CPPL-UP-0001,P-CPPL-CBG PARK PRIVATE LIMITED,Uttar Pradesh,Bulandshahr,28.387407,77.97438,under_construction,7.2,AGR RES,98.01,Khurja,203131,,,
+P-CSL-UP-0001,P-CSL-Cleanleap Solution LLP,Uttar Pradesh,Fatehpur,25.834802,80.915455,under_construction,3,AGR RES,10.42,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",212601,,,
+P-DBPL1-UP-0001,P-DBPL1-Dhruva Biofuels Private Limited,Uttar Pradesh,Bareilly,28.289678,79.526847,operational,6,PRESS MUD,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",243122,,,UP02001200
+P-DBPL-UP-0001,P-DBPL-Degna Bioenergy Private Limited,Uttar Pradesh,Hapur,28.686107,77.791722,operational,9.6,PRESS MUD,99.19,Ghaziabad & Hapur Districts,245101,,,UP02001063
+P-DBSAIL-UP-0002,P-DBSAIL-DBSIL Aonla CBG Plant,Uttar Pradesh,Bareilly,28.28,79.17,planned,15,OTHERS,99.03,Bareilly,243301,,,
+P-DBSAIL-UP-0003,P-DBSAIL-DBSIL Baghauli CBG Plant,Uttar Pradesh,Hardoi,27.200961,80.226139,planned,15,PRESS MUD,10.39,"Farrukhabad, Etah and Hardoi Districts",241122,,,
+P-DBSAIL-UP-0001,P-DBSAIL-DBSIL Jawaharpur CBG Plant,Uttar Pradesh,Sitapur,27.523786,80.559474,planned,20,PRESS MUD,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261001,,,
+P-DBSAIL-UP-0004,P-DBSAIL-DBSIL Nigohi CBG Plant,Uttar Pradesh,Shahjahanpur,28.059233,79.868883,planned,15,PRESS MUD,10.45,Shahjahanpur and Budaun Districts,242407,,,
+P-DGL-UP-0001,P-DGL-Dev & Gargi Greenenergy LLP,Uttar Pradesh,Mathura,28.5128974,77.2328172,operational,2.5,MIXED,99.01,National Capital Territory of Delhi,281203,,,UP02003532
+P-DPIPL-UP-0001,P-DPIPL-Dev Priya CBG Plant,Uttar Pradesh,Meerut,28.99633,77.706192,under_construction,6,MIXED,1.06,Meerut,250001,,,
+P-DREPL1-UP-0001,P-DREPL1-DEVERA RENEWABLE ENERGY PRIVATE LIMITED,Uttar Pradesh,Aligarh,27.882719,78.099166,under_construction,2.4,MIXED,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202002,,,
+P-DSL-UP-0001,P-DSL-DCM Shriram Limited,Uttar Pradesh,Kheri,27.923876,80.163899,operational,12,PRESS MUD,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261505,,,UP02002660TEMP
+P-EBEPL-UP-0001,P-EBEPL-ECONOVA BIO ENERGY PRIVATE LIMITED,Uttar Pradesh,Aligarh,27.881541,78.069022,under_construction,2.4,MIXED,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202132,,,
+P-EBPL-UP-0001,P-EBPL-Evati bioenergy private limited,Uttar Pradesh,Bahraich,27.824731,80.478758,planned,12,PRESS MUD,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",262805,,,
+P-EMPL-UP-0002,P-EMPL-CHAKRANAGAR CBG PLANT,Uttar Pradesh,Etawah,26.570957,79.113619,planned,6,OTHERS,9.79,"Auraiya, Kanpur Dehat & Etawah Districts",206125,,,
+P-EMPL-UP-0003,P-EMPL-SAFIPUR CBG PLANT,Uttar Pradesh,Unnao,26.838518,80.281133,planned,6,OTHERS,9.84,Unnao (EAAA) District,209871,,,
+P-EMPL-UP-0001,P-EMPL-SHIKHOABAD CBG PLANT,Uttar Pradesh,Firozabad,27.194195,78.460496,planned,6,OTHERS,99.13,Firozabad  (Taj Trapezium Zone),283135,,,
+P-ESSPL-UP-0001,P-ESSPL-Ecotaras Sustainable Solutionz Private Limited,Uttar Pradesh,Sitapur,27.711087,80.902953,under_construction,10,PRESS MUD,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261135,,,UP02001903TEMP
+P-FBL-UP-0002,P-FBL-FARMPAX BIOENERGY LLP,Uttar Pradesh,Bareilly,28.491442,79.648988,operational,5,AGR RES,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",243407,,,UP02003368TEMP
+P-FIPL-UP-0001,P-FIPL-FARMWATT INNOVATION,Uttar Pradesh,Chitrakoot,25.126238,81.459745,planned,10,AGR RES,11.63,"Banda, Chitrakoot and Mahoba",210208,,,
+P-GBPL8-UP-0001,P-GBPL8-Greenspaark Bioenergy Private Limited,Uttar Pradesh,Bulandshahr,28.357348,78.267872,under_construction,15,AGR RES,8.05,Bulandshahr (part) District,202390,,,UP02004672TEMP
+P-GBPL-UP-0001,P-GBPL-Girvar & Sons Bio Energy Private Limited,Uttar Pradesh,Muzaffarnagar,29.326618,77.850439,operational,5.6,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251201,,,UP02001297
+P-GGEPL-UP-0001,P-GGEPL-Garg Green Energy Private Limited,Uttar Pradesh,Meerut,28.99633,77.706192,planned,12,AGR RES,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",250502,,,
+P-GHBEP-UP-0001,P-GHBEP-Green House Bio Energy Private Limited,Uttar Pradesh,MUZAFFARNAGAR,29.3466944,77.4862778,operational,10,MIXED,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251319,,,UP02002254TEMP
+P-GIL-UP-0001,P-GIL-Sultanpur CBG project,Uttar Pradesh,Sultanpur,26.242004,82.667927,under_construction,20,AGR RES,9.80,Faizabad & Sultanpur Districts,228145,,,UP02004693TEMP
+P-GSGEPL-UP-0001,P-GSGEPL-GIRVAR & SONS GREEN ENERGY PRIVATE LIMITED,Uttar Pradesh,Muzaffarnagar,29.27386,77.737461,planned,24,AGR RES,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251201,,,girvargreen1
+P-GVBE1-UP-0001,P-GVBE1-Gati Vivaan Biomass Energia LLP,Uttar Pradesh,Lucknow,27.056503,80.941027,operational,6,AGR RES,99.17,Lucknow,226203,,,UP02003180
+P-GVFS-UP-0001,P-GVFS-Gobardhan Varanasi Foundation-SPV,Uttar Pradesh,Varanasi,25.268055,82.846149,operational,3,MIXED,97.06,Varanasi District,221311,,,UP02000072
+P-HBEGERPL-UP-0001,P-HBEGERPL-HIMALAYA BIO ENERGY & GREEN ENERGY REVOLUTION PRIVATE,Uttar Pradesh,Amroha,28.798967,78.343409,planned,12,PRESS MUD,11.58,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,244242,,,
+P-HPCL1-UP-0001,P-HPCL1-BADAUN CBG PLANT,Uttar Pradesh,Budaun,28.024976,79.403276,operational,14.25,AGR RES,10.45,Shahjahanpur and Budaun Districts,243635,,,
+P-HRGEL-UP-0001,P-HRGEL-BAREILLY CBG PLANT,Uttar Pradesh,Bareilly,28.208326,79.537596,under_construction,20,AGR RES,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",243503,,,
+P-HRGEL-UP-0002,P-HRGEL-KANNAUJ CBG PLANT,Uttar Pradesh,Kannauj,26.998667,79.692795,planned,20,AGR RES,10.43,Mainpuri and Kannauj Districts,209736,,,
+P-IGRPL-UP-0004,"P-IGRPL-15 TPD CBG Project at Gazipur, Uttar Pradesh",Uttar Pradesh,Ghazipur,25.625504,83.755677,planned,15,AGR RES,10.41,Jaunpur and Ghazipur Districts,233227,,,
+P-IGRPL-UP-0008,"P-IGRPL-15 TPD CBG Project at Jaunpur, Uttar Pradesh",Uttar Pradesh,Jaunpur,26.018644,82.617202,under_construction,15,AGR RES,10.41,Jaunpur and Ghazipur Districts,223104,,,UP02003828TEMP 
+P-IGRPL-UP-0005,"P-IGRPL-15 TPD CBG Project at Sant Kabir Nagar, Uttar Pradesh",Uttar Pradesh,Sant Kabir Nagar,26.977253,83.110862,planned,15,AGR RES,9.81,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",272271,,,
+P-IGRPL-UP-0006,"P-IGRPL-15 TPD CBG Project at Sitapur, Uttar Pradesh",Uttar Pradesh,Sitapur,27.490482,80.995364,under_construction,15,AGR RES,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261201,,,
+P-IGRPL-UP-0003,"P-IGRPL-IOC GPS 15 TPD CBG Project at Lakhimpur Kheri, Uttar Pradesh",Uttar Pradesh,Kheri,27.819379,80.474705,under_construction,15,AGR RES,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261505,,,UP02003830TEMP
+P-IOBEL-UP-0001,P-IOBEL-IK OKAAR BIO ENERGY LLP,Uttar Pradesh,Aligarh,28.253265,77.853916,under_construction,2.4,MIXED,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202136,,,
+P-IOCL-UP-0003,P-IOCL-200TPD-MSW-CBG-GORAKHPUR,Uttar Pradesh,Gorakhpur,26.7514527,83.1545,planned,7,MUNICIPAL WASTE,9.81,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",273408,,,
+P-IOCL-UP-0001,P-IOCL-Compressed Biogas Plant Gorakhpur,Uttar Pradesh,Gorakhpur,26.363596,83.364137,operational,20.33,AGR RES,9.81,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",273409,,,UP02001179
+P-IOCL-UP-0002,P-IOCL-Gonda CBG Plant,Uttar Pradesh,Gonda,27.133483,81.961974,planned,15,AGR RES,10.40,Gonda and Barabanki Districts,271003,,,
+P-IPL-UP-0001,P-IPL-Indian Potash Limited,Uttar Pradesh,Lucknow,29.563226,77.68953,operational,10.2,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",226001,,,UP02001062
+P-JBPL2-UP-0001,P-JBPL2-JEEVANAMSHA BIOFUELS PRIVATE LIMITED,Uttar Pradesh,Baghpat,26.842091,80.947821,operational,3,PRESS MUD,8.06,Bagpat District,250617,,,UP02004528TEMP
+P-JEBLP-UP-0001,P-JEBLP-JBM Enviro Bioenergy Lucknow Private Limited,Uttar Pradesh,LUCKNOW,26.742583,80.849666,operational,8,MIXED,99.17,Lucknow,226008,,,UP02002977TEMP
+P-JEPL-UP-0001,P-JEPL-JAIVXCELERATE ENERGY PVT LTD,Uttar Pradesh,Bulandshahr,28.232547,78.063698,under_construction,10,PRESS MUD,8.05,Bulandshahr (part) District,203395,,,UP02003387TEMP
+P-JI-UP-0001,P-JI-JAVA CBG PLANT - LALGANJ,Uttar Pradesh,Mirzapur,24.848521,82.283296,planned,5,AGR RES,10.44,"Mirzapur, Chandauli and Sonbhadra Districts",231211,,,
+P-JPPL1-UP-0001,P-JPPL1-JK CBG Plant-Mawana,Uttar Pradesh,Meerut,28.850064,77.934738,planned,20,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",250104,,,UP02003865TEMP
+P-JVUL-UP-0001,P-JVUL-Jaivik Vikalp Urja LLP,Uttar Pradesh,Moradabad,28.701015,78.734121,operational,3,PRESS MUD,98.03,Moradabad,244001,,,UP02000910
+P-KBEL2-UP-0001,P-KBEL2-KALI BIO ENERGY LLP,Uttar Pradesh,Budaun,28.407652,78.905159,under_construction,6,AGR RES,10.45,Shahjahanpur and Budaun Districts,243632,,,UP02003174TEMP
+P-KBNL-UP-0001,P-KBNL-Sadhna Business Network Limited,Uttar Pradesh,MATHURA,27.799681,77.428857,operational,2.5,CATTLE DUNG,1.03,Mathura,201301,,,UP02002350
+P-LGEP1-UP-0001,P-LGEP1-Lathar Green Energy Private Limited,Uttar Pradesh,Shahjahanpur,27.962726,79.737593,operational,5,PRESS MUD,10.45,Shahjahanpur and Budaun Districts,242307,,,UP02002294
+P-LKRPL-UP-0002,P-LKRPL-Balrampur,Uttar Pradesh,Balrampur,27.398584,82.125286,operational,10.6,PRESS MUD,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",271209,,,UP02000821
+P-LKRPL-UP-0001,P-LKRPL-Kumbhi,Uttar Pradesh,Kheri,27.949094,80.355566,operational,10.6,PRESS MUD,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",262804,,,UP02000820
+P-LRPL-UP-0001,P-LRPL-LUCKNOW RNG PRIVATE LIMITED,Uttar Pradesh,Lucknow,26.759521,80.8375,under_construction,10,MUNICIPAL WASTE,99.17,Lucknow,226009,,,UP02001441TEMP
+P-MAPL-UP-0001,P-MAPL-chattauni,Uttar Pradesh,Sitapur,27.41997,81.251841,planned,6,AGR RES,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261203,,,P-GBEPL
+P-MBBG-UP-0001,P-MBBG-BULAND BIO GAS,Uttar Pradesh,Bulandshahr,28.387407,77.97438,operational,3,PRESS MUD,8.05,Bulandshahr (part) District,203001,,,UP02001135
+P-MBPL-UP-0001,P-MBPL-Mahelka Bioenergy Private Limited,Uttar Pradesh,Meerut,29.148653,77.636202,operational,10,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",250223,,,UP02000906TEMP
+P-MCPL1-UP-0001,P-MCPL1-Manash Construction Private Limited,Uttar Pradesh,Ghazipur,25.571706,83.617255,under_construction,3,AGR RES,10.41,Jaunpur and Ghazipur Districts,232336,,,UP02004474TEMP
+P-ME-UP-0001,P-ME-Mittal Enterprises,Uttar Pradesh,Hapur,28.7190592,78.0988264,operational,5.6,MIXED,99.19,Ghaziabad & Hapur Districts,245101,,,UP02000745
+P-MHF-UP-0004,P-MHF-GREEN ENERGY CNG PLANT,Uttar Pradesh,Unnao,26.45915,80.773501,planned,6,AGR RES,99.04,Kanpur,209827,,,
+P-MHF-UP-0005,P-MHF-GREEN ENERGY MHF CNG PLANT,Uttar Pradesh,Gonda,27.111594,81.923891,planned,6,AGR RES,10.40,Gonda and Barabanki Districts,271001,,,
+P-MHF-UP-0006,P-MHF-Green Energy Plant,Uttar Pradesh,Ghaziabad,28.832071,77.577087,planned,6,AGR RES,99.19,Ghaziabad & Hapur Districts,201204,,,
+P-MHF-UP-0003,P-MHF-GREEN MHF CNG Plant,Uttar Pradesh,Gonda,27.126996,81.692079,planned,6,AGR RES,10.40,Gonda and Barabanki Districts,271308,,,
+P-MHF-UP-0001,P-MHF-MADAGASCAR CNG Plant,Uttar Pradesh,Bahraich,27.24836,81.546875,planned,6,AGR RES,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",271841,,,
+P-MHF-UP-0002,P-MHF-MHF CNG Plant,Uttar Pradesh,Bahraich,27.253284,81.54638,planned,6,AGR RES,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",271903,,,
+P-MPCSA-UP-0001,P-MPCSA-Prerna Cold Storage And Allied Industries,Uttar Pradesh,BARABANKI,27.215698,81.070258,operational,3,MIXED,10.40,Gonda and Barabanki Districts,225306,,,UP02003786TEMP
+P-MST-UP-0001,P-MST-Srijan Traders,Uttar Pradesh,Kushinagar,26.946054,84.009972,operational,2,AGR RES,9.81,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",274304,,,UP02000839
+P-MYC-UP-0001,P-MYC-Yuvraaj Constructions,Uttar Pradesh,BARABANKI,27.669342,81.169148,operational,3,MIXED,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",225404,,,UP02003961TEMP
+P-NBFEL-UP-0001,P-NBFEL-N R S Biofuel Energies LLP,Uttar Pradesh,Saharanpur,30.194157,77.609174,operational,6,PRESS MUD,6.02,Saharanpur District,247121,,,UP02003003TEMP
+P-NEPL1-UP-0001,P-NEPL1-NOYAL ENERGY PRIVATE LIMITED,Uttar Pradesh,Budaun,27.917265,79.097307,under_construction,6,AGR RES,10.45,Shahjahanpur and Budaun Districts,243600,,,UP01005313TEMP
+P-NEPL3-UP-0001,P-NEPL3-NORDLYS ENERGY PRIVATE LIMITED,Uttar Pradesh,Aligarh,27.883133,78.097722,under_construction,2.4,MIXED,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202002,,,
+P-NPL-UP-0001,P-NPL-NAFREEN PRIVATE LIMITED,Uttar Pradesh,Pilibhit,28.6295,79.805407,planned,6,AGR RES,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",262001,,,
+P-OIPL-UP-0001,P-OIPL-OAKYARD INDUSTRIES PRIVATE LIMITED,Uttar Pradesh,Aligarh,28.065049,78.049245,under_construction,2.5,OTHERS,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202126,,,OAKYARD INDUSTR
+P-PBL-UP-0001,P-PBL-Parauri Biofuels LLP,Uttar Pradesh,LAKHIMPUR KHERI,27.9113889,80.8761111,operational,5,MIXED,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",262728,,,UP02004094TEMP
+P-PBPL-UP-0001,P-PBPL-15 TPD CBG Plant based on Press Mud & Cane Straw at Baghpat,Uttar Pradesh,Baghpat,29.156064,77.306403,under_construction,15,PRESS MUD,8.06,Bagpat District,250309,,,
+P-PBPL-UP-0002,P-PBPL-15 TPD CBG Plant using Press Mud & Cane Straw at Muzaffarnagar,Uttar Pradesh,Muzaffarnagar,29.315934,77.471107,under_construction,15,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251309,,,
+P-PBPL4-UP-0001,P-PBPL4-PROTAGON BIO-CHEM PRIVATE LIMITED,Uttar Pradesh,Agra,27.113072,77.901101,under_construction,4.8,AGR RES,99.13,Firozabad  (Taj Trapezium Zone),283105,,,UP1004847TEMP
+P-PF-UP-0001,P-PF-Panchvati Foods,Uttar Pradesh,Rae Bareli,26.35688,81.236023,operational,4.8,MIXED,9.78,"Amethi, Pratapgarh & Raebareli Districts",229306,,,UP02000861TEMP
+P-PGEPL-UP-0004,P-PGEPL-PARICHAY GREEN ENERGY PRIVATE LIMITED,Uttar Pradesh,Bulandshahr,28.405652,77.854252,planned,2.4,MIXED,98.01,Khurja,203131,,,
+P-PIPL1-UP-0001,P-PIPL1-PECS INFRA PRIVATE LIMITED,Uttar Pradesh,Amethi,26.805802,81.807425,under_construction,12,AGR RES,9.80,Faizabad & Sultanpur Districts,225001,,,PECS7832
+P-PRPL1-UP-0001,P-PRPL1-PRAYAGRAJ RNG PRIVATE LIMITED,Uttar Pradesh,Prayagraj,25.421227,81.867993,operational,10.4,MUNICIPAL WASTE,2.02,Allahabad,211008,,,UP02001474
+P-PSG-UP-0002,P-PSG-PS GREEN GAS,Uttar Pradesh,Muzaffarnagar,29.23996,77.723017,operational,5.6,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251201,,,
+P-QEACPL-UP-0001,P-QEACPL-6 TPD CBG Plant by Quest Engineers and Consultants Pvt Ltd,Uttar Pradesh,Kheri,28.341918,80.503203,under_construction,6,OTHERS,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",262901,,,UP02002790temp
+P-RBCMP-UP-0001,P-RBCMP-Rajput Bio CNG Manure Private Limited,Uttar Pradesh,Amroha,28.63782,78.310569,under_construction,7,PRESS MUD,11.58,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,244255,,,UP02001258TEMP
+P-RBCMP-UP-0002,P-RBCMP-RAJPUT BIO CNG MANURE PVT LTD,Uttar Pradesh,Rampur,28.570647,79.019898,planned,7,PRESS MUD,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",244922,,,UP02004446TEMP
+P-RBEL-UP-0001,P-RBEL-Noida CBG Plant,Uttar Pradesh,Gautam Buddha Nagar,28.570633,77.327215,under_construction,22.5,OTHERS,99.20,Gautam Budh Nagar District,203202,,,UP02004398TEMP
+P-RBPL4-UP-0001,P-RBPL4-RC BIOTECH PRIVATE LIMITED,Uttar Pradesh,Budaun,28.29138,80.172024,under_construction,6,AGR RES,10.45,Shahjahanpur and Budaun Districts,242402,,,
+P-RC-UP-0001,P-RC-RAGHAV CHANDAK CBG PLANT,Uttar Pradesh,Hamirpur,25.75,80,planned,12,AGR RES,10.42,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",210301,,,
+P-RDOPL-UP-0001,P-RDOPL-Dhampur Plant,Uttar Pradesh,Bijnor,29.283799,78.504226,planned,36,AGR RES,10.46,Bijnor and Nainital Districts,246761,,,
+P-RESL-UP-0001,P-RESL-Renefuels Energy Solutions LLP,Uttar Pradesh,Muzaffarnagar,29.476904,77.878983,under_construction,3,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251308,,,UP02000733TEMP
+P-RFCIIPL-UP-0001,P-RFCIIPL-RAJSHREE FINE CHEMICAL INDIA PRIVATE LIMITED,Uttar Pradesh,Budaun,28.053329,79.647883,planned,20,AGR RES,10.45,Shahjahanpur and Budaun Districts,242301,,,
+P-RIL-UP-0008,P-RIL-Ambedkarnagar CBG Plant,Uttar Pradesh,Ambedkar Nagar,26.404594,82.606515,under_construction,22.5,AGR RES,10.38,Basti and Ambedkarnagar Districts,224212,,,UP02004390TEMP
+P-RIL-UP-0009,P-RIL-Ayodhya CBG Plant,Uttar Pradesh,Bara Banki,26.901331,81.21516,under_construction,22,AGR RES,10.40,Gonda and Barabanki Districts,224120,,,UP02004353TEMP
+P-RIL-UP-0001,P-RIL-Barabanki CBG Plant,Uttar Pradesh,Bara Banki,26.901331,81.21516,operational,20,AGR RES,10.40,Gonda and Barabanki Districts,225123,,,UP02001774
+P-RIL-UP-0005,P-RIL-Chandauli CBG Plant,Uttar Pradesh,Chandauli,25.265708,83.406456,operational,22.5,AGR RES,10.44,"Mirzapur, Chandauli and Sonbhadra Districts",232111,,,UP02004345TEMP
+P-RIL-UP-0004,P-RIL-Haidergarh CBG Plant,Uttar Pradesh,Barabanki,26.92741,81.194838,operational,20,AGR RES,10.40,Gonda and Barabanki Districts,225126,,,UP02004362
+P-RIL-UP-0003,P-RIL-Hapur CBG Plant,Uttar Pradesh,Hapur,28.692314,77.766677,operational,22,AGR RES,99.19,Ghaziabad & Hapur Districts,245101,,,UP02004314
+P-RIL-UP-0010,P-RIL-Pilibhit CBG Plant,Uttar Pradesh,Pilibhit,28.317698,79.842241,under_construction,22.5,OTHERS,10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",262201,,,UP02004346TEMP
+P-RIL-UP-0002,P-RIL-Prayagraj-1 CBG Plant,Uttar Pradesh,Prayagraj,25.283293,81.948435,operational,20,AGR RES,2.02,Allahabad,211010,,,UP02001785
+P-RIL-UP-0011,P-RIL-Prayagraj-2 CBG Plant,Uttar Pradesh,Prayagraj,25.43813,81.8338,operational,21,AGR RES,2.02,Allahabad,211010,,,UP02004364TEMP
+P-RIL-UP-0007,P-RIL-Unnao CBG Plant,Uttar Pradesh,Unnao,26.48634,80.836714,under_construction,20,AGR RES,9.84,Unnao (EAAA) District,209821,,,UP02004347TEMP
+P-RPPL-UP-0001,P-RPPL-R9 MAHOBA CBG PLANT,Uttar Pradesh,Mahoba,25.288685,79.879207,planned,12,AGR RES,11.63,"Banda, Chitrakoot and Mahoba",210001,,,
+P-RRGEP-UP-0001,P-RRGEP-Radha Raman Green Energy Private Limited,Uttar Pradesh,Muzaffarnagar,29.351289,77.874074,operational,6,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251314,,,UP02004136TEMP
+P-RSAEPL-UP-0001,P-RSAEPL-R S AVYAM ENERGY PRIVATE LIMITED,Uttar Pradesh,Baghpat,29.156064,77.306403,under_construction,27,MIXED,8.06,Bagpat District,250345,,,
+P-RTPL-UP-0001,P-RTPL-Reverent Technologies Private Limited,Uttar Pradesh,Chandauli,25.418955,83.440287,under_construction,2.5,OTHERS,10.44,"Mirzapur, Chandauli and Sonbhadra Districts",233224,,,P-RTPL 
+P-SAVPL-UP-0001,P-SAVPL-Un CBG Plant,Uttar Pradesh,Muzaffarnagar,29.449698,77.742933,under_construction,7.5,OTHERS,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",247778,,,
+P-SBBEPL-UP-0001,P-SBBEPL-SUNAINA BIOFUELS & BIO ENERGY PRIVATE LIMITED,Uttar Pradesh,Shahjahanpur,28.067146,80.097367,under_construction,2.4,MIXED,10.45,Shahjahanpur and Budaun Districts,242401,,,
+P-SBBEPL-UP-0002,P-SBBEPL-Sunaina biofuels unit 2,Uttar Pradesh,Shahjahanpur,28.075738,80.234148,planned,3,MIXED,10.45,Shahjahanpur and Budaun Districts,242401,,,
+P-SBEAO-UP-0001,P-SBEAO-Samridh Bio Energy and Organics,Uttar Pradesh,Moradabad,28.648525,78.768827,under_construction,12,PRESS MUD,9.83,Moradabad (EAAA) District,244413,,,UP02002994TEMP
+P-SBEL1-UP-0002,P-SBEL1-SAMIDHA BIO ENERGY LLP,Uttar Pradesh,Moradabad,28.622157,78.819234,under_construction,6,MIXED,9.83,Moradabad (EAAA) District,244411,,,
+P-SBPL10-UP-0001,P-SBPL10-SVN BIOFUEL PRIVATE LIMITED,Uttar Pradesh,Kushinagar,27.178402,83.871504,planned,3.2,PRESS MUD,9.81,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",274802,,,
+P-SBPL9-UP-0001,P-SBPL9-SADEV BIO-ENERGY PRIVATE LIMITED,Uttar Pradesh,Aligarh,27.881541,78.069022,under_construction,2.4,MIXED,9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",202002,,,
+P-SEAFP-UP-0001,P-SEAFP-Sevozone Energies And Fertilizers Private Limited,Uttar Pradesh,Saharanpur,29.780632,77.262944,operational,5,MIXED,6.02,Saharanpur District,247341,,,UP02001003
+P-SFPL2-UP-0001,P-SFPL2-Nagar Nigam Varanasi,Uttar Pradesh,VARANASI,25.331436,83.025615,operational,0.4,MIXED,97.06,Varanasi District,221001,,,UP02004191
+P-SGAEP-UP-0001,P-SGAEP-Shri Green Agro Energies Private Limited,Uttar Pradesh,BULANDSHAHR,28.196638,77.96069,operational,5,MIXED,8.05,Bulandshahr (part) District,203131,,,UP02002521TEMP
+P-SGEPL-UP-0001,P-SGEPL-Shobhit Green Energy Private Limited,Uttar Pradesh,MEERUT,29.2644167,77.5857778,operational,10,MIXED,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",250342,,,UP02000819TEMP
+P-SMPL-UP-0001,P-SMPL-SBC Minerals Private Limited,Uttar Pradesh,Baghpat,29.135481,77.236429,under_construction,6,PRESS MUD,8.06,Bagpat District,250611,,,UP02004798TEMP
+P-SOFPCL-UP-0001,P-SOFPCL-Kushinagar CBG Plant,Uttar Pradesh,Kushinagar,26.924261,83.832447,planned,2,PRESS MUD,9.81,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",274306,,,
+P-SRBF-UP-0001,P-SRBF-S R Bio Fuels,Uttar Pradesh,Amroha,28.771328,78.39028,operational,5.6,PRESS MUD,11.58,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,244242,,,UP02003157TEMP
+P-SSBPL-UP-0001,P-SSBPL-Shree Shatakshi Bio-Tech Private Limited,Uttar Pradesh,SHAMLI,29.481151,77.290134,operational,5,PRESS MUD,9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",251305,,,UP02001379TEMP
+P-STPL-UP-0001,P-STPL-Synergy Teletech Private Limited,Uttar Pradesh,Saharanpur,29.98568,77.504065,under_construction,13.6,PRESS MUD,6.02,Saharanpur District,247001,,,UP02000907TEMP
+P-TGEPL2-UP-0001,P-TGEPL2-TRIVENI GREEN ENERGY PRIVATE LIMITED,Uttar Pradesh,Prayagraj,25.708043,81.892012,under_construction,3,AGR RES,9.77,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",212507,,,UP02004454TEMP
+P-TSEPL-UP-0001,P-TSEPL-Surya Grid CBG K1 Plant,Uttar Pradesh,Kheri,27.999922,81.089095,planned,22,MIXED,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261502,,,P-TSEPL
+P-UA-UP-0001,P-UA-GreenMech Renewable Fuels,Uttar Pradesh,Sitapur,27.532255,80.440116,under_construction,3,MIXED,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261001,,,UP02002398TEMP
+P-UEPL-UP-0001,P-UEPL-UTM Energy Private Limited,Uttar Pradesh,Hardoi,27.436216,79.864276,operational,4,PRESS MUD,10.39,"Farrukhabad, Etah and Hardoi Districts",241401,,,UP02002160
+P-UGVL-UP-0001,P-UGVL-UP GREEN VENTURES LLP,Uttar Pradesh,Bijnor,29.538422,78.515147,planned,7.5,MIXED,10.46,Bijnor and Nainital Districts,246762,,,UP02003621TEMP
+P-UREAIPL-UP-0001,P-UREAIPL-UNISSI RENEWABLE ENERGY AND INFRA PRIVATE LIMITED 06AADCY2262,Uttar Pradesh,Bulandshahr,28.253265,77.853916,under_construction,4.8,MIXED,98.01,Khurja,203131,,,
+P-VGEABFPL-UP-0001,P-VGEABFPL-VERDANT GREEN ENERGY AND BIO FUELS PRIVATE LIMITED,Uttar Pradesh,Shahjahanpur,28.144149,80.115437,planned,6,OTHERS,10.45,Shahjahanpur and Budaun Districts,242401,,,P-VGEABFPL
+P-VGESP-UP-0001,P-VGESP-Vindhya Green Energy Solutions Private Limited,Uttar Pradesh,Varanasi,25.05225,82.87714,operational,2.6,CATTLE DUNG,10.44,"Mirzapur, Chandauli and Sonbhadra Districts",221002,,,UP02000934
+P-VOAEIPL-UP-0001,P-VOAEIPL-VARDANT OIL AND ENERGY INDUSTRIES PRIVATE LIMITED,Uttar Pradesh,Meerut,29.48102,77.570493,under_construction,5,AGR RES,1.06,Meerut,251306,,,
+P-VRBPL-UP-0003,P-VRBPL-VERBOLT RE-FUEL BIOENERGY PRIVATE LIMITED,Uttar Pradesh,Sitapur,27.561557,80.684008,under_construction,6,MIXED,11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",261001,,,
+P-WGVL-UP-0001,P-WGVL-WI Green Ventures LLP,Uttar Pradesh,Amroha,28.934788,78.214194,operational,10,PRESS MUD,11.58,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,244231,,,UP02003087
+P-YBEPL-UP-0001,P-YBEPL-Yuva Bio Energy Private Limited,Uttar Pradesh,Bijnor,29.512096,78.389747,under_construction,12,PRESS MUD,10.46,Bijnor and Nainital Districts,246762,,,
+P-YIPL-UP-0001,P-YIPL-YTT INDUSTRIES PVT. LTD.,Uttar Pradesh,Shahjahanpur,27.785921,79.367809,under_construction,9,AGR RES,10.45,Shahjahanpur and Budaun Districts,242127,,,
+P-AZS-WB-0001,P-AZS-A 2 Z Services,West Bengal,MIDNAPUR WEST,22.1833056,87.4067222,operational,2,MIXED,11.61,"East Mednipore, West Mednipore and Jhargram districts",721636,,,WB02001223TEMP
+P-BGBPL-WB-0001,P-BGBPL-BHARAT GPS BIOENERGY PRIVATE LIMITED - BANKURA,West Bengal,Bankura,23.173132,87.115725,planned,15,AGR RES,11.60,Purulia and Bankura districts,722144,,,
+P-GBPL2-WB-0001,P-GBPL2-Greenosphere Biofuels Private Limited,West Bengal,Purba Bardhaman,23.568649,87.501282,planned,20,AGR RES,9.86,Burdwan District,713148,,,
+P-GBPL2-WB-0002,P-GBPL2-Greenosphere Biofuels Private Limited Galsi,West Bengal,Purba Bardhaman,23.34751,87.665051,planned,20,AGR RES,9.86,Burdwan District,713406,,,
+P-HANEML-WB-0001,P-HANEML-HSCL_CBG PLANT,West Bengal,Hooghly,22.81258,88.272721,planned,15,AGR RES,10.48,Howrah (EAAA) District and Hoogly (EAAA) District,712223,,,

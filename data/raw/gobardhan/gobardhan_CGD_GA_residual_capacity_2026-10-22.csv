@@ -1,0 +1,311 @@
+﻿gaId,gaName,cgdCode,cgdEntityName,stateName,gaCapacityTpd,intakeCapacityTpd,committedOfftakeTpd,residualCapacityTpd,category,categoryLabel,categoryColor,contributionPercent,cgdName
+10.01,Anantapur and YSR (Kadapa) Districts,D-ACGPL,"AGP City Gas Private Limited, IOCL",Andhra Pradesh,47.85,23.93,0,23.93,MEDIUM,Medium,#8ac4f0,0.17,"AGP City Gas Private Limited, IOCL"
+10.02,Sri Potti Sriramulu Nellore District,D-ACGPL,AGP City Gas Private Limited,Andhra Pradesh,17.17,8.59,0,8.59,LOW,Low,#FCD34D,0.06,AGP City Gas Private Limited
+10.03,"Chittoor, Kolar and Vellore Districts",D-ACGPL,AGP City Gas Private Limited,Andhra Pradesh,179.79,89.9,0,89.9,HIGH,High,#22C55E,0.63,AGP City Gas Private Limited
+10.04,"Araria, Purnia, Katihar and Kishanganj Districts",D-IOCL,IOCL,Bihar,11.36,5.68,0,5.68,LOW,Low,#FCD34D,0.04,IOCL
+10.05,"Arwal, Jehanabad, Bhojpur and Buxar Districts",D-IOCL,IOCL,Bihar,30.8,15.4,0,15.4,MEDIUM,Medium,#8ac4f0,0.11,IOCL
+10.06,"Khagaria, Saharsa and Madhepura Districts",D-IOCL,IOCL,Bihar,8.13,4.07,0,4.07,LOW,Low,#FCD34D,0.03,IOCL
+10.07,"Lakhisarai, Munger and Bhagalpur Districts",D-IOCL,IOCL,Bihar,15.3,7.65,0,7.65,LOW,Low,#FCD34D,0.05,IOCL
+10.08,"Muzaffarpur, Vaishali, Saran and Samastipur Districts",D-IOCL,IOCL,Bihar,101.42,50.71,0,50.71,HIGH,High,#22C55E,0.36,IOCL
+10.09,Nawada and Koderma Districts,D-IOCL,IOCL,Bihar,12,6,0,6,LOW,Low,#FCD34D,0.04,IOCL
+1.01,Dewas,D-GGL,GAIL Gas Limited,Madhya Pradesh,28.65,14.33,0,14.33,MEDIUM,Medium,#8ac4f0,0.1,GAIL Gas Limited
+10.10,"Sheikhpura, Jamui and Deoghar Districts",D-IOCL,IOCL,Bihar,23.48,11.74,0,11.74,MEDIUM,Medium,#8ac4f0,0.08,IOCL
+10.11,Kaithal District,D-IGL,Indraprastha Gas Ltd,Haryana,21.23,10.62,0,10.62,MEDIUM,Medium,#8ac4f0,0.07,Indraprastha Gas Ltd
+10.12,"Sirsa, Fatehabad and Mansa (Punjab) Districts",D-GEL,Gujarat Energy Limited,Haryana,69.56,34.78,0,34.78,HIGH,High,#22C55E,0.24,Gujarat Energy Limited
+10.13,Chatra and Palamu Districts,D-BPCL,Bharat Petroleum Corporation Limited,Jharkhand,6.43,3.22,0,3.22,LOW,Low,#FCD34D,0.02,Bharat Petroleum Corporation Limited
+10.14,Seraikela-Kharsawan District,D-GGL,GAIL Gas Limited,Jharkhand,9.37,4.69,0,4.69,LOW,Low,#FCD34D,0.03,GAIL Gas Limited
+10.15,West Singhbhum District,D-GGL,GAIL Gas Limited,Jharkhand,0.36,0.18,0,0.18,LOW,Low,#FCD34D,0,GAIL Gas Limited
+10.16,"Bagalkot, Koppal and Raichur Districts",D-ACGPL,AGP City Gas Private Limited,Karnataka,29.76,14.88,0,14.88,MEDIUM,Medium,#8ac4f0,0.1,AGP City Gas Private Limited
+10.17,"Chikkamagaluru, Hassan and Kodagu Districts",D-ACGPL,AGP City Gas Private Limited,Karnataka,19.18,9.59,0,9.59,LOW,Low,#FCD34D,0.07,AGP City Gas Private Limited
+10.18,Kalaburagi and Vijayapura Districts,D-ACGPL,AGP City Gas Private Limited,Karnataka,42.97,21.49,6,15.49,MEDIUM,Medium,#8ac4f0,0.11,AGP City Gas Private Limited
+10.19,"Mysuru, Mandya and Chamarajanagar Districts",D-ACGPL,AGP City Gas Private Limited,Karnataka,47.68,23.84,0,23.84,MEDIUM,Medium,#8ac4f0,0.17,AGP City Gas Private Limited
+1.02,Kota,D-RSGL,Rajasthan State Gas Limited,Rajasthan,40.55,20.28,0,20.28,MEDIUM,Medium,#8ac4f0,0.14,Rajasthan State Gas Limited
+10.20,"Uttara Kannada, Haveri and Shivamogga Districts",D-ACGPL,AGP City Gas Private Limited,Karnataka,35.6,17.8,0,17.8,MEDIUM,Medium,#8ac4f0,0.13,AGP City Gas Private Limited
+10.21,"Alapuzzha, Kollam and Thiruvananthapuram Districts",D-ACGPL,AGP City Gas Private Limited,Kerala,78.24,39.12,0,39.12,HIGH,High,#22C55E,0.27,AGP City Gas Private Limited
+10.22,Ashoknagar District,D-IOCL,IOCL,Madhya Pradesh,2.21,1.11,0,1.11,LOW,Low,#FCD34D,0.01,IOCL
+10.23,Gwalior (EAAA) District and Sheopur District,D-RSGL,Rajasthan State Gas Limited,Madhya Pradesh,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,Rajasthan State Gas Limited
+10.24,Morena District,D-IOCL,IOCL,Madhya Pradesh,16.88,8.44,0,8.44,LOW,Low,#FCD34D,0.06,IOCL
+10.25,"Raisen, Shajapur and Sehore Districts",D-GGL,GAIL Gas Limited,Madhya Pradesh,25.04,12.52,1,11.52,MEDIUM,Medium,#8ac4f0,0.08,GAIL Gas Limited
+10.26,Shivpuri District,D-TGBPL3,THINK Gas Bhopal Private Limited,Madhya Pradesh,18.4,9.2,0,9.2,LOW,Low,#FCD34D,0.06,THINK Gas Bhopal Private Limited
+10.27,Sidhi and Singrauli Districts,D-BPCL,Bharat Petroleum Corporation Limited,Madhya Pradesh,2.94,1.47,0,1.47,LOW,Low,#FCD34D,0.01,Bharat Petroleum Corporation Limited
+10.28,"Ujjain (EAAA) District, Dewas (EAAA) District and Indore (EAAA) District",D-GEL,Gujarat Energy Limited,Madhya Pradesh,38.8,19.4,0,19.4,MEDIUM,Medium,#8ac4f0,0.14,Gujarat Energy Limited
+10.29,"Anuppur, Bilaspur and Korba Districts",D-ATGL,Adani Total Gas Ltd,Chhattisgarh,3.46,1.73,0,1.73,LOW,Low,#FCD34D,0.01,Adani Total Gas Ltd
+1.03,Mathura,D-TGL,Torrent Gas Limited,Uttar Pradesh,56.86,28.43,0,28.43,MEDIUM,Medium,#8ac4f0,0.2,Torrent Gas Limited
+10.30,"Jhabua, Banswara, Ratlam and Dungarpur Districts",D-GEL,Gujarat Energy Limited,Madhya Pradesh,85.56,42.78,0,42.78,HIGH,High,#22C55E,0.3,Gujarat Energy Limited
+10.31,"Jhansi (EAAA) District, Bhind, Jalaun, Lalitpur and Datia Districts",D-ATGL,Adani Total Gas Ltd,Madhya Pradesh,89.2,44.6,0,44.6,HIGH,High,#22C55E,0.31,Adani Total Gas Ltd
+10.32,"Ferozepur, Faridkot and Sri Muktsar Sahib Districts",D-GEL,Gujarat Energy Limited,Punjab,17.12,8.56,0,8.56,LOW,Low,#FCD34D,0.06,Gujarat Energy Limited
+10.33,Hoshiarpur and Gurdaspur Districts,D-GEL,Gujarat Energy Limited,Punjab,17.42,8.71,0,8.71,LOW,Low,#FCD34D,0.06,Gujarat Energy Limited
+10.34,"Ajmer, Pali and Rajsamand Districts",D-IGL,Indraprastha Gas Ltd,Rajasthan,108.44,54.22,0,54.22,HIGH,High,#22C55E,0.38,Indraprastha Gas Ltd
+10.35,Jalore and Sirohi Districts,D-GEL,Gujarat Energy Limited,Rajasthan,46.17,23.09,0,23.09,MEDIUM,Medium,#8ac4f0,0.16,Gujarat Energy Limited
+10.36,"Azamgarh, Mau and Ballia Districts",D-TGL,Torrent Gas Limited,Uttar Pradesh,65.95,32.98,0,32.98,HIGH,High,#22C55E,0.23,Torrent Gas Limited
+10.37,"Bareilly (EAAA) District, Pilibhit and Rampur Districts",D-HPCL,Hindustan Petroelum Corporation Limited,Uttar Pradesh,53.94,26.97,0,26.97,MEDIUM,Medium,#8ac4f0,0.19,Hindustan Petroelum Corporation Limited
+10.38,Basti and Ambedkarnagar Districts,D-TGL,Torrent Gas Limited,Uttar Pradesh,39.96,19.98,0,19.98,MEDIUM,Medium,#8ac4f0,0.14,Torrent Gas Limited
+10.39,"Farrukhabad, Etah and Hardoi Districts",D-HPCL,Hindustan Petroelum Corporation Limited,Uttar Pradesh,55.5,27.75,0,27.75,MEDIUM,Medium,#8ac4f0,0.19,Hindustan Petroelum Corporation Limited
+1.04,Kakinada,D-BGL,Bhagyanagar Gas Limited,Andhra Pradesh,13.6,6.8,0,6.8,LOW,Low,#FCD34D,0.05,Bhagyanagar Gas Limited
+10.40,Gonda and Barabanki Districts,D-TGL,Torrent Gas Limited,Uttar Pradesh,94.99,47.5,0,47.5,HIGH,High,#22C55E,0.33,Torrent Gas Limited
+10.41,Jaunpur and Ghazipur Districts,D-IAGPL,IndianOil-Adani Gas Private Limited,Uttar Pradesh,35.45,17.73,0,17.73,MEDIUM,Medium,#8ac4f0,0.12,IndianOil-Adani Gas Private Limited
+10.42,"Kanpur (EAAA) District, Fatehpur and Hamirpur Districts",D-IGL,Indraprastha Gas Ltd,Uttar Pradesh,50.61,25.31,0,25.31,MEDIUM,Medium,#8ac4f0,0.18,Indraprastha Gas Ltd
+10.43,Mainpuri and Kannauj Districts,D-HPCL,Hindustan Petroelum Corporation Limited,Uttar Pradesh,41.24,20.62,0,20.62,MEDIUM,Medium,#8ac4f0,0.14,Hindustan Petroelum Corporation Limited
+10.44,"Mirzapur, Chandauli and Sonbhadra Districts",D-GGL,GAIL Gas Limited,Uttar Pradesh,42.61,21.31,0,21.31,MEDIUM,Medium,#8ac4f0,0.15,GAIL Gas Limited
+10.45,Shahjahanpur and Budaun Districts,D-HPCL,Hindustan Petroelum Corporation Limited,Uttar Pradesh,45.11,22.56,5,17.56,MEDIUM,Medium,#8ac4f0,0.12,Hindustan Petroelum Corporation Limited
+10.46,Bijnor and Nainital Districts,D-HPCL,Hindustan Petroelum Corporation Limited,Uttar Pradesh,33.35,16.68,0,16.68,MEDIUM,Medium,#8ac4f0,0.12,Hindustan Petroelum Corporation Limited
+10.47,"Darjeeling, Jalpaiguri and Uttar Dinajpur Districts",D-HPCL,Hindustan Petroelum Corporation Limited,West Bengal,4.45,2.23,0,2.23,LOW,Low,#FCD34D,0.02,Hindustan Petroelum Corporation Limited
+10.48,Howrah (EAAA) District and Hoogly (EAAA) District,D-HPCL,Hindustan Petroelum Corporation Limited,West Bengal,18.23,9.12,0,9.12,LOW,Low,#FCD34D,0.06,Hindustan Petroelum Corporation Limited
+10.49,Nadia (EAAA) District and North 24 Parganas (EAAA) District,D-HPCL,Hindustan Petroelum Corporation Limited,West Bengal,17.63,8.82,0,8.82,LOW,Low,#FCD34D,0.06,Hindustan Petroelum Corporation Limited
+1.05,Sonipat,D-GGL,GAIL Gas Limited,Haryana,95.76,47.88,0,47.88,HIGH,High,#22C55E,0.34,GAIL Gas Limited
+10.50,South 24 Parganas (EAAA) District,D-HPCL,Hindustan Petroelum Corporation Limited,West Bengal,6.16,3.08,0,3.08,LOW,Low,#FCD34D,0.02,Hindustan Petroelum Corporation Limited
+1.06,Meerut,D-GGL,GAIL Gas Limited,Uttar Pradesh,153.86,76.93,0,76.93,HIGH,High,#22C55E,0.54,GAIL Gas Limited
+11.01,"Kurnool, Guntur, and Prakasam districts",D-IOCL,IOCL,Andhra Pradesh,22.42,11.21,0,11.21,MEDIUM,Medium,#8ac4f0,0.08,IOCL
+11.02,"Nagaon, Morigaon, Hojai, Karbi Anglong, West Karbi Anglong and Dima Hasao districts",D-ATGL,Adani Total Gas Ltd,Assam,0.62,0.31,0,0.31,LOW,Low,#FCD34D,0,Adani Total Gas Ltd
+11.03,"Lakhimpur, Dhemaji , Darrang, Udalgiri, Sonitpur and Biswanath Chariali districts",D-NEGDC,North East Gas Distribution Company Limited,Assam,0,0,0,0,LOW,Low,#FCD34D,0,North East Gas Distribution Company Limited
+11.04,"Kokrajhar, Dhubri, South Salmara-Mankachar and Goalpara districts",D-ATGL,Adani Total Gas Ltd,Assam,0.08,0.04,0,0.04,LOW,Low,#FCD34D,0,Adani Total Gas Ltd
+11.05,"Baksa, Barpeta, Bongaigaon, Chirang, Nalbari and Bajali districts",D-ATGL,Adani Total Gas Ltd,Assam,0.78,0.39,0,0.39,LOW,Low,#FCD34D,0,Adani Total Gas Ltd
+11.06,"Darbhanga, Madhubani, Supaul, Sitamarhi and Sheohar districts",D-BPCL,Bharat Petroleum Corporation Limited,Bihar,26.81,13.41,0,13.41,MEDIUM,Medium,#8ac4f0,0.09,Bharat Petroleum Corporation Limited
+11.07,"Gopalganj, Siwan, West Champaran, East Champaran and Deoria districts",D-BPCL,Bharat Petroleum Corporation Limited,Bihar,48.7,24.35,6,18.35,MEDIUM,Medium,#8ac4f0,0.13,Bharat Petroleum Corporation Limited
+11.08,"Baloda Bazar, Gariyaband and Raipur districts",D-HRPL,HCG Raipur Private Limited,Chhattisgarh,4.56,2.28,0,2.28,LOW,Low,#FCD34D,0.02,HCG Raipur Private Limited
+11.09,"Kabirdham, Raj Nandgaon and Kanker districts",D-ATGL,Adani Total Gas Ltd,Chhattisgarh,0.05,0.03,0,0.03,LOW,Low,#FCD34D,0,Adani Total Gas Ltd
+11.10,"Mungeli, Bemetara, Durg, Balod and Dhamtari districts",D-ATGL,Adani Total Gas Ltd,Chhattisgarh,1.31,0.66,0,0.66,LOW,Low,#FCD34D,0,Adani Total Gas Ltd
+11.11,"Jashpur, Raigarh, Janjgir-Champa and Mahasamund districts",D-ATGL,Adani Total Gas Ltd,Chhattisgarh,0.11,0.06,0,0.06,LOW,Low,#FCD34D,0,Adani Total Gas Ltd
+11.16,"Mandi, Kullu, Kinnaur and Lahaul & Spiti districts",D-GSHL,Gasonet Services (HP) Limited,Himachal Pradesh,1.47,0.74,0,0.74,LOW,Low,#FCD34D,0.01,Gasonet Services (HP) Limited
+11.17,Kangra and Chamba districts,D-TGHPL,Think Gas Himachal Private Limited,Himachal Pradesh,2,1,0,1,LOW,Low,#FCD34D,0.01,Think Gas Himachal Private Limited
+11.18,"Jammu, Udhampur, Reasi, Samba and Kathua districts",D-IOCL,IOCL,Jammu And Kashmir,1.37,0.69,0,0.69,LOW,Low,#FCD34D,0,IOCL
+11.19,"Gumla, Latehar, Lohardaga, Simdega, Garhwa and Khunti districts",D-ATGL,Adani Total Gas Ltd,Jharkhand,2.38,1.19,0,1.19,LOW,Low,#FCD34D,0.01,Adani Total Gas Ltd
+11.20,Chikkaballapur district,D-MCGDP,Megha City Gas Distribution Private Limited,Karnataka,4.74,2.37,0,2.37,LOW,Low,#FCD34D,0.02,Megha City Gas Distribution Private Limited
+11.21,"Idukki, Kottayam and Pattanamtitta districts",D-SPL,Sholagasco Pvt Ltd,Kerala,10.97,5.49,0,5.49,LOW,Low,#FCD34D,0.04,Sholagasco Pvt Ltd
+11.22,"Agar Malwa, Neemuch, Mandsaur and Jhalawar districts",D-MCGDP,Megha City Gas Distribution Private Limited,Madhya Pradesh,34.78,17.39,0,17.39,MEDIUM,Medium,#8ac4f0,0.12,Megha City Gas Distribution Private Limited
+11.23,"Burhanpur, Khandwa, Khargone and Harda districts",D-ATGL,Adani Total Gas Ltd,Madhya Pradesh,20.33,10.17,0,10.17,MEDIUM,Medium,#8ac4f0,0.07,Adani Total Gas Ltd
+11.24,"Tikamgarh, Niwari, Chattarpur and Panna districts",D-ATGL,Adani Total Gas Ltd,Madhya Pradesh,10.62,5.31,0,5.31,LOW,Low,#FCD34D,0.04,Adani Total Gas Ltd
+11.25,"Betul, Chhindwara, Seoni and Balaghat districts",D-MCGDP,Megha City Gas Distribution Private Limited,Madhya Pradesh,7.2,3.6,0,3.6,LOW,Low,#FCD34D,0.03,Megha City Gas Distribution Private Limited
+11.26,"Damoh, Jabalpur, Katni, Mandla, Umaria and Dindori districts",D-MCGDP,Megha City Gas Distribution Private Limited,Madhya Pradesh,11.02,5.51,0,5.51,LOW,Low,#FCD34D,0.04,Megha City Gas Distribution Private Limited
+11.27,"Hoshangabad, Narsinghpur, Sagar and Vidisha districts",D-MCGDP,Megha City Gas Distribution Private Limited,Madhya Pradesh,10.56,5.28,0,5.28,LOW,Low,#FCD34D,0.04,Megha City Gas Distribution Private Limited
+11.28,"Buldana, Nanded and Parbhani districts",D-MNGL,Maharashtra Natural Gas Limited,Maharashtra,29.57,14.79,5,9.79,LOW,Low,#FCD34D,0.07,Maharashtra Natural Gas Limited
+11.29,"Beed, Jalgaon and Jalna districts",D-IOCL,IOCL,Maharashtra,12.85,6.43,0,6.43,LOW,Low,#FCD34D,0.05,IOCL
+11.30,"Akola, Hingoli and Washim districts",D-ATGL,Adani Total Gas Ltd,Maharashtra,5.6,2.8,0,2.8,LOW,Low,#FCD34D,0.02,Adani Total Gas Ltd
+11.31,Amravati and Yavatmal districts,D-ATGL,Adani Total Gas Ltd,Maharashtra,6.28,3.14,0,3.14,LOW,Low,#FCD34D,0.02,Adani Total Gas Ltd
+11.32,Chandrapur and Wardha districts,D-MCGDP,Megha City Gas Distribution Private Limited,Maharashtra,15.98,7.99,5.5,2.49,LOW,Low,#FCD34D,0.02,Megha City Gas Distribution Private Limited
+11.33,Nagpur district,D-HCGNG,HCG Nagpur Private Limited,Maharashtra,29.53,14.77,9.4,5.37,LOW,Low,#FCD34D,0.04,HCG Nagpur Private Limited
+11.34,"Bhandara, Gondiya and Garchiroli districts",D-ATGL,Adani Total Gas Ltd,Maharashtra,5.2,2.6,0,2.6,LOW,Low,#FCD34D,0.02,Adani Total Gas Ltd
+11.35,"Alirajpur, Nandurbar and Barwani districts",D-ATGL,Adani Total Gas Ltd,Madhya Pradesh,49.94,24.97,0,24.97,MEDIUM,Medium,#8ac4f0,0.18,Adani Total Gas Ltd
+11.36,"Koraput, Malkangiri, and Nabarangpur districts",D-ATGL,Adani Total Gas Ltd,Odisha,0.07,0.04,0,0.04,LOW,Low,#FCD34D,0,Adani Total Gas Ltd
+11.37,"Gajapati, Kandhamal, Boudh and Sonepur districts",D-GGL,GAIL Gas Limited,Odisha,0.5,0.25,0,0.25,LOW,Low,#FCD34D,0,GAIL Gas Limited
+11.38,"Rayagada, Kalahandi, Bolangir and Nuapada districts",D-MCGDP,Megha City Gas Distribution Private Limited,Odisha,2.38,1.19,0,1.19,LOW,Low,#FCD34D,0.01,Megha City Gas Distribution Private Limited
+11.39,Pathankot district,D-IOCL,IOCL,Punjab,3.8,1.9,0,1.9,LOW,Low,#FCD34D,0.01,IOCL
+11.40,Tarn Taran district,D-MCGDP,Megha City Gas Distribution Private Limited,Punjab,4.12,2.06,0,2.06,LOW,Low,#FCD34D,0.01,Megha City Gas Distribution Private Limited
+11.41,"Fazilka (except area already authorized), Ganganagar and Hanumangarh districts",D-BPCL,Bharat Petroleum Corporation Limited,Punjab,38.16,19.08,0,19.08,MEDIUM,Medium,#8ac4f0,0.13,Bharat Petroleum Corporation Limited
+11.42,Bikaner and Churu districts,D-GSRL,Gasonet Services (RJ) Limited,Rajasthan,12.3,6.15,0,6.15,LOW,Low,#FCD34D,0.04,Gasonet Services (RJ) Limited
+11.43,"Jhunjhunu, Sikar and Nagaur districts",D-IOCL,IOCL,Rajasthan,56.23,28.12,0,28.12,MEDIUM,Medium,#8ac4f0,0.2,IOCL
+11.44,"Dausa, Karauli, Sawai Madhopur and Tonk districts",D-HPCL,Hindustan Petroelum Corporation Limited,Rajasthan,53.94,26.97,0,26.97,MEDIUM,Medium,#8ac4f0,0.19,Hindustan Petroelum Corporation Limited
+11.45,Dharmapuri and Krishnagiri districts,D-IOCL,IOCL,Tamil Nadu,12.19,6.1,0,6.1,LOW,Low,#FCD34D,0.04,IOCL
+11.46,"Tiruvannamalai, Villupuram and Kallakkurichi districts",D-MCGDP,Megha City Gas Distribution Private Limited,Tamil Nadu,14.55,7.28,0,7.28,LOW,Low,#FCD34D,0.05,Megha City Gas Distribution Private Limited
+11.47,Ariyalur and Perambalur districts,D-MCGDP,Megha City Gas Distribution Private Limited,Tamil Nadu,5.9,2.95,0,2.95,LOW,Low,#FCD34D,0.02,Megha City Gas Distribution Private Limited
+11.48,Namakkal and Tiruchirapalli districts,D-IEL,IRM Energy Limited,Tamil Nadu,35.67,17.84,2.2,15.64,MEDIUM,Medium,#8ac4f0,0.11,IRM Energy Limited
+11.49,"Pudukottai, Sivaganga and Thanjavur districts",D-MCGDP,Megha City Gas Distribution Private Limited,Tamil Nadu,9.23,4.62,0,4.62,LOW,Low,#FCD34D,0.03,Megha City Gas Distribution Private Limited
+11.50,"Madurai, Theni and Virudhnagar districts",D-IOCL,IOCL,Tamil Nadu,24.65,12.33,0,12.33,MEDIUM,Medium,#8ac4f0,0.09,IOCL
+11.51,"Kanyakumari, Thoothukudi, Tiruneveli Kattabo and Tenkasi districts",D-IOCL,IOCL,Tamil Nadu,13.69,6.85,0,6.85,LOW,Low,#FCD34D,0.05,IOCL
+11.52,Dindigul and Karur districts,D-MCGDP,Megha City Gas Distribution Private Limited,Tamil Nadu,5.14,2.57,0,2.57,LOW,Low,#FCD34D,0.02,Megha City Gas Distribution Private Limited
+11.53,The Nilgiris and Erode districts,D-BPCL,Bharat Petroleum Corporation Limited,Tamil Nadu,14.22,7.11,0,7.11,LOW,Low,#FCD34D,0.05,Bharat Petroleum Corporation Limited
+11.54,"Nizamabad, Adilabad, Nirmal, Mancherial Kumuram Bheem Asifabad and Kamareddy districts",D-MNGL,Maharashtra Natural Gas Limited,Telangana,9.02,4.51,0,4.51,LOW,Low,#FCD34D,0.03,Maharashtra Natural Gas Limited
+11.55,"Jogulamba Gadwal, Nagarkurnool, Mahabubnagar, Narayanpet, Wanaparthy and Yadgir districts",D-MCGDP,Megha City Gas Distribution Private Limited,Karnataka,30.66,15.33,0,15.33,MEDIUM,Medium,#8ac4f0,0.11,Megha City Gas Distribution Private Limited
+11.56,South Tripura and Sepahijala district,D-NEGDC,North East Gas Distribution Company Limited,Tripura,7.59,3.8,0,3.8,LOW,Low,#FCD34D,0.03,North East Gas Distribution Company Limited
+11.57,"Dhalai, North Tripura, Unakoti and Khowai",D-NEGDC,North East Gas Distribution Company Limited,Tripura,6.52,3.26,0,3.26,LOW,Low,#FCD34D,0.02,North East Gas Distribution Company Limited
+11.58,Amroha (except area already authorized) & Sambhal (except area already authorized) districts,D-MCGDP,Megha City Gas Distribution Private Limited,Uttar Pradesh,20.66,10.33,0,10.33,MEDIUM,Medium,#8ac4f0,0.07,Megha City Gas Distribution Private Limited
+11.59,Kasganj district,D-MCGDP,Megha City Gas Distribution Private Limited,Uttar Pradesh,4.79,2.4,0,2.4,LOW,Low,#FCD34D,0.02,Megha City Gas Distribution Private Limited
+11.60,Purulia and Bankura districts,D-BPCL,Bharat Petroleum Corporation Limited,West Bengal,6.11,3.06,0,3.06,LOW,Low,#FCD34D,0.02,Bharat Petroleum Corporation Limited
+11.61,"East Mednipore, West Mednipore and Jhargram districts",D-IOCL,IOCL,West Bengal,4.12,2.06,0,2.06,LOW,Low,#FCD34D,0.01,IOCL
+11.62,Alipurduar and Koch Bihar,D-BPCL,Bharat Petroleum Corporation Limited,West Bengal,1.83,0.92,0,0.92,LOW,Low,#FCD34D,0.01,Bharat Petroleum Corporation Limited
+11.63,"Banda, Chitrakoot and Mahoba",D-IGL,Indraprastha Gas Ltd,Uttar Pradesh,13.88,6.94,0,6.94,LOW,Low,#FCD34D,0.05,Indraprastha Gas Ltd
+11.64,"Pauri Garhwal, Uttarkashi, Rudraprayag and Tehri Garhwal districts",D-GSUL,Gasonet Services (UK) Limited,Uttarakhand,4.56,2.28,0,2.28,LOW,Low,#FCD34D,0.02,Gasonet Services (UK) Limited
+11.65,"Pithoragarh, Champawat, Almora, Chamoli and Bageshwar districts",D-GSUL,Gasonet Services (UK) Limited,Uttarakhand,0.52,0.26,0,0.26,LOW,Low,#FCD34D,0,Gasonet Services (UK) Limited
+11A.01,"Lakhimpur Kheri, Sitapur, Bahraich, Shrawasti, Balrampur, Siddharth Nagar & Maharajganj districts",D-BPCL,Bharat Petroleum Corporation Limited,Uttar Pradesh,110.75,55.38,0,55.38,HIGH,High,#22C55E,0.39,Bharat Petroleum Corporation Limited
+11A.02,"Banka (Bihar), Dumka, Godda, Jamtara, Pakur & Sahibganj districts",D-HPCL,Hindustan Petroelum Corporation Limited,Bihar,9.32,4.66,0,4.66,LOW,Low,#FCD34D,0.03,Hindustan Petroelum Corporation Limited
+11A.03,"Birbhum, Murshidabad, Maldah & Dakshin Dinajpur districts",D-HPCL,Hindustan Petroelum Corporation Limited,West Bengal,1.86,0.93,0,0.93,LOW,Low,#FCD34D,0.01,Hindustan Petroelum Corporation Limited
+11A.04,"Koriya, Surajpur, Balrampur and Surguja",D-BPCL,Bharat Petroleum Corporation Limited,Chhattisgarh,1.36,0.68,0,0.68,LOW,Low,#FCD34D,0,Bharat Petroleum Corporation Limited
+11A.05,"Kondagaon, Bastar, Sukma, Narayanpur, Bijapur and Dantewada Districts",D-GGL,GAIL Gas Limited,Chhattisgarh,0.1,0.05,0,0.05,LOW,Low,#FCD34D,0,GAIL Gas Limited
+11A.06,Yanam,D-HCGYN,HCG Yanam Private Limited,Puducherry,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,HCG Yanam Private Limited
+12.01,Arunachal Pradesh State,D-CBPOIL,Consortium of BPCL & OIL,Arunachal Pradesh,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,Consortium of BPCL & OIL
+12.02,Meghalaya State,D-HCGML,HCG Meghalaya Private Limited,Meghalaya,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,HCG Meghalaya Private Limited
+12.03,Manipur State,D-TNGCL,Tripura Natural Gas Company Limited,Manipur,0,0,0,0,LOW,Low,#FCD34D,0,Tripura Natural Gas Company Limited
+12.04,nagaland State,D-HGPL,HPOIL Gas Private Limited,Nagaland,0,0,0,0,LOW,Low,#FCD34D,0,HPOIL Gas Private Limited
+12.05,Sikkim State,D-HPCL,Hindustan Petroelum Corporation Limited,Sikkim,0,0,0,0,LOW,Low,#FCD34D,0,Hindustan Petroelum Corporation Limited
+12.06,"Anantnag, Bandipora, Baramulla, Budgam, Doda, Ganderbal, Kishtwar, Kulgam, Kupwara, Poonch, Pulwama, Rajouri, Ramban, Shopian, Srinagar districts",D-BPCL,Bharat Petroleum Corporation Limited,Jammu And Kashmir,0,0,0,0,LOW,Low,#FCD34D,0,Bharat Petroleum Corporation Limited
+12A,Mizoram ,D-TNGCL,Tripura Natural Gas Company Limited,Mizoram,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,Tripura Natural Gas Company Limited
+2.01,Chandigarh,D-IAGPL,IndianOil-Adani Gas Private Limited,Chandigarh,557.8,278.9,0,278.9,HIGH,High,#22C55E,1.96,IndianOil-Adani Gas Private Limited
+2.02,Allahabad,D-IAGPL,IndianOil-Adani Gas Private Limited,Uttar Pradesh,47.54,23.77,0,23.77,MEDIUM,Medium,#8ac4f0,0.17,IndianOil-Adani Gas Private Limited
+2.03,Jhansi,D-CUGL,Central UP Gas Limited,Uttar Pradesh,19.93,9.97,0,9.97,LOW,Low,#FCD34D,0.07,Central UP Gas Limited
+3.01,Jalandhar,D-ATGL,Adani Total Gas Ltd,Punjab,9.12,4.56,0,4.56,LOW,Low,#FCD34D,0.03,Adani Total Gas Ltd
+3.02,Bhavnagar,D-GEL,Gujarat Energy Limited,Gujarat,155.65,77.83,0,77.83,HIGH,High,#22C55E,0.55,Gujarat Energy Limited
+3.03,Jamnagar,D-GEL,Gujarat Energy Limited,Gujarat,145.26,72.63,0,72.63,HIGH,High,#22C55E,0.51,Gujarat Energy Limited
+3.04,Kutch (West),D-GEL,Gujarat Energy Limited,Gujarat,70.11,35.06,0,35.06,HIGH,High,#22C55E,0.25,Gujarat Energy Limited
+3.05,Kutch (East)*,D-JMEPL,Jay Madhok Energy Private Limited,Gujarat,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,Jay Madhok Energy Private Limited
+3.06,Ludhiana,D-JMEPL,Jay Madhok Energy Private Limited,Punjab,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,Jay Madhok Energy Private Limited
+4.01,Bengaluru Rural and Urban Districts,D-GGL,GAIL Gas Limited,Karnataka,572.24,286.12,2,284.12,HIGH,High,#22C55E,2,GAIL Gas Limited
+4.02,Panipat District,D-IAGPL,IndianOil-Adani Gas Private Limited,Haryana,79.54,39.77,0,39.77,HIGH,High,#22C55E,0.28,IndianOil-Adani Gas Private Limited
+4.03,Palghar District & Thane Rural,D-GEL,Gujarat Energy Limited,Maharashtra,163.5,81.75,0,81.75,HIGH,High,#22C55E,0.57,Gujarat Energy Limited
+4.04,Raigarh District (EAAA),D-MGL,Mahanagar Gas Ltd,Maharashtra,260.54,130.27,0,130.27,HIGH,High,#22C55E,0.92,Mahanagar Gas Ltd
+4.05,UT of Dadra & Nagar Haveli,D-GEL,Gujarat Energy Limited,Dadra and Nagar Haveli and Daman and Diu,24.02,12.01,0,12.01,MEDIUM,Medium,#8ac4f0,0.08,Gujarat Energy Limited
+4.06,UT of Daman,D-IAGPL,IndianOil-Adani Gas Private Limited,Dadra and Nagar Haveli and Daman and Diu,9.69,4.85,0,4.85,LOW,Low,#FCD34D,0.03,IndianOil-Adani Gas Private Limited
+4.07,Amritsar  District,D-GEL,Gujarat Energy Limited,Punjab,26.95,13.48,0,13.48,MEDIUM,Medium,#8ac4f0,0.09,Gujarat Energy Limited
+4.08,Pune District (EAAA),D-TGL,Torrent Gas Limited,Maharashtra,350.35,175.18,6,169.18,HIGH,High,#22C55E,1.19,Torrent Gas Limited
+4.09,Ernakulam District,D-IAGPL,IndianOil-Adani Gas Private Limited,Kerala,81.29,40.65,0,40.65,HIGH,High,#22C55E,0.29,IndianOil-Adani Gas Private Limited
+5.01,Udham Singh Nagar District,D-IAGPL,IndianOil-Adani Gas Private Limited,Uttarakhand,29.76,14.88,0,14.88,MEDIUM,Medium,#8ac4f0,0.1,IndianOil-Adani Gas Private Limited
+5.02,Haridwar District,D-HNGPL,Haridwar Natural Gas Private Limited,Uttarakhand,27.33,13.67,0,13.67,MEDIUM,Medium,#8ac4f0,0.1,Haridwar Natural Gas Private Limited
+5.03,East Godavari District (EAAA),D-GGPL,Godavari Gas Private Limited,Andhra Pradesh,10.19,5.1,0,5.1,LOW,Low,#FCD34D,0.04,Godavari Gas Private Limited
+5.04,West Godavari District,D-GGPL,Godavari Gas Private Limited,Andhra Pradesh,12.06,6.03,0,6.03,LOW,Low,#FCD34D,0.04,Godavari Gas Private Limited
+5.05,Tumkur District,D-MCGDP,Megha City Gas Distribution Private Limited,Karnataka,29.16,14.58,0,14.58,MEDIUM,Medium,#8ac4f0,0.1,Megha City Gas Distribution Private Limited
+5.06,Krishna District (EAAA),D-MCGDP,Megha City Gas Distribution Private Limited,Andhra Pradesh,55.66,27.83,0,27.83,MEDIUM,Medium,#8ac4f0,0.2,Megha City Gas Distribution Private Limited
+5.07,Dharwad  District,D-IAGPL,IndianOil-Adani Gas Private Limited,Karnataka,15.93,7.97,0,7.97,LOW,Low,#FCD34D,0.06,IndianOil-Adani Gas Private Limited
+5.08,Belgaum District,D-MCGDP,Megha City Gas Distribution Private Limited,Karnataka,35.99,18,0,18,MEDIUM,Medium,#8ac4f0,0.13,Megha City Gas Distribution Private Limited
+6.01,Bhatinda  District,D-GEL,Gujarat Energy Limited,Punjab,20.83,10.42,0,10.42,MEDIUM,Medium,#8ac4f0,0.07,Gujarat Energy Limited
+6.02,Saharanpur District,D-BPCL,Bharat Petroleum Corporation Limited,Uttar Pradesh,27.95,13.98,0,13.98,MEDIUM,Medium,#8ac4f0,0.1,Bharat Petroleum Corporation Limited
+6.03,Amreli District,D-GEL,Gujarat Energy Limited,Gujarat,51.32,25.66,0,25.66,MEDIUM,Medium,#8ac4f0,0.18,Gujarat Energy Limited
+6.04,Patan District,D-SGL,Sabarmati Gas Limited,Gujarat,109.47,54.74,0,54.74,HIGH,High,#22C55E,0.38,Sabarmati Gas Limited
+6.05,Dahej Vagra Taluka,D-GEL,Gujarat Energy Limited,Gujarat,14.92,7.46,0,7.46,LOW,Low,#FCD34D,0.05,Gujarat Energy Limited
+6.06,Rupnagar District,D-BPCL,Bharat Petroleum Corporation Limited,Punjab,19.36,9.68,0,9.68,LOW,Low,#FCD34D,0.07,Bharat Petroleum Corporation Limited
+6.07,North Goa District,D-GNGPL,Goa Natural Gas Pvt Ltd,Goa,15.82,7.91,0,7.91,LOW,Low,#FCD34D,0.06,Goa Natural Gas Pvt Ltd
+6.08,Dahod District,D-GEL,Gujarat Energy Limited,Gujarat,47.63,23.82,0,23.82,MEDIUM,Medium,#8ac4f0,0.17,Gujarat Energy Limited
+6.09,Banaskantha District,D-IEL,IRM Energy Limited,Gujarat,228.18,114.09,0,114.09,HIGH,High,#22C55E,0.8,IRM Energy Limited
+6.10,Anand District (EAAA),D-GEL,Gujarat Energy Limited,Gujarat,106.75,53.38,0,53.38,HIGH,High,#22C55E,0.38,Gujarat Energy Limited
+6.11,Panchmahal District,D-GEL,Gujarat Energy Limited,Gujarat,132.16,66.08,0,66.08,HIGH,High,#22C55E,0.46,Gujarat Energy Limited
+6.12,Fatehgarh Sahib District,D-IEL,IRM Energy Limited,Punjab,23.02,11.51,0,11.51,MEDIUM,Medium,#8ac4f0,0.08,IRM Energy Limited
+6.13,Yamunanagar District,D-BPCL,Bharat Petroleum Corporation Limited,Haryana,14.43,7.22,1,6.22,LOW,Low,#FCD34D,0.04,Bharat Petroleum Corporation Limited
+6.14,Ratnagiri District,D-MGL,Mahanagar Gas Ltd,Maharashtra,69.86,34.93,0,34.93,HIGH,High,#22C55E,0.25,Mahanagar Gas Ltd
+6.15,Rewari District,D-IGL,Indraprastha Gas Ltd,Haryana,237.9,118.95,0,118.95,HIGH,High,#22C55E,0.84,Indraprastha Gas Ltd
+6.16,Dhar District,D-NGPL,Naveriya Gas Private Limited,Madhya Pradesh,18.31,9.16,0,9.16,LOW,Low,#FCD34D,0.06,Naveriya Gas Private Limited
+6.17,Rohtak District,D-BPCL,Bharat Petroleum Corporation Limited,Haryana,85.89,42.95,0,42.95,HIGH,High,#22C55E,0.3,Bharat Petroleum Corporation Limited
+6.18,Ahmedabad District (EAAA),D-GEL,Gujarat Energy Limited,Gujarat,113.49,56.75,0,56.75,HIGH,High,#22C55E,0.4,Gujarat Energy Limited
+7.01,Solapur District,D-IMCL,IMC Limited,Maharashtra,57.34,28.67,0,28.67,MEDIUM,Medium,#8ac4f0,0.2,IMC Limited
+8.01,South Goa District,D-IAGPL,IndianOil-Adani Gas Private Limited,Goa,12.42,6.21,0,6.21,LOW,Low,#FCD34D,0.04,IndianOil-Adani Gas Private Limited
+8.02,Karnal District,D-IGL,Indraprastha Gas Ltd,Haryana,128.17,64.09,6,58.09,HIGH,High,#22C55E,0.41,Indraprastha Gas Ltd
+8.03,Ambala & Kurukshetra Districts,D-HGPL,HPOIL Gas Private Limited,Haryana,47.57,23.79,0,23.79,MEDIUM,Medium,#8ac4f0,0.17,HPOIL Gas Private Limited
+8.04,Kolhapur District,D-HGPL,HPOIL Gas Private Limited,Maharashtra,62.31,31.16,5.5,25.66,MEDIUM,Medium,#8ac4f0,0.18,HPOIL Gas Private Limited
+8.05,Bulandshahr (part) District,D-IAGPL,IndianOil-Adani Gas Private Limited,Uttar Pradesh,72.44,36.22,0,36.22,HIGH,High,#22C55E,0.25,IndianOil-Adani Gas Private Limited
+8.06,Bagpat District,D-TGBPL1,THINK Gas Bagpat Private Limited,Uttar Pradesh,105.66,52.83,0,52.83,HIGH,High,#22C55E,0.37,THINK Gas Bagpat Private Limited
+9.01,"Srikakulam, Visakhapatnam & Vizianagaram Districts",D-IOCL,IOCL,Andhra Pradesh,24.3,12.15,0,12.15,MEDIUM,Medium,#8ac4f0,0.09,IOCL
+9.02,"Cachar, Hailakandi & Karimganj Districts",D-PBGPL,Purba Bharati Gas Private Limited,Assam,1.18,0.59,0,0.59,LOW,Low,#FCD34D,0,Purba Bharati Gas Private Limited
+9.03,Kamrup & Kamrup Metropolitan Districts,D-PBGPL,Purba Bharati Gas Private Limited,Assam,3.69,1.85,0,1.85,LOW,Low,#FCD34D,0.01,Purba Bharati Gas Private Limited
+9.04,"Aurangabad, Kaimur & Rohtas Districts",D-IOCL,IOCL,Bihar,42.84,21.42,0,21.42,MEDIUM,Medium,#8ac4f0,0.15,IOCL
+9.05,Begusarai District,D-TGBPL2,THINK Gas Begusarai Private Limited,Bihar,19.05,9.53,0,9.53,LOW,Low,#FCD34D,0.07,THINK Gas Begusarai Private Limited
+9.06,Gaya & Nalanda Districts,D-IAGPL,IndianOil-Adani Gas Private Limited,Bihar,30.73,15.37,0,15.37,MEDIUM,Medium,#8ac4f0,0.11,IndianOil-Adani Gas Private Limited
+9.07,Diu & Gir Somnath Districts,D-IEL,IRM Energy Limited,Dadra and Nagar Haveli and Daman and Diu,85.64,42.82,0,42.82,HIGH,High,#22C55E,0.3,IRM Energy Limited
+9.08,Surendranagar District (EAAA) & Morbi District (EAAA),D-ATGL,Adani Total Gas Ltd,Gujarat,66.47,33.24,0,33.24,HIGH,High,#22C55E,0.23,Adani Total Gas Ltd
+9.09,Barwala & Ranpur Talukas,D-ATGL,Adani Total Gas Ltd,Gujarat,16.07,8.04,0,8.04,LOW,Low,#FCD34D,0.06,Adani Total Gas Ltd
+9.10,"Navsari District (EAAA), Surat District (EAAA), Tapi District (EAAA) & the Dangs District",D-ATGL,Adani Total Gas Ltd,Gujarat,29.81,14.91,0,14.91,MEDIUM,Medium,#8ac4f0,0.1,Adani Total Gas Ltd
+9.11,Junagadh District,D-TGL,Torrent Gas Limited,Gujarat,52.21,26.11,0,26.11,MEDIUM,Medium,#8ac4f0,0.18,Torrent Gas Limited
+9.12,Kheda District (EAAA) & Mahisagar District,D-ATGL,Adani Total Gas Ltd,Gujarat,98.31,49.16,0,49.16,HIGH,High,#22C55E,0.35,Adani Total Gas Ltd
+9.13,Narmada (Rajpipla) District,D-GEL,Gujarat Energy Limited,Gujarat,27.09,13.55,0,13.55,MEDIUM,Medium,#8ac4f0,0.1,Gujarat Energy Limited
+9.14,Porbandar District,D-ATGL,Adani Total Gas Ltd,Gujarat,16.08,8.04,0,8.04,LOW,Low,#FCD34D,0.06,Adani Total Gas Ltd
+9.15,"Panchkula District (EAAA), Sirmaur, Shimla & Solan (EAAA) Districts",D-IAGPL,IndianOil-Adani Gas Private Limited,Haryana,10.66,5.33,0,5.33,LOW,Low,#FCD34D,0.04,IndianOil-Adani Gas Private Limited
+9.16,"Bhiwani, Charkhi Dadri & Mahendragarh Districts",D-ATGL,Adani Total Gas Ltd,Haryana,124.75,62.38,0,62.38,HIGH,High,#22C55E,0.44,Adani Total Gas Ltd
+9.17,Hisar District,D-HCGKC,HCG (KCE) Private Limited,Haryana,46.39,23.2,0,23.2,MEDIUM,Medium,#8ac4f0,0.16,HCG (KCE) Private Limited
+9.18,Jhajjar District,D-HCGKC,HCG (KCE) Private Limited,Haryana,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,HCG (KCE) Private Limited
+9.19,Sonipat District (EAAA) & Jind District,D-HPCL,Hindustan Petroelum Corporation Limited,Haryana,128.35,64.18,0,64.18,HIGH,High,#22C55E,0.45,Hindustan Petroelum Corporation Limited
+9.20,Nuh and Palwal Distircts,D-ATGL,Adani Total Gas Ltd,Haryana,180.71,90.36,0,90.36,HIGH,High,#22C55E,0.63,Adani Total Gas Ltd
+9.21,"Bilaspur, Hamirpur & Una Districts",D-BPCL,Bharat Petroleum Corporation Limited,Himachal Pradesh,7.62,3.81,0,3.81,LOW,Low,#FCD34D,0.03,Bharat Petroleum Corporation Limited
+9.22,"Bokaro, Hazaribagh & Ramgarh Districts",D-IOCL,IOCL,Jharkhand,19.56,9.78,0,9.78,LOW,Low,#FCD34D,0.07,IOCL
+9.23,Giridih & Dhanbad Districts,D-GGL,GAIL Gas Limited,Jharkhand,10.77,5.39,0,5.39,LOW,Low,#FCD34D,0.04,GAIL Gas Limited
+9.24,Chitradurga & Davanagere Districts,D-MGL,Mahanagar Gas Ltd,Karnataka,37.83,18.92,0,18.92,MEDIUM,Medium,#8ac4f0,0.13,Mahanagar Gas Ltd
+9.25,Udupi District,D-ATGL,Adani Total Gas Ltd,Karnataka,18.64,9.32,0,9.32,LOW,Low,#FCD34D,0.07,Adani Total Gas Ltd
+9.26,Ballari & Gadag Districts,D-BPCL,Bharat Petroleum Corporation Limited,Karnataka,22.15,11.08,0,11.08,MEDIUM,Medium,#8ac4f0,0.08,Bharat Petroleum Corporation Limited
+9.27,Bidar District,D-BPCL,Bharat Petroleum Corporation Limited,Karnataka,15.57,7.79,0,7.79,LOW,Low,#FCD34D,0.05,Bharat Petroleum Corporation Limited
+9.28,Dakshina Kannada District*,D-GGL,GAIL Gas Limited,Karnataka,34.58,17.29,0,17.29,MEDIUM,Medium,#8ac4f0,0.12,GAIL Gas Limited
+9.29,Ramanagara District,D-MNGL,Maharashtra Natural Gas Limited,Karnataka,13.88,6.94,0,6.94,LOW,Low,#FCD34D,0.05,Maharashtra Natural Gas Limited
+9.30,Kozhikode & Wayanad Districts,D-IAGPL,IndianOil-Adani Gas Private Limited,Kerala,27.98,13.99,0,13.99,MEDIUM,Medium,#8ac4f0,0.1,IndianOil-Adani Gas Private Limited
+9.31,Malappuram District,D-IAGPL,IndianOil-Adani Gas Private Limited,Kerala,27.62,13.81,0,13.81,MEDIUM,Medium,#8ac4f0,0.1,IndianOil-Adani Gas Private Limited
+9.32,"Kannur, Kasaragod & Mahe Districts",D-IAGPL,IndianOil-Adani Gas Private Limited,Kerala,50.2,25.1,0,25.1,MEDIUM,Medium,#8ac4f0,0.18,IndianOil-Adani Gas Private Limited
+9.33,Palakkad & Thrissur Districts,D-IAGPL,IndianOil-Adani Gas Private Limited,Kerala,53.29,26.65,0,26.65,MEDIUM,Medium,#8ac4f0,0.19,IndianOil-Adani Gas Private Limited
+9.34,Bhopal & Rajgarh Districts,D-TGBPL3,THINK Gas Bhopal Private Limited,Madhya Pradesh,101.96,50.98,0,50.98,HIGH,High,#22C55E,0.36,THINK Gas Bhopal Private Limited
+9.35,Guna District,D-IOCL,IOCL,Madhya Pradesh,9.14,4.57,0,4.57,LOW,Low,#FCD34D,0.03,IOCL
+9.36,Rewa District,D-IOCL,IOCL,Madhya Pradesh,10.77,5.39,0,5.39,LOW,Low,#FCD34D,0.04,IOCL
+9.37,Satna & Shandol Districts,D-BPCL,Bharat Petroleum Corporation Limited,Madhya Pradesh,11.43,5.72,0,5.72,LOW,Low,#FCD34D,0.04,Bharat Petroleum Corporation Limited
+9.38,Ahmednagar & Aurangabad Districts,D-BPCL,Bharat Petroleum Corporation Limited,Maharashtra,161.48,80.74,6.9,73.84,HIGH,High,#22C55E,0.52,Bharat Petroleum Corporation Limited
+9.39,"Valsad (EAAA), Dhule & Nashik Districts",D-MNGL,Maharashtra Natural Gas Limited,Gujarat,292.4,146.2,0,146.2,HIGH,High,#22C55E,1.03,Maharashtra Natural Gas Limited
+9.40,Latur & Osmanabad Districts,D-MGL,Mahanagar Gas Ltd,Maharashtra,100.92,50.46,8,42.46,HIGH,High,#22C55E,0.3,Mahanagar Gas Ltd
+9.41,Sangli & Satara Districts,D-BPCL,Bharat Petroleum Corporation Limited,Maharashtra,103.16,51.58,17,34.58,HIGH,High,#22C55E,0.24,Bharat Petroleum Corporation Limited
+9.42,Sindhudurg District,D-MNGL,Maharashtra Natural Gas Limited,Maharashtra,27.13,13.57,0,13.57,MEDIUM,Medium,#8ac4f0,0.1,Maharashtra Natural Gas Limited
+9.43,Angul & Dhekanal Districts,D-BPCL,Bharat Petroleum Corporation Limited,Odisha,5.56,2.78,0,2.78,LOW,Low,#FCD34D,0.02,Bharat Petroleum Corporation Limited
+9.44,Sundargarh & Jharsuguda Districts,D-GGL,GAIL Gas Limited,Odisha,4.12,2.06,0,2.06,LOW,Low,#FCD34D,0.01,GAIL Gas Limited
+9.45,"Balasore, Bhadrak & Mayurbhanj Districts",D-ATGL,Adani Total Gas Ltd,Odisha,12.22,6.11,0,6.11,LOW,Low,#FCD34D,0.04,Adani Total Gas Ltd
+9.46,"Bargarh, Debagarh & Sambalpur Districts",D-BPCL,Bharat Petroleum Corporation Limited,Odisha,3.29,1.65,0,1.65,LOW,Low,#FCD34D,0.01,Bharat Petroleum Corporation Limited
+9.47,"Ganjam, Nayagarh & Puri Districts",D-GGL,GAIL Gas Limited,Odisha,14.3,7.15,0,7.15,LOW,Low,#FCD34D,0.05,GAIL Gas Limited
+9.48,Jagatsinghpur & Kendrapara Districts,D-BPCL,Bharat Petroleum Corporation Limited,Odisha,4.78,2.39,0,2.39,LOW,Low,#FCD34D,0.02,Bharat Petroleum Corporation Limited
+9.49,Jajpur & Kendujhar Districts,D-BPCL,Bharat Petroleum Corporation Limited,Odisha,9.99,5,0,5,LOW,Low,#FCD34D,0.04,Bharat Petroleum Corporation Limited
+9.50,Karaikal & Nagapattinam Districts,D-TGL,Torrent Gas Limited,Puducherry,14.26,7.13,0,7.13,LOW,Low,#FCD34D,0.05,Torrent Gas Limited
+95.01,Faridabad-2,D-ATGL,Adani Total Gas Ltd,Haryana,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,Adani Total Gas Ltd
+95.02,Faridabad-1,D-IGL,Indraprastha Gas Ltd,Haryana,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,Indraprastha Gas Ltd
+95.03,Gurugram-1,D-IGL,Indraprastha Gas Ltd,Haryana,24,12,2,10,MEDIUM,Medium,#8ac4f0,0.07,Indraprastha Gas Ltd
+9.51,Puducherry District,D-ECNGD,East Coast Natural Gas Distribution Pvt Ltd,Puducherry,1.39,0.7,0,0.7,LOW,Low,#FCD34D,0,East Coast Natural Gas Distribution Pvt Ltd
+9.52,"SAS Nagar District (EAAA), Patiala & Sangrur Districts",D-TGL,Torrent Gas Limited,Punjab,69.16,34.58,0,34.58,HIGH,High,#22C55E,0.24,Torrent Gas Limited
+9.53,"Ludhiana District (EAAA), Barnala & Moga Districts",D-TGLPL,THINK Gas Ludhiana Private Limited,Punjab,89.06,44.53,0,44.53,HIGH,High,#22C55E,0.31,THINK Gas Ludhiana Private Limited
+9.54,"Jalandhar District (EAAA), Kapurthala & SBS Nagar Districts",D-TGLPL,THINK Gas Ludhiana Private Limited,Punjab,43.38,21.69,0,21.69,MEDIUM,Medium,#8ac4f0,0.15,THINK Gas Ludhiana Private Limited
+9.55,"Barmer, Jaisalmer & Jodhpur Districts",D-ACPL,AGP CGD Private Limited,Rajasthan,108.51,54.26,0,54.26,HIGH,High,#22C55E,0.38,AGP CGD Private Limited
+9.56,Alwar (Other than Bhiwadi) & Jaipur Districts,D-TGJPL,Torrent Gas Jaipur Private Limited,Rajasthan,276.91,138.46,0,138.46,HIGH,High,#22C55E,0.97,Torrent Gas Jaipur Private Limited
+9.57,"Kota District (EAAA), Baran & Chittorgarh (Only Rawatbhata Taluka) Districts",D-TGL,Torrent Gas Limited,Rajasthan,48.86,24.43,0,24.43,MEDIUM,Medium,#8ac4f0,0.17,Torrent Gas Limited
+9.58,Bhilwara & Bundi Districts,D-ATGL,Adani Total Gas Ltd,Rajasthan,41.87,20.94,0,20.94,MEDIUM,Medium,#8ac4f0,0.15,Adani Total Gas Ltd
+9.59,Chittorgarh (Other than Rawatbhata Taluka) & Udaipur Districts,D-ATGL,Adani Total Gas Ltd,Rajasthan,107.62,53.81,0,53.81,HIGH,High,#22C55E,0.38,Adani Total Gas Ltd
+9.60,Dholpur District,D-DCPL,Dholpur CGD Private Limited,Rajasthan,24.82,12.41,0,12.41,MEDIUM,Medium,#8ac4f0,0.09,Dholpur CGD Private Limited
+9.61,Kanchipuram District,D-ACPL,AGP CGD Private Limited,Tamil Nadu,139.41,69.71,0,69.71,HIGH,High,#22C55E,0.49,AGP CGD Private Limited
+9.62,Chennai & Tiruvallur Districts,D-TGCPL,Torrent Gas Chennai Private Limited,Tamil Nadu,205.08,102.54,0,102.54,HIGH,High,#22C55E,0.72,Torrent Gas Chennai Private Limited
+9.63,Coimbatore District,D-IOCL,IOCL,Tamil Nadu,53.72,26.86,0,26.86,MEDIUM,Medium,#8ac4f0,0.19,IOCL
+9.64,"Cuddalore, Nagapattinam & Tiruvarur Districts",D-ATGL,Adani Total Gas Ltd,Tamil Nadu,10.92,5.46,0,5.46,LOW,Low,#FCD34D,0.04,Adani Total Gas Ltd
+9.65,Ramanathapuram District,D-ACPL,AGP CGD Private Limited,Tamil Nadu,15.63,7.82,0,7.82,LOW,Low,#FCD34D,0.05,AGP CGD Private Limited
+9.66,Salem District,D-IOCL,IOCL,Tamil Nadu,21.5,10.75,4,6.75,LOW,Low,#FCD34D,0.05,IOCL
+9.67,Tiruppur District,D-ATGL,Adani Total Gas Ltd,Telangana,29.12,14.56,0,14.56,MEDIUM,Medium,#8ac4f0,0.1,Adani Total Gas Ltd
+9.68,Bhadradri Kothagudem & Khamman Districts,D-MCGDP,Megha City Gas Distribution Private Limited,Telangana,21.49,10.75,0,10.75,MEDIUM,Medium,#8ac4f0,0.08,Megha City Gas Distribution Private Limited
+9.69,"Jagtial, Peddapalli, Karimnagar & Rajanna Sircilla Districts",D-IOCL,IOCL,Telangana,9.79,4.9,0,4.9,LOW,Low,#FCD34D,0.03,IOCL
+9.70,"Jangaon, Jayashankar Bhupalpally, Mahabubabad, Warangal Urban & Warangal Rural Districts",D-MCGDP,Megha City Gas Distribution Private Limited,Telangana,20.3,10.15,0,10.15,MEDIUM,Medium,#8ac4f0,0.07,Megha City Gas Distribution Private Limited
+97.01,Patna District,D-GIL,GAIL India Limited,Bihar,129.52,64.76,0,64.76,HIGH,High,#22C55E,0.46,GAIL India Limited
+97.02,East Singhbhum District,D-GIL,GAIL India Limited,Jharkhand,15.33,7.67,0,7.67,LOW,Low,#FCD34D,0.05,GAIL India Limited
+97.03,Ranchi District,D-GIL,GAIL India Limited,Jharkhand,40.49,20.25,0,20.25,MEDIUM,Medium,#8ac4f0,0.14,GAIL India Limited
+97.04,Khordha District,D-GIL,GAIL India Limited,Odisha,39,19.5,0,19.5,MEDIUM,Medium,#8ac4f0,0.14,GAIL India Limited
+97.05,Cuttack District,D-GIL,GAIL India Limited,Odisha,14.67,7.34,0,7.34,LOW,Low,#FCD34D,0.05,GAIL India Limited
+97.06,Varanasi District,D-GIL,GAIL India Limited,Uttar Pradesh,128.92,64.46,1,63.46,HIGH,High,#22C55E,0.45,GAIL India Limited
+9.71,"Medak, Siddipet & Sangareddy Districts",D-TGL,Torrent Gas Limited,Telangana,27.82,13.91,0,13.91,MEDIUM,Medium,#8ac4f0,0.1,Torrent Gas Limited
+9.72,"Medchal-Malkajgiri, Ranga Reddy & Vikarabad Districts",D-MCGDP,Megha City Gas Distribution Private Limited,Telangana,45.53,22.77,0,22.77,MEDIUM,Medium,#8ac4f0,0.16,Megha City Gas Distribution Private Limited
+9.73,Nalgonda Suryapet & Yadadri Bhuvanagiri Districts,D-MCGDP,Megha City Gas Distribution Private Limited,Telangana,25.63,12.82,0,12.82,MEDIUM,Medium,#8ac4f0,0.09,Megha City Gas Distribution Private Limited
+9.74,Gomati District,D-TNGCL,Tripura Natural Gas Company Limited,Tripura,19.98,9.99,0,9.99,LOW,Low,#FCD34D,0.07,Tripura Natural Gas Company Limited
+9.75,West Tripura (EAAA) District,D-TNGCL,Tripura Natural Gas Company Limited,Uttar Pradesh,30.26,15.13,0,15.13,MEDIUM,Medium,#8ac4f0,0.11,Tripura Natural Gas Company Limited
+9.76,"Bulandshahr District (EAAA), Aligarh & Hathras Districts",D-IAGPL,IndianOil-Adani Gas Private Limited,Uttar Pradesh,68.46,34.23,0,34.23,HIGH,High,#22C55E,0.24,IndianOil-Adani Gas Private Limited
+9.77,"Allahabad District (EAAA), Bhadohi & Kaushambi Districts",D-IAGPL,IndianOil-Adani Gas Private Limited,Uttar Pradesh,52.3,26.15,0,26.15,MEDIUM,Medium,#8ac4f0,0.18,IndianOil-Adani Gas Private Limited
+9.78,"Amethi, Pratapgarh & Raebareli Districts",D-BPCL,Bharat Petroleum Corporation Limited,Uttar Pradesh,53.16,26.58,0,26.58,MEDIUM,Medium,#8ac4f0,0.19,Bharat Petroleum Corporation Limited
+9.79,"Auraiya, Kanpur Dehat & Etawah Districts",D-TGL,Torrent Gas Limited,Uttar Pradesh,126.56,63.28,0,63.28,HIGH,High,#22C55E,0.44,Torrent Gas Limited
+9.80,Faizabad & Sultanpur Districts,D-GGL1,Green Gas Limited,Uttar Pradesh,14.74,7.37,0,7.37,LOW,Low,#FCD34D,0.05,Green Gas Limited
+98.01,Khurja,D-ATGL,Adani Total Gas Ltd,Uttar Pradesh,65.63,32.82,0,32.82,HIGH,High,#22C55E,0.23,Adani Total Gas Ltd
+98.02,"Surat, Bharuch, Ankleshwar",D-GEL,Gujarat Energy Limited,Gujarat,915.81,457.91,10,447.91,HIGH,High,#22C55E,3.15,Gujarat Energy Limited
+98.03,Moradabad,D-TGL,Torrent Gas Limited,Uttar Pradesh,74.27,37.14,0,37.14,HIGH,High,#22C55E,0.26,Torrent Gas Limited
+98.04,Nadiad,D-GEL,Gujarat Energy Limited,Gujarat,111.84,55.92,0,55.92,HIGH,High,#22C55E,0.39,Gujarat Energy Limited
+98.05,Navsari,D-GEL,Gujarat Energy Limited,Gujarat,128.69,64.35,0,64.35,HIGH,High,#22C55E,0.45,Gujarat Energy Limited
+98.06,Rajkot,D-GEL,Gujarat Energy Limited,Gujarat,529.74,264.87,3,261.87,HIGH,High,#22C55E,1.84,Gujarat Energy Limited
+98.07,Surendranagar,D-GEL,Gujarat Energy Limited,Gujarat,116.03,58.02,0,58.02,HIGH,High,#22C55E,0.41,Gujarat Energy Limited
+98.08,Ahmedabad City and Daskroi Area,D-ATGL,Adani Total Gas Ltd,Gujarat,666.01,333.01,0,333.01,HIGH,High,#22C55E,2.34,Adani Total Gas Ltd
+98.09,Hazira,D-GEL,Gujarat Energy Limited,Gujarat,18.54,9.27,0,9.27,LOW,Low,#FCD34D,0.07,Gujarat Energy Limited
+9.81,"Gorakhpur, Sant Kabir Nagar & Kushinagar Districts",D-TGL,Torrent Gas Limited,Uttar Pradesh,102.13,51.07,0,51.07,HIGH,High,#22C55E,0.36,Torrent Gas Limited
+98.10,Valsad,D-GEL,Gujarat Energy Limited,Gujarat,195.21,97.61,0,97.61,HIGH,High,#22C55E,0.69,Gujarat Energy Limited
+98.11,Anand area including Kanjari & Vadtal Villages (in Kheda District),D-CGSML,Charotar Gas Sahakari Manldi Ltd,Gujarat,89.46,44.73,0,44.73,HIGH,High,#22C55E,0.31,Charotar Gas Sahakari Manldi Ltd
+98.12,Bhiwadi (in Alwar District),D-HCGDB,Haryana City Gas Distribution (Bhiwadi) Limited,Rajasthan,35.95,17.98,0,17.98,MEDIUM,Medium,#8ac4f0,0.13,Haryana City Gas Distribution (Bhiwadi) Limited
+98.13,Gurugram-2,D-HCGDL,Haryana City Gas Distribution Limited,Haryana,455.04,227.52,0,227.52,HIGH,High,#22C55E,1.6,Haryana City Gas Distribution Limited
+9.82,"Meerut District (EAAA), Muzaffarnagar & Shamli Districts",D-IGL,Indraprastha Gas Ltd,Uttar Pradesh,154.6,77.3,0,77.3,HIGH,High,#22C55E,0.54,Indraprastha Gas Ltd
+9.83,Moradabad (EAAA) District,D-TGL,Torrent Gas Limited,Uttar Pradesh,50.15,25.08,0,25.08,MEDIUM,Medium,#8ac4f0,0.18,Torrent Gas Limited
+9.84,Unnao (EAAA) District,D-GGL1,Green Gas Limited,Uttarakhand,5.81,2.91,0,2.91,LOW,Low,#FCD34D,0.02,Green Gas Limited
+9.85,Dehradun District,D-GGL,GAIL Gas Limited,West Bengal,29.22,14.61,0,14.61,MEDIUM,Medium,#8ac4f0,0.1,GAIL Gas Limited
+9.86,Burdwan District,D-IAGPL,IndianOil-Adani Gas Private Limited,West Bengal,23.24,11.62,0,11.62,MEDIUM,Medium,#8ac4f0,0.08,IndianOil-Adani Gas Private Limited
+99.01,National Capital Territory of Delhi,D-IGL,Indraprastha Gas Ltd,Delhi,4122.22,2061.11,0,2061.11,HIGH,High,#22C55E,14.48,Indraprastha Gas Ltd
+99.02,Mumbai & Greater Mumbai,D-MGL,Mahanagar Gas Ltd,Maharashtra,1348.89,674.45,0,674.45,HIGH,High,#22C55E,4.74,Mahanagar Gas Ltd
+99.03,Bareilly,D-CUGL,Central UP Gas Limited,Uttar Pradesh,58.82,29.41,6,23.41,MEDIUM,Medium,#8ac4f0,0.16,Central UP Gas Limited
+99.04,Kanpur,D-CUGL,Central UP Gas Limited,Uttar Pradesh,155.71,77.86,0,77.86,HIGH,High,#22C55E,0.55,Central UP Gas Limited
+99.05,"Pune City including Pimpri - Chichwad & adjoining contigeneous areas  Hinjewadi, Chakan, Talegaon",D-MNGL,Maharashtra Natural Gas Limited,Maharashtra,911.36,455.68,0,455.68,HIGH,High,#22C55E,3.2,Maharashtra Natural Gas Limited
+99.06,Vijaywada,D-BGL,Bhagyanagar Gas Limited,Andhra Pradesh,40.73,20.37,0,20.37,MEDIUM,Medium,#8ac4f0,0.14,Bhagyanagar Gas Limited
+99.07,Thane urban and adjoining Municipalities,D-MGL,Mahanagar Gas Ltd,Maharashtra,1508.94,754.47,0,754.47,HIGH,High,#22C55E,5.3,Mahanagar Gas Ltd
+99.08,Indore (including Ujjain City),D-AGL,Aavantika Gas Limited,Madhya Pradesh,178.65,89.33,0,89.33,HIGH,High,#22C55E,0.63,Aavantika Gas Limited
+99.09,Hyderabad,D-BGL,Bhagyanagar Gas Limited,Telangana,282.66,141.33,0,141.33,HIGH,High,#22C55E,0.99,Bhagyanagar Gas Limited
+99.10,Agra,D-GGL1,Green Gas Limited,Uttar Pradesh,137.51,68.76,0,68.76,HIGH,High,#22C55E,0.48,Green Gas Limited
+99.11,Gandhinagar Mehsana Sabarkantha,D-GEL,"Gujarat Energy Limited, Sabarmati Gas Limited",Gujarat,1388.68,694.34,3,691.34,HIGH,High,#22C55E,4.86,"Gujarat Energy Limited, Sabarmati Gas Limited"
+99.12,Gwalior,D-AGL,Aavantika Gas Limited,Madhya Pradesh,66.6,33.3,0,33.3,HIGH,High,#22C55E,0.23,Aavantika Gas Limited
+99.13,Firozabad  (Taj Trapezium Zone),D-GGL,GAIL Gas Limited,Rajasthan,344.78,172.39,0,172.39,HIGH,High,#22C55E,1.21,GAIL Gas Limited
+99.14,Kolkata Muncipal Corporation and Parts of Adjoining Districts,D-BGCL,Bengal Gas Company Limited,West Bengal,43.75,21.88,0,21.88,MEDIUM,Medium,#8ac4f0,0.15,Bengal Gas Company Limited
+99.15,Upper Assam,D-AGCL,Assam Gas Company Limited,Assam,48.22,24.11,0,24.11,MEDIUM,Medium,#8ac4f0,0.17,Assam Gas Company Limited
+99.16,Agartala,D-TNGCL,Tripura Natural Gas Company Limited,Tripura,69.25,34.63,0,34.63,HIGH,High,#22C55E,0.24,Tripura Natural Gas Company Limited
+99.17,Lucknow,D-GGL1,Green Gas Limited,Uttar Pradesh,188.59,94.3,0,94.3,HIGH,High,#22C55E,0.66,Green Gas Limited
+99.18,Vadodara,D-VGL,Vadodara Gas Limited,Gujarat,312.45,156.23,0,156.23,HIGH,High,#22C55E,1.1,Vadodara Gas Limited
+99.19,Ghaziabad & Hapur Districts,D-IGL,Indraprastha Gas Ltd,Uttar Pradesh,592.45,296.23,15.2,281.03,HIGH,High,#22C55E,1.97,Indraprastha Gas Ltd
+99.20,Gautam Budh Nagar District,D-IGL,Indraprastha Gas Ltd,Uttar Pradesh,675.59,337.8,0,337.8,HIGH,High,#22C55E,2.37,Indraprastha Gas Ltd
+NA.04,Gandhinagar,D-GEL,Gujarat Energy Limited,Gujarat,24,12,0,12,MEDIUM,Medium,#8ac4f0,0.08,Gujarat Energy Limited

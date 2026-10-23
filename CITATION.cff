@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "cbg-siting-india: machine-learning analysis of Compressed Biogas plant status and gas-grid siting in India"
+version: "1.0.0"
+date-released: "2026-10-22"
+license: MIT
+authors:
+  - family-names: "Singh"
+    given-names: "Rajshree"
+    affiliation: "Department of Computer Application, Jaypee Institute of Information Technology, Noida, India"
+repository-code: "https://github.com/rajshree-singh/cbg-siting-india"
+keywords:
+  - compressed biogas
+  - biomethane
+  - plant siting
+  - machine learning
+  - SHAP
+  - natural gas pipeline
+  - India
