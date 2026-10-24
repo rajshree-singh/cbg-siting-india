@@ -12,7 +12,7 @@ Of the 776 CBG plants registered on the GOBARdhan portal (Ministry of Petroleum 
 - **location** — distance to the nearest gas-pipeline IP/SV with a tap-off, spare capacity of the city-gas
   geographical area, crop residue and dung within 20 km, and registered competing capacity nearby;
 - **project design** — capacity and feedstock category;
-- **developer** — number of plants registered by the same developer, public-sector oil and gas companies, large corporates.
+- **developer** — number of plants registered by the same developer, public-sector oil and gas companies (including subsidiaries and joint ventures), large corporates.
 
 Models (logistic regression, random forest, XGBoost) are evaluated with 5-fold cross-validation grouped by state and
 explained with SHAP. A 15-km grid within 75 km of a tap-off is then scored for a reference plant, and the 701 tap-off
@@ -88,4 +88,4 @@ for analysis only and do not represent official international boundaries.
 Code: MIT. Data produced by the scripts: CC BY 4.0. Source data remain under the terms of their providers (see `LICENSE-DATA.md`).
 
 ## Citation
-See `CITATION.cff`. Dataset: Singh, R. (2026). *Compressed Biogas (CBG) plants in India: plant-level features, model results and gas-grid siting scores* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23588147
+See `CITATION.cff`. Dataset: Singh, R. (2026). *Compressed Biogas (CBG) plants in India: plant-level features, model results and gas-grid siting scores* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23588148

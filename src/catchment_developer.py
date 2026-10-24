@@ -83,7 +83,10 @@ if __name__ == '__main__':
     m['owner'] = m.name.str.extract(r'^P-([A-Za-z0-9]+)-')[0].str.upper()
     m['dev_n_plants'] = m.groupby('owner').plantId.transform('size').fillna(1)
     m['dev_repeat'] = (m.dev_n_plants >= 3).astype(int)
-    PSU = ['IOCL', 'BPCL', 'HPCL', 'GAIL', 'ONGC', 'NTPC', 'OIL', 'IGL', 'MNGL', 'NTPCVVN', 'GGL', 'BGL']
+    # public-sector oil and gas companies, their subsidiaries and joint ventures
+    # HPCL1, HRGEL: HPCL / HPCL Renewable & Green Energy; IGRPL: IOC GPS Renewables (IndianOil JV); BGBPL: Bharat GPS Bioenergy (BPCL JV)
+    PSU = ['IOCL', 'BPCL', 'HPCL', 'GAIL', 'ONGC', 'NTPC', 'OIL', 'IGL', 'MNGL', 'NTPCVVN', 'GGL', 'BGL',
+           'HPCL1', 'HRGEL', 'IGRPL', 'BGBPL']
     nm = m.name.str.upper()
     m['dev_psu'] = (m.owner.isin(PSU) | nm.str.contains(r'INDIAN OIL|BHARAT PETROLEUM|HINDUSTAN PETROLEUM|\bGAIL\b|\bNTPC\b|\bONGC\b|\bIOCL\b|\bBPCL\b|\bHPCL\b')).astype(int)
     m['dev_large_corp'] = (m.owner.isin(['RIL', 'ADANI', 'TOTAL', 'EVERENVIRO', 'GPS']) |
