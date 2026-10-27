@@ -31,7 +31,7 @@ AUC values are means over 20 random fold assignments; confidence intervals are b
 Feedstock category, plant capacity and developer account for most of the predictive power; location factors alone
 perform no better than an equal-weight multi-criteria score. Results are stable under low and high residue-to-product
 ratios and dung rates (AUC 0.86–0.87; SHAP rank correlation with the base case ≥ 0.99). The siting score separates
-operational from planned plants with an out-of-state AUC of 0.59.
+operational from planned plants with an out-of-state AUC of 0.58.
 
 ## Repository structure
 ```

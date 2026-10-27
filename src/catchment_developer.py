@@ -22,7 +22,7 @@ poly['area_km2'] = poly.area / 1e6
 # ---------- crop residue onto 2011 polygons ----------
 u = pd.read_csv(CROP)
 u = u[u.crop_name.isin(RPR)].copy()
-u['res_t'] = u.production * u.crop_name.map(RPR)
+u['res_t'] = np.where(u.crop_name.isin(AREA_BASED), u.area, u.production) * u.crop_name.map(RPR)
 u['ks'] = u.state_name.map(G.norm).replace(G.STATE_ALIAS)
 early = u[u.year.isin(['2013-2014', '2014-2015', '2015-2016'])]
 e = early.groupby(['ks', 'state_name', 'district_name', 'crop_name', 'year']).res_t.sum().groupby(['ks', 'state_name', 'district_name', 'crop_name']).mean().reset_index()

@@ -1,5 +1,6 @@
 """Step 2: district crop residue (gross) from UPAG APY data, joined to CBG plants by state+district name.
-Gross residue = 3-year average production (2022-23 to 2024-25) x residue-to-product ratio (RPR, config.RPR_SCENARIOS)."""
+Gross residue = 3-year average (2022-23 to 2024-25) of production x residue-to-product ratio, or of area x residue per hectare
+for crops in config.AREA_BASED (config.RPR_SCENARIOS)."""
 import os, sys
 try:
     _HERE = os.path.dirname(os.path.abspath(__file__))
@@ -12,8 +13,9 @@ YEARS=['2022-2023','2023-2024','2024-2025']
 u=pd.read_csv(CROP)
 u=u[u.year.isin(YEARS)&u.crop_name.isin(RPR)]
 # sum seasons within a year, then average over years
-y=u.groupby(['state_name','district_name','crop_name','year']).production.sum().reset_index()
-avg=y.groupby(['state_name','district_name','crop_name']).production.mean().unstack(fill_value=0)
+u['basis']=np.where(u.crop_name.isin(AREA_BASED),u.area,u.production)
+y=u.groupby(['state_name','district_name','crop_name','year']).basis.sum().reset_index()
+avg=y.groupby(['state_name','district_name','crop_name']).basis.mean().unstack(fill_value=0)
 for c in RPR:
     if c not in avg: avg[c]=0
 res=pd.DataFrame({f'res_{c.lower()}_t':avg[c]*RPR[c] for c in RPR})
